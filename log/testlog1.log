@@ -1296,3 +1296,17 @@ Session ID: ef76eb70aa22e4a829aebfe948b8bd17
 2019-07-12 19:16:08,714 [main] INFO com.mobiotics.hits.TESTCASES.Report_JobReport - initilizing framework
 2019-07-12 19:16:17,561 [main] INFO com.mobiotics.hits.TESTCASES.Report_ListPaymentPageTest - initilizing framework
 2019-07-12 19:16:37,601 [main] INFO com.mobiotics.hits.TESTCASES.Device_RetrackActiveDevicePageTest - initilizing framework
+2019-07-16 19:50:33,519 [main] INFO com.mobiotics.hits.TESTCASES.AddNxtPayBouquet1PageTest - initilizing framework
+2019-07-16 19:54:18,254 [main] INFO com.mobiotics.hits.TESTCASES.AddNxtPayBouquet1PageTest - initilizing framework
+2019-07-16 20:00:22,510 [main] INFO com.mobiotics.hits.TESTCASES.AddNxtPayBouquet1PageTest - initilizing framework
+2019-07-16 20:00:49,922 [main] INFO com.mobiotics.hits.TESTCASES.AddNxtPayBouquet1PageTest - implicit login
+2019-07-16 20:00:56,101 [main] INFO com.mobiotics.hits.TESTCASES.AddNxtPayBouquet1PageTest - I' reseting the password
+2019-07-16 20:00:56,102 [main] INFO com.mobiotics.hits.TESTCASES.AddNxtPayBouquet1PageTest - TimeOut:30
+2019-07-16 20:01:00,395 [main] INFO com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page - --------------------------
+2019-07-16 20:01:00,396 [main] INFO com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page - Go with Singal Activation
+2019-07-16 20:01:03,724 [main] INFO com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page - user inter the 1039446606 To add NXT Add ons Carte
+2019-07-16 20:01:03,878 [main] INFO com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page - user clicked on GO Btn
+2019-07-16 20:01:41,316 [main] INFO com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page - Customer Name:-RAKESH KUMAR
+2019-07-16 20:01:41,428 [main] INFO com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page - Number of ALL NxT Pack is available=33
+2019-07-16 20:01:43,833 [main] INFO com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page - User Click on the confirm button
+2019-07-16 20:01:44,525 [main] INFO com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -  Product Name is Kannada Premium Price Of The Plan 168.75

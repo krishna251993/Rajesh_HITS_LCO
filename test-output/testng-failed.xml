@@ -3,14 +3,13 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.mobiotics.hits.TESTCASES.Device_RetrackActiveDevicePageTest">
+      <class name="com.mobiotics.hits.TESTCASES.AddNxtPayBouquet1PageTest">
         <methods>
-          <include name="testDevice_RetrackActiveDevicePageTest"/>
           <include name="shutDown"/>
+          <include name="addNxtPayBouquet1"/>
           <include name="initApplication"/>
-          <include name="testDevice_RetrackActiveDevicePageTestInBulk"/>
         </methods>
-      </class> <!-- com.mobiotics.hits.TESTCASES.Device_RetrackActiveDevicePageTest -->
+      </class> <!-- com.mobiotics.hits.TESTCASES.AddNxtPayBouquet1PageTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

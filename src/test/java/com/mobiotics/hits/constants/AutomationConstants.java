@@ -9,7 +9,7 @@ public interface AutomationConstants
 	public static  final String CONFIG_PATH=System.getProperty("user.dir")+"/Config/";
 	public static  final String CONFIG_FILE="config.properties";
 	public static  final String DRIVER_PATH=System.getProperty("user.dir")+"/Drivers/";
-	public static  final String CHROME_FILE="chromedriver.exe";
+	public static  final String CHROME_FILE="chromedriver";
 	public static  final String GECKO_FILE="geckodriver.exe";
 	public static  final String CHROME_KEY="webdriver.chrome.driver";
 	public static  final String GECKO_KEY="webdriver.gecko.driver";
