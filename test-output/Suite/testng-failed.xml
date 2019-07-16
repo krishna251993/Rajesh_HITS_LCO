@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <listeners>
+    <listener class-name="com.mobiotics.hits.utilities.Reporting"/>
+  </listeners>
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="com.mobiotics.hits.TESTCASES.Product_CancleProduct">
+        <methods>
+          <include name="cancleProductPageTest"/>
+          <include name="shutDown"/>
+          <include name="initApplication"/>
+        </methods>
+      </class> <!-- com.mobiotics.hits.TESTCASES.Product_CancleProduct -->
+      <class name="com.mobiotics.hits.TESTCASES.ProductAddBasePackTest">
+        <methods>
+          <include name="shutDown"/>
+          <include name="initApplication"/>
+          <include name="AddBasePackTest"/>
+        </methods>
+      </class> <!-- com.mobiotics.hits.TESTCASES.ProductAddBasePackTest -->
+      <class name="com.mobiotics.hits.TESTCASES.Report_ExpiryReportPageTest">
+        <methods>
+          <include name="shutDown"/>
+          <include name="testReport_ExpiryReportPageTest"/>
+          <include name="initApplication"/>
+        </methods>
+      </class> <!-- com.mobiotics.hits.TESTCASES.Report_ExpiryReportPageTest -->
+      <class name="com.mobiotics.hits.TESTCASES.renew_BeforeExpiryPageTest">
+        <methods>
+          <include name="renewExpired_Product"/>
+          <include name="shutDown"/>
+          <include name="initApplication"/>
+        </methods>
+      </class> <!-- com.mobiotics.hits.TESTCASES.renew_BeforeExpiryPageTest -->
+      <class name="com.mobiotics.hits.TESTCASES.Customer_ModifyCustomerPageTest">
+        <methods>
+          <include name="shutDown"/>
+          <include name="initApplication"/>
+          <include name="testCustomer_ModifyCustomerPageTest"/>
+        </methods>
+      </class> <!-- com.mobiotics.hits.TESTCASES.Customer_ModifyCustomerPageTest -->
+      <class name="com.mobiotics.hits.TESTCASES.Device_ListDevicesPageTest">
+        <methods>
+          <include name="ListDevicePageTest"/>
+          <include name="shutDown"/>
+          <include name="initApplication"/>
+        </methods>
+      </class> <!-- com.mobiotics.hits.TESTCASES.Device_ListDevicesPageTest -->
+      <class name="com.mobiotics.hits.TESTCASES.Payment_PayForBoxPageTest">
+        <methods>
+          <include name="shutDown"/>
+          <include name="testPayment_PayForBox"/>
+          <include name="initApplication"/>
+        </methods>
+      </class> <!-- com.mobiotics.hits.TESTCASES.Payment_PayForBoxPageTest -->
+      <class name="com.mobiotics.hits.TESTCASES.Renew_AfterExpiryPageTest">
+        <methods>
+          <include name="testRenew_AfterExpiryPageTest"/>
+          <include name="shutDown"/>
+          <include name="initApplication"/>
+        </methods>
+      </class> <!-- com.mobiotics.hits.TESTCASES.Renew_AfterExpiryPageTest -->
+      <class name="com.mobiotics.hits.TESTCASES.Customer_SubscriberPageTest">
+        <methods>
+          <include name="shutDown"/>
+          <include name="subscriberPage_Test"/>
+          <include name="initApplication"/>
+        </methods>
+      </class> <!-- com.mobiotics.hits.TESTCASES.Customer_SubscriberPageTest -->
+      <class name="com.mobiotics.hits.TESTCASES.Report_ListPaymentPageTest">
+        <methods>
+          <include name="shutDown"/>
+          <include name="initApplication"/>
+          <include name="testPayment_ListPaymentPageTest"/>
+        </methods>
+      </class> <!-- com.mobiotics.hits.TESTCASES.Report_ListPaymentPageTest -->
+      <class name="com.mobiotics.hits.TESTCASES.Connection_ActivatePending_PlansPage">
+        <methods>
+          <include name="activatePendingPlanTest"/>
+          <include name="shutDown"/>
+          <include name="initApplication"/>
+        </methods>
+      </class> <!-- com.mobiotics.hits.TESTCASES.Connection_ActivatePending_PlansPage -->
+      <class name="com.mobiotics.hits.TESTCASES.Customer_ListCustomerPageTest">
+        <methods>
+          <include name="shutDown"/>
+          <include name="testCustomer3_ListCustomerPAgeTest"/>
+          <include name="initApplication"/>
+        </methods>
+      </class> <!-- com.mobiotics.hits.TESTCASES.Customer_ListCustomerPageTest -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

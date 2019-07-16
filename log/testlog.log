@@ -1,0 +1,1298 @@
+2019-05-20 13:32:11,017 - com.mobiotics.hits.TESTCASES.Connection_ActivatePending_PlansPage -INFO - initilizing framework
+2019-05-20 13:32:59,796 - com.mobiotics.hits.TESTCASES.Connection_ActivatePending_PlansPage -INFO - implicit login
+2019-05-20 13:33:06,611 - com.mobiotics.hits.TESTCASES.Connection_ActivatePending_PlansPage -INFO - I' reseting the password
+2019-05-20 13:33:06,612 - com.mobiotics.hits.TESTCASES.Connection_ActivatePending_PlansPage -INFO - TimeOut:30
+2019-05-20 13:33:06,627 - com.mobiotics.hits.TESTCASES.Connection_ActivatePending_PlansPage -INFO - implicit login
+2019-05-20 13:33:11,432 - com.mobiotics.hits.TESTCASES.Report_ListPaymentPageTest -INFO - initilizing framework
+2019-05-20 13:33:27,488 - com.mobiotics.hits.TESTCASES.Report_ListPaymentPageTest -INFO - implicit login
+2019-05-20 13:33:33,173 - com.mobiotics.hits.TESTCASES.Report_ListPaymentPageTest -INFO - I' reseting the password
+2019-05-20 13:33:33,173 - com.mobiotics.hits.TESTCASES.Report_ListPaymentPageTest -INFO - TimeOut:30
+2019-05-20 13:33:33,198 - com.mobiotics.hits.TESTCASES.Report_ListPaymentPageTest -INFO - implicit login
+2019-05-20 13:34:05,222 - com.mobiotics.hits.TESTCASES.Customer_createCustomerPageTest -INFO - initilizing framework
+2019-05-20 13:34:15,734 - com.mobiotics.hits.TESTCASES.Customer_createCustomerPageTest -INFO - implicit login
+2019-05-20 13:34:21,316 - com.mobiotics.hits.TESTCASES.Customer_createCustomerPageTest -INFO - I' reseting the password
+2019-05-20 13:34:21,317 - com.mobiotics.hits.TESTCASES.Customer_createCustomerPageTest -INFO - TimeOut:30
+2019-05-20 13:34:25,164 - com.mobiotics.hits.CreateCustomer.CreateCustomerPage -INFO - user is going to create the customer in bulk
+2019-05-20 13:34:26,263 - com.mobiotics.hits.CreateCustomer.CreateCustomerPage -INFO - user has been uploaded the bulk file to create the customer
+2019-05-20 13:34:26,426 - com.mobiotics.hits.CreateCustomer.CreateCustomerPage -INFO - user clicked the the upoload button
+2019-05-20 13:34:28,427 - com.mobiotics.hits.CreateCustomer.CreateCustomerPage -INFO - user is about to click the close
+2019-05-20 13:35:02,456 - com.mobiotics.hits.CreateCustomer.CreateCustomerPage -INFO - Upload success
+2019-05-20 13:35:04,623 - com.mobiotics.hits.CreateCustomer.CreateCustomerPage -INFO - user is going to close the session
+2019-05-20 13:36:06,323 - com.mobiotics.hits.TESTCASES.Customer_ListCustomerPageTest -INFO - initilizing framework
+2019-05-20 13:36:13,420 - com.mobiotics.hits.TESTCASES.Customer_ListCustomerPageTest -INFO - implicit login
+2019-05-20 13:36:19,092 - com.mobiotics.hits.TESTCASES.Customer_ListCustomerPageTest -INFO - I' reseting the password
+2019-05-20 13:36:19,093 - com.mobiotics.hits.TESTCASES.Customer_ListCustomerPageTest -INFO - TimeOut:30
+2019-05-20 13:36:19,097 - com.mobiotics.hits.TESTCASES.Customer_ListCustomerPageTest -INFO - implicit login
+2019-05-20 13:36:50,346 - com.mobiotics.hits.TESTCASES.Customer_ModifyCustomerPageTest -INFO - initilizing framework
+2019-05-20 13:36:57,674 - com.mobiotics.hits.TESTCASES.Customer_ModifyCustomerPageTest -INFO - implicit login
+2019-05-20 13:37:03,408 - com.mobiotics.hits.TESTCASES.Customer_ModifyCustomerPageTest -INFO - I' reseting the password
+2019-05-20 13:37:03,408 - com.mobiotics.hits.TESTCASES.Customer_ModifyCustomerPageTest -INFO - TimeOut:30
+2019-05-20 13:37:03,423 - com.mobiotics.hits.TESTCASES.Customer_ModifyCustomerPageTest -INFO - implicit login
+2019-05-20 13:37:34,467 - com.mobiotics.hits.TESTCASES.Customer_SubscriberPageTest -INFO - initilizing framework
+2019-05-20 13:37:41,251 - com.mobiotics.hits.TESTCASES.Customer_SubscriberPageTest -INFO - implicit login
+2019-05-20 13:37:46,821 - com.mobiotics.hits.TESTCASES.Customer_SubscriberPageTest -INFO - I' reseting the password
+2019-05-20 13:37:46,821 - com.mobiotics.hits.TESTCASES.Customer_SubscriberPageTest -INFO - TimeOut:30
+2019-05-20 13:37:46,827 - com.mobiotics.hits.TESTCASES.Customer_SubscriberPageTest -INFO - implicit login
+2019-05-20 13:38:18,043 - com.mobiotics.hits.TESTCASES.Device_ListDevicesPageTest -INFO - initilizing framework
+2019-05-20 13:38:24,460 - com.mobiotics.hits.TESTCASES.Device_ListDevicesPageTest -INFO - implicit login
+2019-05-20 13:38:30,235 - com.mobiotics.hits.TESTCASES.Device_ListDevicesPageTest -INFO - I' reseting the password
+2019-05-20 13:38:30,245 - com.mobiotics.hits.TESTCASES.Device_ListDevicesPageTest -INFO - TimeOut:30
+2019-05-20 13:38:30,247 - com.mobiotics.hits.TESTCASES.Device_ListDevicesPageTest -INFO - implicit login
+2019-05-20 13:39:01,510 - com.mobiotics.hits.TESTCASES.Device_RetrackActiveDevicePageTest -INFO - initilizing framework
+2019-05-20 13:39:07,830 - com.mobiotics.hits.TESTCASES.Device_RetrackActiveDevicePageTest -INFO - implicit login
+2019-05-20 13:39:13,517 - com.mobiotics.hits.TESTCASES.Device_RetrackActiveDevicePageTest -INFO - I' reseting the password
+2019-05-20 13:39:13,517 - com.mobiotics.hits.TESTCASES.Device_RetrackActiveDevicePageTest -INFO - TimeOut:30
+2019-05-20 13:39:16,416 - com.mobiotics.Device_RetrackActiveDevicePage.RetrackActiveDevicePage -INFO - uploading status:-Upload success
+2019-05-20 13:39:16,487 - com.mobiotics.Device_RetrackActiveDevicePage.RetrackActiveDevicePage -INFO - 
+2019-05-20 13:39:17,724 - com.mobiotics.hits.TESTCASES.DeviceSuspensionPageTest -INFO - initilizing framework
+2019-05-20 13:39:24,092 - com.mobiotics.hits.TESTCASES.DeviceSuspensionPageTest -INFO - implicit login
+2019-05-20 13:39:29,667 - com.mobiotics.hits.TESTCASES.DeviceSuspensionPageTest -INFO - I' reseting the password
+2019-05-20 13:39:29,669 - com.mobiotics.hits.TESTCASES.DeviceSuspensionPageTest -INFO - TimeOut:30
+2019-05-20 13:39:31,832 - com.mobiotics.hits.DeviceSuspensionPage.DeviceSuspensionPage -INFO - Bulk Upload is failed
+2019-05-20 13:39:34,100 - com.mobiotics.hits.TESTCASES.OSDMsgServiceTest -INFO - initilizing framework
+2019-05-20 13:39:41,618 - com.mobiotics.hits.TESTCASES.OSDMsgServiceTest -INFO - implicit login
+2019-05-20 13:39:47,187 - com.mobiotics.hits.TESTCASES.OSDMsgServiceTest -INFO - I' reseting the password
+2019-05-20 13:39:47,188 - com.mobiotics.hits.TESTCASES.OSDMsgServiceTest -INFO - TimeOut:30
+2019-05-20 13:39:47,193 - com.mobiotics.hits.TESTCASES.OSDMsgServiceTest -INFO - implicit login
+2019-05-20 13:40:18,499 - com.mobiotics.hits.TESTCASES.Payment_PayForBoxPageTest -INFO - initilizing framework
+2019-05-20 13:40:24,739 - com.mobiotics.hits.TESTCASES.Payment_PayForBoxPageTest -INFO - implicit login
+2019-05-20 13:40:24,831 - com.mobiotics.hits.TESTCASES.ProductAddBasePackTest -INFO - initilizing framework
+2019-05-20 13:40:45,235 - com.mobiotics.hits.TESTCASES.Product_AddAllA_cartePageTest -INFO - initilizing framework
+2019-05-20 13:41:05,231 - com.mobiotics.hits.TESTCASES.Product_AddNxtPayBouquet -INFO - initilizing framework
+2019-05-20 13:41:24,033 - com.mobiotics.hits.TESTCASES.Product_CancleProduct -INFO - initilizing framework
+2019-05-20 13:41:43,350 - com.mobiotics.hits.TESTCASES.Product_ProductDisconnectPageTest -INFO - initilizing framework
+2019-05-20 13:41:56,113 - com.mobiotics.hits.TESTCASES.Product_ProductReconnectPageTest -INFO - initilizing framework
+2019-05-20 13:42:19,329 - com.mobiotics.hits.TESTCASES.Renew_AfterExpiryPageTest -INFO - initilizing framework
+2019-05-20 13:42:27,506 - com.mobiotics.hits.TESTCASES.Renew_AfterExpiryPageTest -INFO - implicit login
+2019-05-20 13:42:27,555 - com.mobiotics.hits.TESTCASES.renew_BeforeExpiryPageTest -INFO - initilizing framework
+2019-05-20 13:42:35,751 - com.mobiotics.hits.TESTCASES.renew_BeforeExpiryPageTest -INFO - implicit login
+2019-05-20 13:42:35,836 - com.mobiotics.hits.TESTCASES.Report_ExpiryReportPageTest -INFO - initilizing framework
+2019-05-20 16:18:26,910 - com.mobiotics.hits.TESTCASES.Connection_ActivatePending_PlansPage -INFO - initilizing framework
+2019-05-20 16:18:55,246 - com.mobiotics.hits.TESTCASES.Connection_ActivatePending_PlansPage -INFO - implicit login
+2019-05-20 16:19:01,995 - com.mobiotics.hits.TESTCASES.Connection_ActivatePending_PlansPage -INFO - I' reseting the password
+2019-05-20 16:19:01,999 - com.mobiotics.hits.TESTCASES.Connection_ActivatePending_PlansPage -INFO - TimeOut:30
+2019-05-20 16:19:02,070 - com.mobiotics.hits.TESTCASES.Connection_ActivatePending_PlansPage -INFO - implicit login
+2019-05-20 16:25:29,795 - com.mobiotics.hits.TESTCASES.Connection_ActivatePending_PlansPage -INFO - initilizing framework
+2019-05-20 16:25:48,039 - com.mobiotics.hits.TESTCASES.Connection_ActivatePending_PlansPage -INFO - implicit login
+2019-05-20 16:25:56,725 - com.mobiotics.hits.TESTCASES.Connection_ActivatePending_PlansPage -INFO - I' reseting the password
+2019-05-20 16:25:56,729 - com.mobiotics.hits.TESTCASES.Connection_ActivatePending_PlansPage -INFO - TimeOut:30
+2019-06-05 19:49:48,718 - com.mobiotics.hits.TESTCASES.Product_AddNxtPayBouquet -INFO - initilizing framework
+2019-06-05 19:50:10,141 - com.mobiotics.hits.TESTCASES.Product_AddNxtPayBouquet -INFO - implicit login
+2019-06-05 19:50:18,570 - com.mobiotics.hits.TESTCASES.Product_AddNxtPayBouquet -INFO - I' reseting the password
+2019-06-05 19:50:18,570 - com.mobiotics.hits.TESTCASES.Product_AddNxtPayBouquet -INFO - TimeOut:30
+2019-06-05 19:50:22,146 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - I have clicked on the bulkButton
+2019-06-05 19:50:23,761 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - Upload success
+2019-06-05 19:50:23,917 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - user is supposed to click on the submit button
+2019-06-05 19:51:14,427 - com.mobiotics.hits.TESTCASES.Product_AddNxtPayBouquet -INFO - initilizing framework
+2019-06-05 19:51:23,833 - com.mobiotics.hits.TESTCASES.Product_AddNxtPayBouquet -INFO - implicit login
+2019-06-05 19:51:29,622 - com.mobiotics.hits.TESTCASES.Product_AddNxtPayBouquet -INFO - I' reseting the password
+2019-06-05 19:51:29,622 - com.mobiotics.hits.TESTCASES.Product_AddNxtPayBouquet -INFO - TimeOut:30
+2019-06-05 19:51:31,408 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - I have clicked on the bulkButton
+2019-06-05 19:51:32,848 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - Upload success
+2019-06-05 19:51:32,981 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - user is supposed to click on the submit button
+2019-06-07 15:00:31,156 - com.mobiotics.hits.TESTCASES.Product_AddAllA_cartePageTest -INFO - initilizing framework
+2019-06-07 15:00:51,706 - com.mobiotics.hits.TESTCASES.Product_AddAllA_cartePageTest -INFO - implicit login
+2019-06-07 15:00:58,911 - com.mobiotics.hits.TESTCASES.Product_AddAllA_cartePageTest -INFO - I' reseting the password
+2019-06-07 15:00:58,912 - com.mobiotics.hits.TESTCASES.Product_AddAllA_cartePageTest -INFO - TimeOut:30
+2019-06-07 15:01:02,391 - com.mobiotics.hits.product_Addproduct_AddALCartePage.AddAla_CartePage -INFO - clicked again
+2019-06-07 15:01:07,932 - com.mobiotics.hits.product_Addproduct_AddALCartePage.AddAla_CartePage -INFO - user inter the 1040260284 To add Al-A Carte
+2019-06-07 15:01:08,335 - com.mobiotics.hits.product_Addproduct_AddALCartePage.AddAla_CartePage -INFO - user clicked on Go Btn
+2019-06-07 15:01:10,855 - com.mobiotics.hits.product_Addproduct_AddALCartePage.AddAla_CartePage -INFO - Customer Name-->[[ChromeDriver: chrome on XP (c5c652cff272a1b854238dee24bf83c6)] -> id: customerName]
+2019-06-07 15:01:10,933 - com.mobiotics.hits.product_Addproduct_AddALCartePage.AddAla_CartePage -INFO - Number of ALL A- carte is available=15
+2019-06-07 15:01:11,534 - com.mobiotics.hits.product_Addproduct_AddALCartePage.AddAla_CartePage -INFO - User Click on the confirm button
+2019-06-07 15:01:12,704 - com.mobiotics.hits.product_Addproduct_AddALCartePage.AddAla_CartePage -INFO -  Product Name is NAT GEO CHANNEL Price Of The Plan 2.58 Expiry Date Is On 0.46
+2019-06-07 15:02:23,242 - com.mobiotics.hits.TESTCASES.Product_AddAllA_cartePageTest -INFO - initilizing framework
+2019-06-07 15:02:32,365 - com.mobiotics.hits.TESTCASES.Product_AddAllA_cartePageTest -INFO - implicit login
+2019-06-07 15:02:38,621 - com.mobiotics.hits.TESTCASES.Product_AddAllA_cartePageTest -INFO - I' reseting the password
+2019-06-07 15:02:38,655 - com.mobiotics.hits.TESTCASES.Product_AddAllA_cartePageTest -INFO - TimeOut:30
+2019-06-07 15:02:40,515 - com.mobiotics.hits.product_Addproduct_AddALCartePage.AddAla_CartePage -INFO - clicked again
+2019-06-07 15:02:42,532 - com.mobiotics.hits.product_Addproduct_AddALCartePage.AddAla_CartePage -INFO - user inter the 1040260284 To add Al-A Carte
+2019-06-07 15:02:42,986 - com.mobiotics.hits.product_Addproduct_AddALCartePage.AddAla_CartePage -INFO - user clicked on Go Btn
+2019-06-07 15:02:45,134 - com.mobiotics.hits.product_Addproduct_AddALCartePage.AddAla_CartePage -INFO - Customer Name-->[[ChromeDriver: chrome on XP (01c4781a0415ec070ccd3dbc49e4e5fa)] -> id: customerName]
+2019-06-07 15:02:45,183 - com.mobiotics.hits.product_Addproduct_AddALCartePage.AddAla_CartePage -INFO - Number of ALL A- carte is available=15
+2019-06-07 15:02:45,736 - com.mobiotics.hits.product_Addproduct_AddALCartePage.AddAla_CartePage -INFO - User Click on the confirm button
+2019-06-07 15:02:46,541 - com.mobiotics.hits.product_Addproduct_AddALCartePage.AddAla_CartePage -INFO -  Product Name is HBO Price Of The Plan 0 Expiry Date Is On 0
+2019-06-07 15:18:37,796 - com.mobiotics.hits.TESTCASES.OSDMsgServiceTest -INFO - initilizing framework
+2019-06-07 15:18:47,138 - com.mobiotics.hits.TESTCASES.OSDMsgServiceTest -INFO - implicit login
+2019-06-07 15:18:53,322 - com.mobiotics.hits.TESTCASES.OSDMsgServiceTest -INFO - I' reseting the password
+2019-06-07 15:18:53,323 - com.mobiotics.hits.TESTCASES.OSDMsgServiceTest -INFO - TimeOut:30
+2019-06-07 15:18:56,615 - com.mobiotics.hits.product_Addproduct_AddALCartePage.AddAla_CartePage -INFO - Upload success
+2019-06-07 15:18:56,833 - com.mobiotics.hits.product_Addproduct_AddALCartePage.AddAla_CartePage -INFO - Request successfully submitted
+2019-06-07 15:23:47,975 - com.mobiotics.hits.TESTCASES.Product_AddAllA_cartePageTest -INFO - initilizing framework
+2019-06-07 15:23:56,351 - com.mobiotics.hits.TESTCASES.Product_AddAllA_cartePageTest -INFO - implicit login
+2019-06-07 15:24:02,568 - com.mobiotics.hits.TESTCASES.Product_AddAllA_cartePageTest -INFO - I' reseting the password
+2019-06-07 15:24:02,569 - com.mobiotics.hits.TESTCASES.Product_AddAllA_cartePageTest -INFO - TimeOut:30
+2019-06-07 15:24:04,643 - com.mobiotics.hits.product_Addproduct_AddALCartePage.AddAla_CartePage -INFO - clicked again
+2019-06-07 15:24:06,396 - com.mobiotics.hits.product_Addproduct_AddALCartePage.AddAla_CartePage -INFO - user inter the 1040260284 To add Al-A Carte
+2019-06-07 15:24:06,889 - com.mobiotics.hits.product_Addproduct_AddALCartePage.AddAla_CartePage -INFO - user clicked on Go Btn
+2019-06-07 15:24:08,621 - com.mobiotics.hits.product_Addproduct_AddALCartePage.AddAla_CartePage -INFO - Customer Name-->[[ChromeDriver: chrome on XP (ad5cd72314a05312e34fdb671f253a87)] -> id: customerName]
+2019-06-07 15:24:08,669 - com.mobiotics.hits.product_Addproduct_AddALCartePage.AddAla_CartePage -INFO - Number of ALL A- carte is available=15
+2019-06-07 15:24:09,193 - com.mobiotics.hits.product_Addproduct_AddALCartePage.AddAla_CartePage -INFO - User Click on the confirm button
+2019-06-07 15:24:09,962 - com.mobiotics.hits.product_Addproduct_AddALCartePage.AddAla_CartePage -INFO -  Product Name is NDTV INDIA Price Of The Plan 0 Expiry Date Is On 0
+2019-06-07 15:24:33,491 - com.mobiotics.hits.TESTCASES.Product_AddAllA_cartePageTest -INFO - initilizing framework
+2019-06-07 15:24:42,102 - com.mobiotics.hits.TESTCASES.Product_AddAllA_cartePageTest -INFO - implicit login
+2019-06-07 15:24:48,038 - com.mobiotics.hits.TESTCASES.Product_AddAllA_cartePageTest -INFO - I' reseting the password
+2019-06-07 15:24:48,040 - com.mobiotics.hits.TESTCASES.Product_AddAllA_cartePageTest -INFO - TimeOut:30
+2019-06-07 15:24:49,630 - com.mobiotics.hits.product_Addproduct_AddALCartePage.AddAla_CartePage -INFO - clicked again
+2019-06-07 15:24:51,617 - com.mobiotics.hits.product_Addproduct_AddALCartePage.AddAla_CartePage -INFO - user inter the 1040260284 To add Al-A Carte
+2019-06-07 15:24:52,002 - com.mobiotics.hits.product_Addproduct_AddALCartePage.AddAla_CartePage -INFO - user clicked on Go Btn
+2019-06-07 15:24:53,469 - com.mobiotics.hits.product_Addproduct_AddALCartePage.AddAla_CartePage -INFO - Customer Name-->[[ChromeDriver: chrome on XP (d193b920b0b9e34e94d8f34ae9e4727f)] -> id: customerName]
+2019-06-07 15:24:53,519 - com.mobiotics.hits.product_Addproduct_AddALCartePage.AddAla_CartePage -INFO - Number of ALL A- carte is available=15
+2019-06-07 15:24:54,093 - com.mobiotics.hits.product_Addproduct_AddALCartePage.AddAla_CartePage -INFO - User Click on the confirm button
+2019-06-07 15:24:54,801 - com.mobiotics.hits.product_Addproduct_AddALCartePage.AddAla_CartePage -INFO -  Product Name is ANIMAL PLANET Price Of The Plan 2.59 Expiry Date Is On 0.46
+2019-06-07 15:25:10,832 - com.mobiotics.hits.TESTCASES.Product_AddAllA_cartePageTest -INFO - initilizing framework
+2019-06-07 15:25:20,331 - com.mobiotics.hits.TESTCASES.Product_AddAllA_cartePageTest -INFO - implicit login
+2019-06-07 15:25:26,247 - com.mobiotics.hits.TESTCASES.Product_AddAllA_cartePageTest -INFO - I' reseting the password
+2019-06-07 15:25:26,248 - com.mobiotics.hits.TESTCASES.Product_AddAllA_cartePageTest -INFO - TimeOut:30
+2019-06-07 15:25:28,097 - com.mobiotics.hits.product_Addproduct_AddALCartePage.AddAla_CartePage -INFO - clicked again
+2019-06-07 15:25:30,496 - com.mobiotics.hits.product_Addproduct_AddALCartePage.AddAla_CartePage -INFO - user inter the 1040260284 To add Al-A Carte
+2019-06-07 15:25:30,811 - com.mobiotics.hits.product_Addproduct_AddALCartePage.AddAla_CartePage -INFO - user clicked on Go Btn
+2019-06-07 15:25:32,749 - com.mobiotics.hits.product_Addproduct_AddALCartePage.AddAla_CartePage -INFO - Customer Name-->[[ChromeDriver: chrome on XP (f750edf832d880564bbc074fdaffe631)] -> id: customerName]
+2019-06-07 15:25:32,798 - com.mobiotics.hits.product_Addproduct_AddALCartePage.AddAla_CartePage -INFO - Number of ALL A- carte is available=15
+2019-06-07 15:25:33,308 - com.mobiotics.hits.product_Addproduct_AddALCartePage.AddAla_CartePage -INFO - User Click on the confirm button
+2019-06-07 15:25:34,448 - com.mobiotics.hits.product_Addproduct_AddALCartePage.AddAla_CartePage -INFO -  Product Name is MAA MUSIC Price Of The Plan 3.15 Expiry Date Is On 0.56
+2019-06-07 15:25:49,786 - com.mobiotics.hits.TESTCASES.Product_AddAllA_cartePageTest -INFO - initilizing framework
+2019-06-07 15:25:58,442 - com.mobiotics.hits.TESTCASES.Product_AddAllA_cartePageTest -INFO - implicit login
+2019-06-07 15:26:04,638 - com.mobiotics.hits.TESTCASES.Product_AddAllA_cartePageTest -INFO - I' reseting the password
+2019-06-07 15:26:04,639 - com.mobiotics.hits.TESTCASES.Product_AddAllA_cartePageTest -INFO - TimeOut:30
+2019-06-07 15:26:06,367 - com.mobiotics.hits.product_Addproduct_AddALCartePage.AddAla_CartePage -INFO - clicked again
+2019-06-07 15:26:08,821 - com.mobiotics.hits.product_Addproduct_AddALCartePage.AddAla_CartePage -INFO - user inter the 1040260284 To add Al-A Carte
+2019-06-07 15:26:09,142 - com.mobiotics.hits.product_Addproduct_AddALCartePage.AddAla_CartePage -INFO - user clicked on Go Btn
+2019-06-07 15:26:10,598 - com.mobiotics.hits.product_Addproduct_AddALCartePage.AddAla_CartePage -INFO - Customer Name-->[[ChromeDriver: chrome on XP (8f9c10f67a177687ef6fd0b9fff6e60e)] -> id: customerName]
+2019-06-07 15:26:10,651 - com.mobiotics.hits.product_Addproduct_AddALCartePage.AddAla_CartePage -INFO - Number of ALL A- carte is available=15
+2019-06-07 15:26:11,216 - com.mobiotics.hits.product_Addproduct_AddALCartePage.AddAla_CartePage -INFO - User Click on the confirm button
+2019-06-07 15:26:12,667 - com.mobiotics.hits.product_Addproduct_AddALCartePage.AddAla_CartePage -INFO -  Product Name is 24 Ghanta Price Of The Plan 3.11 Expiry Date Is On 0.56
+2019-06-07 15:27:37,679 - com.mobiotics.hits.TESTCASES.Product_AddNxtPayBouquet -INFO - initilizing framework
+2019-06-07 15:27:46,630 - com.mobiotics.hits.TESTCASES.Product_AddNxtPayBouquet -INFO - implicit login
+2019-06-07 15:27:53,401 - com.mobiotics.hits.TESTCASES.Product_AddNxtPayBouquet -INFO - I' reseting the password
+2019-06-07 15:27:53,402 - com.mobiotics.hits.TESTCASES.Product_AddNxtPayBouquet -INFO - TimeOut:30
+2019-06-07 15:27:55,338 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - --------------------------
+2019-06-07 15:27:55,340 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - Go with Singal Activation
+2019-06-07 15:27:57,171 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - user inter the 1039036647 To add NXT Add ons Carte
+2019-06-07 15:27:57,462 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - user clicked on GO Btn
+2019-06-07 15:28:55,031 - com.mobiotics.hits.TESTCASES.Product_AddNxtPayBouquet -INFO - initilizing framework
+2019-06-07 15:29:05,582 - com.mobiotics.hits.TESTCASES.Product_AddNxtPayBouquet -INFO - implicit login
+2019-06-07 15:29:11,554 - com.mobiotics.hits.TESTCASES.Product_AddNxtPayBouquet -INFO - I' reseting the password
+2019-06-07 15:29:11,555 - com.mobiotics.hits.TESTCASES.Product_AddNxtPayBouquet -INFO - TimeOut:30
+2019-06-07 15:29:13,239 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - --------------------------
+2019-06-07 15:29:13,239 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - Go with Singal Activation
+2019-06-07 15:29:15,192 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - user inter the 1039036647 To add NXT Add ons Carte
+2019-06-07 15:29:15,547 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - user clicked on GO Btn
+2019-06-07 15:35:24,845 - com.mobiotics.hits.TESTCASES.Product_ProductDisconnectPageTest -INFO - initilizing framework
+2019-06-07 15:35:33,473 - com.mobiotics.hits.TESTCASES.Product_ProductDisconnectPageTest -INFO - implicit login
+2019-06-07 15:35:40,166 - com.mobiotics.hits.TESTCASES.Product_ProductDisconnectPageTest -INFO - I' reseting the password
+2019-06-07 15:35:40,167 - com.mobiotics.hits.TESTCASES.Product_ProductDisconnectPageTest -INFO - TimeOut:30
+2019-06-07 15:35:48,777 - com.mobiotics.hits.product_ProductDisconnect.ProductDisconnectPage -INFO - user entered 1040260293 for singal disconnection
+2019-06-07 15:35:49,085 - com.mobiotics.hits.product_ProductDisconnect.ProductDisconnectPage -INFO - user clicked to Go button
+2019-06-07 15:36:43,915 - com.mobiotics.hits.TESTCASES.Product_AddAllA_cartePageTest -INFO - initilizing framework
+2019-06-07 15:36:54,844 - com.mobiotics.hits.TESTCASES.Product_AddAllA_cartePageTest -INFO - implicit login
+2019-06-07 15:37:00,810 - com.mobiotics.hits.TESTCASES.Product_AddAllA_cartePageTest -INFO - I' reseting the password
+2019-06-07 15:37:00,812 - com.mobiotics.hits.TESTCASES.Product_AddAllA_cartePageTest -INFO - TimeOut:30
+2019-06-07 15:37:02,802 - com.mobiotics.hits.product_Addproduct_AddALCartePage.AddAla_CartePage -INFO - clicked again
+2019-06-07 15:37:04,497 - com.mobiotics.hits.product_Addproduct_AddALCartePage.AddAla_CartePage -INFO - user inter the 1040260293 To add Al-A Carte
+2019-06-07 15:37:04,857 - com.mobiotics.hits.product_Addproduct_AddALCartePage.AddAla_CartePage -INFO - user clicked on Go Btn
+2019-06-07 15:37:07,027 - com.mobiotics.hits.product_Addproduct_AddALCartePage.AddAla_CartePage -INFO - Customer Name-->[[ChromeDriver: chrome on XP (71e8a9b10352f28f0d363e3b163e24ea)] -> id: customerName]
+2019-06-07 15:37:07,075 - com.mobiotics.hits.product_Addproduct_AddALCartePage.AddAla_CartePage -INFO - Number of ALL A- carte is available=15
+2019-06-07 15:37:07,605 - com.mobiotics.hits.product_Addproduct_AddALCartePage.AddAla_CartePage -INFO - User Click on the confirm button
+2019-06-07 15:37:08,724 - com.mobiotics.hits.product_Addproduct_AddALCartePage.AddAla_CartePage -INFO -  Product Name is NDTV 24x7 Price Of The Plan 2.88 Expiry Date Is On 0.52
+2019-06-07 15:37:29,514 - com.mobiotics.hits.TESTCASES.Product_AddAllA_cartePageTest -INFO - initilizing framework
+2019-06-07 15:37:37,879 - com.mobiotics.hits.TESTCASES.Product_AddAllA_cartePageTest -INFO - implicit login
+2019-06-07 15:37:44,150 - com.mobiotics.hits.TESTCASES.Product_AddAllA_cartePageTest -INFO - I' reseting the password
+2019-06-07 15:37:44,151 - com.mobiotics.hits.TESTCASES.Product_AddAllA_cartePageTest -INFO - TimeOut:30
+2019-06-07 15:37:45,962 - com.mobiotics.hits.product_Addproduct_AddALCartePage.AddAla_CartePage -INFO - clicked again
+2019-06-07 15:37:47,930 - com.mobiotics.hits.product_Addproduct_AddALCartePage.AddAla_CartePage -INFO - user inter the 1040260293 To add Al-A Carte
+2019-06-07 15:37:48,305 - com.mobiotics.hits.product_Addproduct_AddALCartePage.AddAla_CartePage -INFO - user clicked on Go Btn
+2019-06-07 15:37:49,730 - com.mobiotics.hits.product_Addproduct_AddALCartePage.AddAla_CartePage -INFO - Customer Name-->[[ChromeDriver: chrome on XP (d26868de3d0afafdf602c1f850538480)] -> id: customerName]
+2019-06-07 15:37:49,786 - com.mobiotics.hits.product_Addproduct_AddALCartePage.AddAla_CartePage -INFO - Number of ALL A- carte is available=15
+2019-06-07 15:37:50,291 - com.mobiotics.hits.product_Addproduct_AddALCartePage.AddAla_CartePage -INFO - User Click on the confirm button
+2019-06-07 15:37:51,342 - com.mobiotics.hits.product_Addproduct_AddALCartePage.AddAla_CartePage -INFO -  Product Name is CNN NEWS18 Price Of The Plan 2.59 Expiry Date Is On 0.46
+2019-06-07 15:38:08,739 - com.mobiotics.hits.TESTCASES.Product_AddAllA_cartePageTest -INFO - initilizing framework
+2019-06-07 15:38:17,381 - com.mobiotics.hits.TESTCASES.Product_AddAllA_cartePageTest -INFO - implicit login
+2019-06-07 15:38:23,291 - com.mobiotics.hits.TESTCASES.Product_AddAllA_cartePageTest -INFO - I' reseting the password
+2019-06-07 15:38:23,293 - com.mobiotics.hits.TESTCASES.Product_AddAllA_cartePageTest -INFO - TimeOut:30
+2019-06-07 15:38:24,840 - com.mobiotics.hits.product_Addproduct_AddALCartePage.AddAla_CartePage -INFO - clicked again
+2019-06-07 15:38:26,968 - com.mobiotics.hits.product_Addproduct_AddALCartePage.AddAla_CartePage -INFO - user inter the 1040260293 To add Al-A Carte
+2019-06-07 15:38:27,255 - com.mobiotics.hits.product_Addproduct_AddALCartePage.AddAla_CartePage -INFO - user clicked on Go Btn
+2019-06-07 15:38:28,797 - com.mobiotics.hits.product_Addproduct_AddALCartePage.AddAla_CartePage -INFO - Customer Name-->[[ChromeDriver: chrome on XP (c824df1d4e99a224cb1f3b9510530da6)] -> id: customerName]
+2019-06-07 15:38:28,859 - com.mobiotics.hits.product_Addproduct_AddALCartePage.AddAla_CartePage -INFO - Number of ALL A- carte is available=15
+2019-06-07 15:38:29,448 - com.mobiotics.hits.product_Addproduct_AddALCartePage.AddAla_CartePage -INFO - User Click on the confirm button
+2019-06-07 15:38:30,640 - com.mobiotics.hits.product_Addproduct_AddALCartePage.AddAla_CartePage -INFO -  Product Name is TEN 2 HD Price Of The Plan 0 Expiry Date Is On 0
+2019-06-07 15:40:10,745 - com.mobiotics.hits.TESTCASES.Connection_ActivatePending_PlansPage -INFO - initilizing framework
+2019-06-07 15:40:32,151 - com.mobiotics.hits.TESTCASES.Connection_ActivatePending_PlansPage -INFO - implicit login
+2019-06-07 15:40:38,119 - com.mobiotics.hits.TESTCASES.Connection_ActivatePending_PlansPage -INFO - I' reseting the password
+2019-06-07 15:40:38,120 - com.mobiotics.hits.TESTCASES.Connection_ActivatePending_PlansPage -INFO - TimeOut:30
+2019-06-07 15:41:16,182 - com.mobiotics.hits.TESTCASES.Connection_ActivatePending_PlansPage -INFO - initilizing framework
+2019-06-07 15:41:24,914 - com.mobiotics.hits.TESTCASES.Connection_ActivatePending_PlansPage -INFO - implicit login
+2019-06-07 15:41:30,773 - com.mobiotics.hits.TESTCASES.Connection_ActivatePending_PlansPage -INFO - I' reseting the password
+2019-06-07 15:41:30,774 - com.mobiotics.hits.TESTCASES.Connection_ActivatePending_PlansPage -INFO - TimeOut:30
+2019-06-07 15:41:35,742 - com.mobiotics.hits.product_Addproduct_AddALCartePage.AddAla_CartePage -INFO - package Name:-
+2019-06-07 15:41:35,872 - com.mobiotics.hits.product_Addproduct_AddALCartePage.AddAla_CartePage -INFO - content Price:-0.00
+2019-06-07 15:41:36,010 - com.mobiotics.hits.product_Addproduct_AddALCartePage.AddAla_CartePage -INFO - Total Price:-0.00
+2019-06-07 15:41:36,150 - com.mobiotics.hits.product_Addproduct_AddALCartePage.AddAla_CartePage -INFO - contract ID:-17728051
+2019-06-07 15:41:36,236 - com.mobiotics.hits.product_Addproduct_AddALCartePage.AddAla_CartePage -INFO - Expiry Date:-06 - 07 - 2019
+2019-06-07 15:41:46,159 - com.mobiotics.hits.product_Addproduct_AddALCartePage.AddAla_CartePage -INFO -  ProductName is NXTB Marathi Premium Status Of The Plan is SUCCESS ErrorMsg is --- ErrorCode is ---
+2019-06-07 15:42:09,849 - com.mobiotics.hits.TESTCASES.Connection_ActivatePending_PlansPage -INFO - initilizing framework
+2019-06-07 15:42:18,628 - com.mobiotics.hits.TESTCASES.Connection_ActivatePending_PlansPage -INFO - implicit login
+2019-06-07 15:42:24,780 - com.mobiotics.hits.TESTCASES.Connection_ActivatePending_PlansPage -INFO - I' reseting the password
+2019-06-07 15:42:24,782 - com.mobiotics.hits.TESTCASES.Connection_ActivatePending_PlansPage -INFO - TimeOut:30
+2019-06-07 15:42:30,359 - com.mobiotics.hits.product_Addproduct_AddALCartePage.AddAla_CartePage -INFO - package Name:-
+2019-06-07 15:42:30,512 - com.mobiotics.hits.product_Addproduct_AddALCartePage.AddAla_CartePage -INFO - content Price:-0.00
+2019-06-07 15:42:30,648 - com.mobiotics.hits.product_Addproduct_AddALCartePage.AddAla_CartePage -INFO - Total Price:-0.00
+2019-06-07 15:42:30,762 - com.mobiotics.hits.product_Addproduct_AddALCartePage.AddAla_CartePage -INFO - contract ID:-17728051
+2019-06-07 15:42:30,863 - com.mobiotics.hits.product_Addproduct_AddALCartePage.AddAla_CartePage -INFO - Expiry Date:-06 - 07 - 2019
+2019-06-07 15:42:40,342 - com.mobiotics.hits.product_Addproduct_AddALCartePage.AddAla_CartePage -INFO -  ProductName is NXTB Marathi Premium Status Of The Plan is SUCCESS ErrorMsg is --- ErrorCode is ---
+2019-06-07 15:44:05,209 - com.mobiotics.hits.TESTCASES.Customer_RefundFeatureTest -INFO - initilizing framework
+2019-06-07 15:44:14,522 - com.mobiotics.hits.TESTCASES.Customer_RefundFeatureTest -INFO - implicit login
+2019-06-07 15:44:20,628 - com.mobiotics.hits.TESTCASES.Customer_RefundFeatureTest -INFO - I' reseting the password
+2019-06-07 15:44:20,629 - com.mobiotics.hits.TESTCASES.Customer_RefundFeatureTest -INFO - TimeOut:30
+2019-06-07 15:45:05,141 - com.mobiotics.hits.TESTCASES.Customer_RefundFeatureTest -INFO - initilizing framework
+2019-06-07 15:45:13,679 - com.mobiotics.hits.TESTCASES.Customer_RefundFeatureTest -INFO - implicit login
+2019-06-07 15:45:20,071 - com.mobiotics.hits.TESTCASES.Customer_RefundFeatureTest -INFO - I' reseting the password
+2019-06-07 15:45:20,072 - com.mobiotics.hits.TESTCASES.Customer_RefundFeatureTest -INFO - TimeOut:30
+2019-06-07 15:49:00,902 - com.mobiotics.hits.TESTCASES.Customer_SubscriberPageTest -INFO - initilizing framework
+2019-06-07 15:49:10,497 - com.mobiotics.hits.TESTCASES.Customer_SubscriberPageTest -INFO - implicit login
+2019-06-07 15:49:16,528 - com.mobiotics.hits.TESTCASES.Customer_SubscriberPageTest -INFO - I' reseting the password
+2019-06-07 15:49:16,529 - com.mobiotics.hits.TESTCASES.Customer_SubscriberPageTest -INFO - TimeOut:30
+2019-06-07 15:50:22,236 - com.mobiotics.hits.TESTCASES.Device_ListDevicesPageTest -INFO - initilizing framework
+2019-06-07 15:50:33,548 - com.mobiotics.hits.TESTCASES.Device_ListDevicesPageTest -INFO - implicit login
+2019-06-07 15:50:39,459 - com.mobiotics.hits.TESTCASES.Device_ListDevicesPageTest -INFO - I' reseting the password
+2019-06-07 15:50:39,461 - com.mobiotics.hits.TESTCASES.Device_ListDevicesPageTest -INFO - TimeOut:30
+2019-06-07 15:52:59,015 - com.mobiotics.hits.TESTCASES.Device_RetrackActiveDevicePageTest -INFO - initilizing framework
+2019-06-07 15:53:07,507 - com.mobiotics.hits.TESTCASES.Device_RetrackActiveDevicePageTest -INFO - implicit login
+2019-06-07 15:53:13,624 - com.mobiotics.hits.TESTCASES.Device_RetrackActiveDevicePageTest -INFO - I' reseting the password
+2019-06-07 15:53:13,625 - com.mobiotics.hits.TESTCASES.Device_RetrackActiveDevicePageTest -INFO - TimeOut:30
+2019-06-07 15:53:16,930 - com.mobiotics.Device_RetrackActiveDevicePage.RetrackActiveDevicePage -INFO - uploading status:-Upload success
+2019-06-07 15:53:17,086 - com.mobiotics.Device_RetrackActiveDevicePage.RetrackActiveDevicePage -INFO - Request successfully submitted
+2019-06-07 15:53:39,035 - com.mobiotics.hits.TESTCASES.DeviceSuspensionPageTest -INFO - initilizing framework
+2019-06-07 15:53:47,457 - com.mobiotics.hits.TESTCASES.DeviceSuspensionPageTest -INFO - implicit login
+2019-06-07 15:53:53,532 - com.mobiotics.hits.TESTCASES.DeviceSuspensionPageTest -INFO - I' reseting the password
+2019-06-07 15:53:53,533 - com.mobiotics.hits.TESTCASES.DeviceSuspensionPageTest -INFO - TimeOut:30
+2019-06-07 15:53:57,201 - com.mobiotics.hits.DeviceSuspensionPage.DeviceSuspensionPage -INFO - Bulk Upload is failed
+2019-06-07 15:54:40,151 - com.mobiotics.hits.TESTCASES.DeviceSuspensionPageTest -INFO - initilizing framework
+2019-06-07 15:54:48,415 - com.mobiotics.hits.TESTCASES.DeviceSuspensionPageTest -INFO - implicit login
+2019-06-07 15:54:54,710 - com.mobiotics.hits.TESTCASES.DeviceSuspensionPageTest -INFO - I' reseting the password
+2019-06-07 15:54:54,711 - com.mobiotics.hits.TESTCASES.DeviceSuspensionPageTest -INFO - TimeOut:30
+2019-06-07 15:55:00,294 - com.mobiotics.hits.DeviceSuspensionPage.DeviceSuspensionPage -INFO - Customer can't suspend with current basepack product Id.
+2019-06-07 15:55:34,936 - com.mobiotics.hits.TESTCASES.Product_CancleProduct -INFO - initilizing framework
+2019-06-07 15:55:46,671 - com.mobiotics.hits.TESTCASES.Product_CancleProduct -INFO - implicit login
+2019-06-07 15:55:52,512 - com.mobiotics.hits.TESTCASES.Product_CancleProduct -INFO - I' reseting the password
+2019-06-07 15:55:52,513 - com.mobiotics.hits.TESTCASES.Product_CancleProduct -INFO - TimeOut:30
+2019-06-07 15:55:55,015 - com.mobiotics.hits.product_CancelPeroduct.CancelProductTestPage -INFO - clicked again
+2019-06-07 15:55:57,020 - com.mobiotics.hits.product_CancelPeroduct.CancelProductTestPage -INFO - user inter the 1040260293 To add Al-A Carte
+2019-06-07 15:55:57,359 - com.mobiotics.hits.product_CancelPeroduct.CancelProductTestPage -INFO - user clicked on Go Btn
+2019-06-07 15:55:58,229 - com.mobiotics.hits.product_CancelPeroduct.CancelProductTestPage -INFO - Customer Name-->[[ChromeDriver: chrome on XP (3d69b42e97cca3eec2dde7bec5b1fe5f)] -> id: customerName]
+2019-06-07 15:55:58,280 - com.mobiotics.hits.product_CancelPeroduct.CancelProductTestPage -INFO - Number of product are available to cancel=3
+2019-06-07 15:55:58,929 - com.mobiotics.hits.product_CancelPeroduct.CancelProductTestPage -INFO - User Click on the confirm button
+2019-06-07 15:55:59,821 - com.mobiotics.hits.product_CancelPeroduct.CancelProductTestPage -INFO -  Product Name is CNN NEWS18 Price Of The Plan  Expiry Date Is On 06-06-2019
+2019-06-07 15:56:30,440 - com.mobiotics.hits.TESTCASES.Product_ProductDisconnectPageTest -INFO - initilizing framework
+2019-06-07 15:56:44,307 - com.mobiotics.hits.TESTCASES.Product_ProductDisconnectPageTest -INFO - implicit login
+2019-06-07 15:56:50,301 - com.mobiotics.hits.TESTCASES.Product_ProductDisconnectPageTest -INFO - I' reseting the password
+2019-06-07 15:56:50,302 - com.mobiotics.hits.TESTCASES.Product_ProductDisconnectPageTest -INFO - TimeOut:30
+2019-06-07 15:56:59,274 - com.mobiotics.hits.product_ProductDisconnect.ProductDisconnectPage -INFO - user entered 1040260293 for singal disconnection
+2019-06-07 15:56:59,669 - com.mobiotics.hits.product_ProductDisconnect.ProductDisconnectPage -INFO - user clicked to Go button
+2019-06-07 16:58:46,463 - com.mobiotics.hits.TESTCASES.Product_ProductReconnectPageTest -INFO - initilizing framework
+2019-06-07 16:58:58,426 - com.mobiotics.hits.TESTCASES.Product_ProductReconnectPageTest -INFO - implicit login
+2019-06-07 16:59:05,212 - com.mobiotics.hits.TESTCASES.Product_ProductReconnectPageTest -INFO - I' reseting the password
+2019-06-07 16:59:05,215 - com.mobiotics.hits.TESTCASES.Product_ProductReconnectPageTest -INFO - TimeOut:30
+2019-06-07 16:59:16,075 - com.mobiotics.hits.product_ProductDisconnect.ProductDisconnectPage -INFO - user entered wrong customerID
+2019-06-07 16:59:16,199 - com.mobiotics.hits.product_ProductDisconnect.ProductDisconnectPage -INFO - CustomerID entered by the users=No Product Available To Reconnect
+2019-06-07 16:59:47,035 - com.mobiotics.hits.TESTCASES.Product_ProductReconnectPageTest -INFO - initilizing framework
+2019-06-07 16:59:56,994 - com.mobiotics.hits.TESTCASES.Product_ProductReconnectPageTest -INFO - implicit login
+2019-06-07 17:00:03,124 - com.mobiotics.hits.TESTCASES.Product_ProductReconnectPageTest -INFO - I' reseting the password
+2019-06-07 17:00:03,125 - com.mobiotics.hits.TESTCASES.Product_ProductReconnectPageTest -INFO - TimeOut:30
+2019-06-07 17:00:12,699 - com.mobiotics.hits.product_ProductDisconnect.ProductDisconnectPage -INFO - user entered wrong customerID
+2019-06-07 17:00:12,824 - com.mobiotics.hits.product_ProductDisconnect.ProductDisconnectPage -INFO - CustomerID entered by the users=No Product Available To Reconnect
+2019-06-17 12:49:47,682 - com.mobiotics.hits.TESTCASES.Connection_ActivatePending_PlansPage -INFO - initilizing framework
+2019-06-17 12:49:57,557 - com.mobiotics.hits.TESTCASES.Connection_ActivatePending_PlansPage -INFO - implicit login
+2019-06-17 12:50:04,465 - com.mobiotics.hits.TESTCASES.Connection_ActivatePending_PlansPage -INFO - I' reseting the password
+2019-06-17 12:50:04,466 - com.mobiotics.hits.TESTCASES.Connection_ActivatePending_PlansPage -INFO - TimeOut:30
+2019-06-17 12:50:38,117 - com.mobiotics.hits.TESTCASES.Report_ListPaymentPageTest -INFO - initilizing framework
+2019-06-17 12:50:47,285 - com.mobiotics.hits.TESTCASES.Report_ListPaymentPageTest -INFO - implicit login
+2019-06-17 12:50:53,372 - com.mobiotics.hits.TESTCASES.Report_ListPaymentPageTest -INFO - I' reseting the password
+2019-06-17 12:50:53,374 - com.mobiotics.hits.TESTCASES.Report_ListPaymentPageTest -INFO - TimeOut:30
+2019-06-17 12:51:24,998 - com.mobiotics.hits.TESTCASES.Customer_createCustomerPageTest -INFO - initilizing framework
+2019-06-17 12:51:32,748 - com.mobiotics.hits.TESTCASES.Customer_createCustomerPageTest -INFO - implicit login
+2019-06-17 12:51:38,547 - com.mobiotics.hits.TESTCASES.Customer_createCustomerPageTest -INFO - I' reseting the password
+2019-06-17 12:51:38,548 - com.mobiotics.hits.TESTCASES.Customer_createCustomerPageTest -INFO - TimeOut:30
+2019-06-17 12:52:09,974 - com.mobiotics.hits.TESTCASES.Customer_ListCustomerPageTest -INFO - initilizing framework
+2019-06-17 12:52:16,581 - com.mobiotics.hits.TESTCASES.Customer_ListCustomerPageTest -INFO - implicit login
+2019-06-17 12:52:22,679 - com.mobiotics.hits.TESTCASES.Customer_ListCustomerPageTest -INFO - I' reseting the password
+2019-06-17 12:52:22,679 - com.mobiotics.hits.TESTCASES.Customer_ListCustomerPageTest -INFO - TimeOut:30
+2019-06-17 12:52:54,053 - com.mobiotics.hits.TESTCASES.Customer_ModifyCustomerPageTest -INFO - initilizing framework
+2019-06-17 12:53:00,780 - com.mobiotics.hits.TESTCASES.Customer_ModifyCustomerPageTest -INFO - implicit login
+2019-06-17 12:53:00,882 - com.mobiotics.hits.TESTCASES.Customer_SubscriberPageTest -INFO - initilizing framework
+2019-06-17 12:53:20,419 - com.mobiotics.hits.TESTCASES.Device_ListDevicesPageTest -INFO - initilizing framework
+2019-06-17 12:53:39,982 - com.mobiotics.hits.TESTCASES.Device_RetrackActiveDevicePageTest -INFO - initilizing framework
+2019-06-17 12:53:46,793 - com.mobiotics.hits.TESTCASES.Device_RetrackActiveDevicePageTest -INFO - implicit login
+2019-06-17 12:53:58,737 - com.mobiotics.hits.TESTCASES.DeviceSuspensionPageTest -INFO - initilizing framework
+2019-06-17 12:54:06,144 - com.mobiotics.hits.TESTCASES.DeviceSuspensionPageTest -INFO - implicit login
+2019-06-17 12:54:06,286 - com.mobiotics.hits.TESTCASES.OSDMsgServiceTest -INFO - initilizing framework
+2019-06-17 12:54:13,458 - com.mobiotics.hits.TESTCASES.OSDMsgServiceTest -INFO - implicit login
+2019-06-17 12:54:19,415 - com.mobiotics.hits.TESTCASES.OSDMsgServiceTest -INFO - I' reseting the password
+2019-06-17 12:54:19,416 - com.mobiotics.hits.TESTCASES.OSDMsgServiceTest -INFO - TimeOut:30
+2019-06-17 12:54:50,920 - com.mobiotics.hits.TESTCASES.Payment_PayForBoxPageTest -INFO - initilizing framework
+2019-06-17 12:54:57,775 - com.mobiotics.hits.TESTCASES.Payment_PayForBoxPageTest -INFO - implicit login
+2019-06-17 12:55:03,660 - com.mobiotics.hits.TESTCASES.Payment_PayForBoxPageTest -INFO - I' reseting the password
+2019-06-17 12:55:03,660 - com.mobiotics.hits.TESTCASES.Payment_PayForBoxPageTest -INFO - TimeOut:30
+2019-06-17 12:55:34,995 - com.mobiotics.hits.TESTCASES.ProductAddBasePackTest -INFO - initilizing framework
+2019-06-17 12:55:41,990 - com.mobiotics.hits.TESTCASES.ProductAddBasePackTest -INFO - implicit login
+2019-06-17 12:55:42,032 - com.mobiotics.hits.TESTCASES.Product_AddAllA_cartePageTest -INFO - initilizing framework
+2019-06-17 12:56:02,544 - com.mobiotics.hits.TESTCASES.Product_AddNxtPayBouquet -INFO - initilizing framework
+2019-06-17 12:56:07,793 - com.mobiotics.hits.TESTCASES.Product_CancleProduct -INFO - initilizing framework
+2019-06-17 12:56:28,269 - com.mobiotics.hits.TESTCASES.Product_ProductDisconnectPageTest -INFO - initilizing framework
+2019-06-17 12:56:37,439 - com.mobiotics.hits.TESTCASES.Product_ProductDisconnectPageTest -INFO - implicit login
+2019-06-17 12:56:43,295 - com.mobiotics.hits.TESTCASES.Product_ProductDisconnectPageTest -INFO - I' reseting the password
+2019-06-17 12:56:43,296 - com.mobiotics.hits.TESTCASES.Product_ProductDisconnectPageTest -INFO - TimeOut:30
+2019-06-17 12:56:55,575 - com.mobiotics.hits.product_ProductDisconnect.ProductDisconnectPage -INFO - user entered 1040260293 for singal disconnection
+2019-06-17 12:56:55,855 - com.mobiotics.hits.product_ProductDisconnect.ProductDisconnectPage -INFO - user clicked to Go button
+2019-06-17 12:57:27,412 - com.mobiotics.hits.TESTCASES.Product_ProductReconnectPageTest -INFO - initilizing framework
+2019-06-17 12:57:35,993 - com.mobiotics.hits.TESTCASES.Product_ProductReconnectPageTest -INFO - implicit login
+2019-06-17 12:57:42,095 - com.mobiotics.hits.TESTCASES.Product_ProductReconnectPageTest -INFO - I' reseting the password
+2019-06-17 12:57:42,096 - com.mobiotics.hits.TESTCASES.Product_ProductReconnectPageTest -INFO - TimeOut:30
+2019-06-17 12:58:00,204 - com.mobiotics.hits.product_ProductDisconnect.ProductDisconnectPage -INFO - user entered wrong customerID
+2019-06-17 12:58:00,278 - com.mobiotics.hits.product_ProductDisconnect.ProductDisconnectPage -INFO - CustomerID entered by the users=Invalid Customer Id/Serial no
+2019-06-17 12:58:01,859 - com.mobiotics.hits.TESTCASES.Renew_AfterExpiryPageTest -INFO - initilizing framework
+2019-06-17 12:58:09,185 - com.mobiotics.hits.TESTCASES.Renew_AfterExpiryPageTest -INFO - implicit login
+2019-06-17 12:58:14,915 - com.mobiotics.hits.TESTCASES.Renew_AfterExpiryPageTest -INFO - I' reseting the password
+2019-06-17 12:58:14,916 - com.mobiotics.hits.TESTCASES.Renew_AfterExpiryPageTest -INFO - TimeOut:30
+2019-06-17 12:58:17,856 - com.mobiotics.hits.Renew_AfterExpiryPage.AfterExpiryPage -INFO - user clicked Bulk Renew Button
+2019-06-17 12:58:18,052 - com.mobiotics.hits.Renew_AfterExpiryPage.AfterExpiryPage -INFO - user uploaded the bulk file
+2019-06-17 12:58:18,439 - com.mobiotics.hits.Renew_AfterExpiryPage.AfterExpiryPage -INFO - After bulk file upload user clicked on upload btn
+2019-06-17 12:59:50,384 - com.mobiotics.hits.TESTCASES.renew_BeforeExpiryPageTest -INFO - initilizing framework
+2019-06-17 12:59:57,958 - com.mobiotics.hits.TESTCASES.renew_BeforeExpiryPageTest -INFO - implicit login
+2019-06-17 13:00:03,609 - com.mobiotics.hits.TESTCASES.renew_BeforeExpiryPageTest -INFO - I' reseting the password
+2019-06-17 13:00:03,610 - com.mobiotics.hits.TESTCASES.renew_BeforeExpiryPageTest -INFO - TimeOut:30
+2019-06-17 13:00:05,381 - com.mobiotics.hits.BeforeExpiryPageTest.BeforeExpiryPage -INFO - user clicked on the Bulk Renew option
+2019-06-17 13:00:05,571 - com.mobiotics.hits.BeforeExpiryPageTest.BeforeExpiryPage -INFO - user uploaded the bulk file
+2019-06-17 13:00:05,831 - com.mobiotics.hits.BeforeExpiryPageTest.BeforeExpiryPage -INFO - User hit the Upload button
+2019-06-17 13:00:41,663 - com.mobiotics.hits.BeforeExpiryPageTest.BeforeExpiryPage -INFO - Upload success
+2019-06-17 13:00:41,791 - com.mobiotics.hits.BeforeExpiryPageTest.BeforeExpiryPage -INFO - user has successfully added the bulk file
+2019-06-17 13:00:43,298 - com.mobiotics.hits.TESTCASES.Report_ExpiryReportPageTest -INFO - initilizing framework
+2019-06-17 13:00:50,782 - com.mobiotics.hits.TESTCASES.Report_ExpiryReportPageTest -INFO - implicit login
+2019-06-17 13:00:56,607 - com.mobiotics.hits.TESTCASES.Report_ExpiryReportPageTest -INFO - I' reseting the password
+2019-06-17 13:00:56,607 - com.mobiotics.hits.TESTCASES.Report_ExpiryReportPageTest -INFO - TimeOut:30
+2019-06-17 15:11:42,468 - com.mobiotics.hits.TESTCASES.Customer_createCustomerPageTest -INFO - initilizing framework
+2019-06-17 15:12:02,811 - com.mobiotics.hits.TESTCASES.Customer_createCustomerPageTest -INFO - implicit login
+2019-06-17 15:12:09,608 - com.mobiotics.hits.TESTCASES.Customer_createCustomerPageTest -INFO - I' reseting the password
+2019-06-17 15:12:09,612 - com.mobiotics.hits.TESTCASES.Customer_createCustomerPageTest -INFO - TimeOut:30
+2019-06-17 15:12:41,907 - com.mobiotics.hits.TESTCASES.Customer_createCustomerPageTest -INFO - initilizing framework
+2019-06-17 15:12:51,954 - com.mobiotics.hits.TESTCASES.Customer_createCustomerPageTest -INFO - implicit login
+2019-06-17 15:12:59,471 - com.mobiotics.hits.TESTCASES.Customer_createCustomerPageTest -INFO - I' reseting the password
+2019-06-17 15:12:59,474 - com.mobiotics.hits.TESTCASES.Customer_createCustomerPageTest -INFO - TimeOut:30
+2019-06-17 15:13:01,736 - com.mobiotics.hits.CreateCustomer.CreateCustomerPage -INFO - user enters 010125172211907390 as a device No
+2019-06-17 15:13:02,324 - com.mobiotics.hits.CreateCustomer.CreateCustomerPage -INFO - user enters 400004 as a pincode
+2019-06-17 15:13:02,601 - com.mobiotics.hits.CreateCustomer.CreateCustomerPage -INFO - user selected the customer Type
+2019-06-17 15:13:45,008 - com.mobiotics.hits.CreateCustomer.CreateCustomerPage -INFO - customer selected the Hardware type
+2019-06-17 15:13:45,477 - com.mobiotics.hits.CreateCustomer.CreateCustomerPage -INFO - customer selected Basepack
+2019-06-17 15:13:47,519 - com.mobiotics.hits.CreateCustomer.CreateCustomerPage -INFO - user enters Address1
+2019-06-17 15:13:47,857 - com.mobiotics.hits.CreateCustomer.CreateCustomerPage -INFO - user enters Address2
+2019-06-17 15:13:48,145 - com.mobiotics.hits.CreateCustomer.CreateCustomerPage -INFO - user selected the customer Title
+2019-06-17 15:13:48,569 - com.mobiotics.hits.CreateCustomer.CreateCustomerPage -INFO - user enters the First Name
+2019-06-17 15:13:49,029 - com.mobiotics.hits.CreateCustomer.CreateCustomerPage -INFO - user enters the Last Name
+2019-06-17 15:13:49,323 - com.mobiotics.hits.CreateCustomer.CreateCustomerPage -INFO - user enters mobile No
+2019-06-17 15:13:49,564 - com.mobiotics.hits.CreateCustomer.CreateCustomerPage -INFO - user click on the Create button
+2019-06-17 15:15:39,318 - com.mobiotics.hits.TESTCASES.Customer_createCustomerPageTest -INFO - initilizing framework
+2019-06-17 15:15:48,190 - com.mobiotics.hits.TESTCASES.Customer_createCustomerPageTest -INFO - implicit login
+2019-06-17 15:15:54,410 - com.mobiotics.hits.TESTCASES.Customer_createCustomerPageTest -INFO - I' reseting the password
+2019-06-17 15:15:54,411 - com.mobiotics.hits.TESTCASES.Customer_createCustomerPageTest -INFO - TimeOut:30
+2019-06-17 15:15:56,545 - com.mobiotics.hits.CreateCustomer.CreateCustomerPage -INFO - user enters 010125172211907390 as a device No
+2019-06-17 15:15:56,918 - com.mobiotics.hits.CreateCustomer.CreateCustomerPage -INFO - user enters 400004 as a pincode
+2019-06-17 15:15:57,190 - com.mobiotics.hits.CreateCustomer.CreateCustomerPage -INFO - user selected the customer Type
+2019-06-17 15:16:51,329 - com.mobiotics.hits.CreateCustomer.CreateCustomerPage -INFO - customer selected the Hardware type
+2019-06-17 15:16:52,105 - com.mobiotics.hits.CreateCustomer.CreateCustomerPage -INFO - customer selected Basepack
+2019-06-17 15:16:53,701 - com.mobiotics.hits.CreateCustomer.CreateCustomerPage -INFO - user enters Address1
+2019-06-17 15:16:54,032 - com.mobiotics.hits.CreateCustomer.CreateCustomerPage -INFO - user enters Address2
+2019-06-17 15:16:54,307 - com.mobiotics.hits.CreateCustomer.CreateCustomerPage -INFO - user selected the customer Title
+2019-06-17 15:16:54,758 - com.mobiotics.hits.CreateCustomer.CreateCustomerPage -INFO - user enters the First Name
+2019-06-17 15:16:55,155 - com.mobiotics.hits.CreateCustomer.CreateCustomerPage -INFO - user enters the Last Name
+2019-06-17 15:16:55,481 - com.mobiotics.hits.CreateCustomer.CreateCustomerPage -INFO - user enters mobile No
+2019-06-17 15:16:55,713 - com.mobiotics.hits.CreateCustomer.CreateCustomerPage -INFO - user click on the Create button
+2019-06-17 18:01:42,040 - com.mobiotics.hits.TESTCASES.Customer_ModifyCustomerPageTest -INFO - initilizing framework
+2019-06-17 18:02:22,487 - com.mobiotics.hits.TESTCASES.Customer_ModifyCustomerPageTest -INFO - implicit login
+2019-06-17 18:02:28,872 - com.mobiotics.hits.TESTCASES.Customer_ModifyCustomerPageTest -INFO - I' reseting the password
+2019-06-17 18:02:28,873 - com.mobiotics.hits.TESTCASES.Customer_ModifyCustomerPageTest -INFO - TimeOut:30
+2019-06-17 18:04:46,439 - com.mobiotics.hits.TESTCASES.Product_AddAllA_cartePageTest -INFO - initilizing framework
+2019-06-17 18:04:59,596 - com.mobiotics.hits.TESTCASES.Product_AddAllA_cartePageTest -INFO - implicit login
+2019-06-17 18:05:05,635 - com.mobiotics.hits.TESTCASES.Product_AddAllA_cartePageTest -INFO - I' reseting the password
+2019-06-17 18:05:05,876 - com.mobiotics.hits.TESTCASES.Product_AddAllA_cartePageTest -INFO - TimeOut:30
+2019-06-17 18:05:09,003 - com.mobiotics.hits.product_Addproduct_AddALCartePage.AddAla_CartePage -INFO - clicked again
+2019-06-17 18:05:12,520 - com.mobiotics.hits.product_Addproduct_AddALCartePage.AddAla_CartePage -INFO - user inter the 1040429354 To add Al-A Carte
+2019-06-17 18:05:12,897 - com.mobiotics.hits.product_Addproduct_AddALCartePage.AddAla_CartePage -INFO - user clicked on Go Btn
+2019-06-17 18:05:19,947 - com.mobiotics.hits.product_Addproduct_AddALCartePage.AddAla_CartePage -INFO - Customer Name-->[[ChromeDriver: chrome on XP (ad5281f7fedbf147aa3ae85b8631bbbd)] -> id: customerName]
+2019-06-17 18:05:20,085 - com.mobiotics.hits.product_Addproduct_AddALCartePage.AddAla_CartePage -INFO - Number of ALL A- carte is available=15
+2019-06-17 18:05:21,037 - com.mobiotics.hits.product_Addproduct_AddALCartePage.AddAla_CartePage -INFO - User Click on the confirm button
+2019-06-17 18:05:22,166 - com.mobiotics.hits.product_Addproduct_AddALCartePage.AddAla_CartePage -INFO -  Product Name is Zee Anmol Price Of The Plan 0.09 Expiry Date Is On 0.02
+2019-06-17 18:06:28,670 - com.mobiotics.hits.TESTCASES.Product_AddNxtPayBouquet -INFO - initilizing framework
+2019-06-17 18:06:42,529 - com.mobiotics.hits.TESTCASES.Product_AddNxtPayBouquet -INFO - implicit login
+2019-06-17 18:06:49,954 - com.mobiotics.hits.TESTCASES.Product_AddNxtPayBouquet -INFO - I' reseting the password
+2019-06-17 18:06:49,957 - com.mobiotics.hits.TESTCASES.Product_AddNxtPayBouquet -INFO - TimeOut:30
+2019-06-17 18:06:53,150 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - --------------------------
+2019-06-17 18:06:53,162 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - Go with Singal Activation
+2019-06-17 18:06:55,115 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - user inter the 1040429354 To add NXT Add ons Carte
+2019-06-17 18:06:57,580 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - user clicked on GO Btn
+2019-06-17 18:07:03,887 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - Customer Name:-RAJESH THAKUR
+2019-06-17 18:07:03,930 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - Number of ALL NxT Pack is available=27
+2019-06-17 18:09:19,286 - com.mobiotics.hits.TESTCASES.Product_AddNxtPayBouquet -INFO - initilizing framework
+2019-06-17 18:09:31,512 - com.mobiotics.hits.TESTCASES.Product_AddNxtPayBouquet -INFO - implicit login
+2019-06-17 18:09:37,380 - com.mobiotics.hits.TESTCASES.Product_AddNxtPayBouquet -INFO - I' reseting the password
+2019-06-17 18:09:37,382 - com.mobiotics.hits.TESTCASES.Product_AddNxtPayBouquet -INFO - TimeOut:30
+2019-06-17 18:10:27,463 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - --------------------------
+2019-06-17 18:10:30,523 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - Go with Singal Activation
+2019-06-17 18:11:21,769 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - user inter the 1040429354 To add NXT Add ons Carte
+2019-06-17 18:11:48,006 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - user clicked on GO Btn
+2019-06-17 18:12:02,858 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - Customer Name:-RAJESH THAKUR
+2019-06-17 18:12:10,156 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - Number of ALL NxT Pack is available=27
+2019-06-17 18:18:09,316 - com.mobiotics.hits.TESTCASES.Product_AddNxtPayBouquet -INFO - initilizing framework
+2019-06-17 18:18:22,238 - com.mobiotics.hits.TESTCASES.Product_AddNxtPayBouquet -INFO - implicit login
+2019-06-17 18:18:28,882 - com.mobiotics.hits.TESTCASES.Product_AddNxtPayBouquet -INFO - I' reseting the password
+2019-06-17 18:18:29,030 - com.mobiotics.hits.TESTCASES.Product_AddNxtPayBouquet -INFO - TimeOut:30
+2019-06-17 18:18:32,026 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - --------------------------
+2019-06-17 18:18:32,027 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - Go with Singal Activation
+2019-06-17 18:18:36,339 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - user inter the 1040429354 To add NXT Add ons Carte
+2019-06-17 18:18:36,935 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - user clicked on GO Btn
+2019-06-17 18:18:43,276 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - Customer Name:-RAJESH THAKUR
+2019-06-17 18:18:43,333 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - Number of ALL NxT Pack is available=26
+2019-06-17 18:20:30,513 - com.mobiotics.hits.TESTCASES.Product_AddNxtPayBouquet -INFO - initilizing framework
+2019-06-17 18:20:44,927 - com.mobiotics.hits.TESTCASES.Product_AddNxtPayBouquet -INFO - implicit login
+2019-06-17 18:20:51,841 - com.mobiotics.hits.TESTCASES.Product_AddNxtPayBouquet -INFO - I' reseting the password
+2019-06-17 18:20:51,842 - com.mobiotics.hits.TESTCASES.Product_AddNxtPayBouquet -INFO - TimeOut:30
+2019-06-17 18:21:32,614 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - --------------------------
+2019-06-17 18:21:35,805 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - Go with Singal Activation
+2019-06-17 18:22:28,266 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - user inter the 1040429354 To add NXT Add ons Carte
+2019-06-17 18:22:42,414 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - user clicked on GO Btn
+2019-06-17 18:23:00,037 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - Customer Name:-RAJESH THAKUR
+2019-06-17 18:23:08,266 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - Number of ALL NxT Pack is available=26
+2019-06-17 18:25:32,808 - com.mobiotics.hits.TESTCASES.Product_AddNxtPayBouquet -INFO - initilizing framework
+2019-06-17 18:25:53,379 - com.mobiotics.hits.TESTCASES.Product_AddNxtPayBouquet -INFO - implicit login
+2019-06-17 18:26:01,470 - com.mobiotics.hits.TESTCASES.Product_AddNxtPayBouquet -INFO - I' reseting the password
+2019-06-17 18:26:01,473 - com.mobiotics.hits.TESTCASES.Product_AddNxtPayBouquet -INFO - TimeOut:30
+2019-06-17 18:26:04,277 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - --------------------------
+2019-06-17 18:26:04,277 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - Go with Singal Activation
+2019-06-17 18:26:08,850 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - user inter the 1040429354 To add NXT Add ons Carte
+2019-06-17 18:26:09,111 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - user clicked on GO Btn
+2019-06-17 18:26:15,619 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - Customer Name:-RAJESH THAKUR
+2019-06-17 18:26:15,671 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - Number of ALL NxT Pack is available=26
+2019-06-17 18:27:15,619 - com.mobiotics.hits.TESTCASES.Product_AddNxtPayBouquet -INFO - initilizing framework
+2019-06-17 18:27:29,497 - com.mobiotics.hits.TESTCASES.Product_AddNxtPayBouquet -INFO - implicit login
+2019-06-17 18:27:35,513 - com.mobiotics.hits.TESTCASES.Product_AddNxtPayBouquet -INFO - I' reseting the password
+2019-06-17 18:27:35,517 - com.mobiotics.hits.TESTCASES.Product_AddNxtPayBouquet -INFO - TimeOut:30
+2019-06-17 18:27:37,493 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - I have clicked on the bulkButton
+2019-06-17 18:27:38,455 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - Upload success
+2019-06-17 18:27:38,642 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - user is supposed to click on the submit button
+2019-06-17 18:28:47,552 - com.mobiotics.hits.TESTCASES.Product_CancleProduct -INFO - initilizing framework
+2019-06-17 18:28:55,905 - com.mobiotics.hits.TESTCASES.Product_CancleProduct -INFO - implicit login
+2019-06-17 18:29:01,961 - com.mobiotics.hits.TESTCASES.Product_CancleProduct -INFO - I' reseting the password
+2019-06-17 18:29:01,963 - com.mobiotics.hits.TESTCASES.Product_CancleProduct -INFO - TimeOut:30
+2019-06-17 18:29:03,472 - com.mobiotics.hits.product_CancelPeroduct.CancelProductTestPage -INFO - clicked again
+2019-06-17 18:29:05,811 - com.mobiotics.hits.product_CancelPeroduct.CancelProductTestPage -INFO - user inter the 1040429354 To add Al-A Carte
+2019-06-17 18:29:06,060 - com.mobiotics.hits.product_CancelPeroduct.CancelProductTestPage -INFO - user clicked on Go Btn
+2019-06-17 18:29:42,212 - com.mobiotics.hits.TESTCASES.Product_ProductDisconnectPageTest -INFO - initilizing framework
+2019-06-17 18:29:50,473 - com.mobiotics.hits.TESTCASES.Product_ProductDisconnectPageTest -INFO - implicit login
+2019-06-17 18:29:56,674 - com.mobiotics.hits.TESTCASES.Product_ProductDisconnectPageTest -INFO - I' reseting the password
+2019-06-17 18:29:56,674 - com.mobiotics.hits.TESTCASES.Product_ProductDisconnectPageTest -INFO - TimeOut:30
+2019-06-17 18:30:05,081 - com.mobiotics.hits.product_ProductDisconnect.ProductDisconnectPage -INFO - user entered 1040429354 for singal disconnection
+2019-06-17 18:30:05,371 - com.mobiotics.hits.product_ProductDisconnect.ProductDisconnectPage -INFO - user clicked to Go button
+2019-06-17 18:32:08,697 - com.mobiotics.hits.TESTCASES.Product_ProductDisconnectPageTest -INFO - initilizing framework
+2019-06-17 18:32:23,739 - com.mobiotics.hits.TESTCASES.Product_ProductDisconnectPageTest -INFO - implicit login
+2019-06-17 18:32:33,548 - com.mobiotics.hits.TESTCASES.Product_ProductDisconnectPageTest -INFO - I' reseting the password
+2019-06-17 18:32:33,550 - com.mobiotics.hits.TESTCASES.Product_ProductDisconnectPageTest -INFO - TimeOut:30
+2019-06-17 18:34:18,824 - com.mobiotics.hits.product_ProductDisconnect.ProductDisconnectPage -INFO - user entered 1040429354 for singal disconnection
+2019-06-17 18:34:35,839 - com.mobiotics.hits.product_ProductDisconnect.ProductDisconnectPage -INFO - user clicked to Go button
+2019-06-17 18:35:44,573 - com.mobiotics.hits.product_ProductDisconnect.ProductDisconnectPage -INFO - user entered the correct customerID
+2019-06-17 18:35:52,723 - com.mobiotics.hits.product_ProductDisconnect.ProductDisconnectPage -INFO - customer name-RAJESH THAKUR
+2019-06-17 18:36:32,158 - com.mobiotics.hits.product_ProductDisconnect.ProductDisconnectPage -INFO - Selected Package Summary's ProductName is NXTA Premium VAS 22 Contract Id is 38017843 and Expiry Date is On 16-07-2019
+2019-06-17 18:43:48,660 - com.mobiotics.hits.TESTCASES.Product_ProductDisconnectPageTest -INFO - initilizing framework
+2019-06-17 18:44:00,152 - com.mobiotics.hits.TESTCASES.Product_ProductDisconnectPageTest -INFO - implicit login
+2019-06-17 18:44:07,302 - com.mobiotics.hits.TESTCASES.Product_ProductDisconnectPageTest -INFO - I' reseting the password
+2019-06-17 18:44:07,306 - com.mobiotics.hits.TESTCASES.Product_ProductDisconnectPageTest -INFO - TimeOut:30
+2019-06-17 18:44:09,335 - com.mobiotics.hits.product_ProductDisconnect.ProductDisconnectPage -INFO - File has been uploaded
+2019-06-17 18:44:09,662 - com.mobiotics.hits.product_ProductDisconnect.ProductDisconnectPage -INFO - clicked on upload button
+2019-06-17 18:44:10,341 - com.mobiotics.hits.product_ProductDisconnect.ProductDisconnectPage -INFO - after uploading the file: Upload success
+2019-06-17 18:44:10,380 - com.mobiotics.hits.product_ProductDisconnect.ProductDisconnectPage -INFO - Bulk Data Has been Uploaded Successfully
+2019-06-17 18:44:10,704 - com.mobiotics.hits.product_ProductDisconnect.ProductDisconnectPage -INFO - Request successfully submitted
+2019-06-17 18:46:03,118 - com.mobiotics.hits.TESTCASES.Product_ProductReconnectPageTest -INFO - initilizing framework
+2019-06-17 18:46:11,745 - com.mobiotics.hits.TESTCASES.Product_ProductReconnectPageTest -INFO - implicit login
+2019-06-17 18:46:18,023 - com.mobiotics.hits.TESTCASES.Product_ProductReconnectPageTest -INFO - I' reseting the password
+2019-06-17 18:46:18,026 - com.mobiotics.hits.TESTCASES.Product_ProductReconnectPageTest -INFO - TimeOut:30
+2019-06-17 18:46:56,869 - com.mobiotics.hits.product_ProductDisconnect.ProductDisconnectPage -INFO - customer name=RAJESH THAKUR
+2019-06-17 18:47:15,369 - com.mobiotics.hits.product_ProductDisconnect.ProductDisconnectPage -INFO - Product Details To Re-connect-NXTA Premium VAS 22 984 2019-07-16
+2019-06-17 18:49:29,847 - com.mobiotics.hits.TESTCASES.Product_ProductReconnectPageTest -INFO - initilizing framework
+2019-06-17 18:49:39,812 - com.mobiotics.hits.TESTCASES.Product_ProductReconnectPageTest -INFO - implicit login
+2019-06-17 18:49:46,057 - com.mobiotics.hits.TESTCASES.Product_ProductReconnectPageTest -INFO - I' reseting the password
+2019-06-17 18:49:46,060 - com.mobiotics.hits.TESTCASES.Product_ProductReconnectPageTest -INFO - TimeOut:30
+2019-06-17 18:49:48,089 - com.mobiotics.hits.product_ProductDisconnect.ProductDisconnectPage -INFO - user clicked on the bulk btn
+2019-06-17 18:49:48,213 - com.mobiotics.hits.product_ProductDisconnect.ProductDisconnectPage -INFO - user entered the bulk file
+2019-06-17 18:49:48,525 - com.mobiotics.hits.product_ProductDisconnect.ProductDisconnectPage -INFO - after adding the bulk file click on upload btn
+2019-06-17 18:49:48,744 - com.mobiotics.hits.product_ProductDisconnect.ProductDisconnectPage -INFO - after uploading Upload failed
+2019-06-17 18:49:48,908 - com.mobiotics.hits.product_ProductDisconnect.ProductDisconnectPage -INFO - There is something wrong in the ExcelUpload failed
+2019-06-17 18:49:49,264 - com.mobiotics.hits.product_ProductDisconnect.ProductDisconnectPage -INFO - cloicked on the close button
+2019-06-17 18:50:57,390 - com.mobiotics.hits.TESTCASES.Product_ProductReconnectPageTest -INFO - initilizing framework
+2019-06-17 18:51:08,006 - com.mobiotics.hits.TESTCASES.Product_ProductReconnectPageTest -INFO - implicit login
+2019-06-17 18:51:13,890 - com.mobiotics.hits.TESTCASES.Product_ProductReconnectPageTest -INFO - I' reseting the password
+2019-06-17 18:51:13,892 - com.mobiotics.hits.TESTCASES.Product_ProductReconnectPageTest -INFO - TimeOut:30
+2019-06-17 18:51:18,476 - com.mobiotics.hits.product_ProductDisconnect.ProductDisconnectPage -INFO - user clicked on the bulk btn
+2019-06-17 18:51:18,691 - com.mobiotics.hits.product_ProductDisconnect.ProductDisconnectPage -INFO - user entered the bulk file
+2019-06-17 18:51:19,112 - com.mobiotics.hits.product_ProductDisconnect.ProductDisconnectPage -INFO - after adding the bulk file click on upload btn
+2019-06-17 18:51:19,300 - com.mobiotics.hits.product_ProductDisconnect.ProductDisconnectPage -INFO - after uploading Upload failed
+2019-06-17 18:51:19,454 - com.mobiotics.hits.product_ProductDisconnect.ProductDisconnectPage -INFO - There is something wrong in the ExcelUpload failed
+2019-06-17 18:51:19,890 - com.mobiotics.hits.product_ProductDisconnect.ProductDisconnectPage -INFO - cloicked on the close button
+2019-06-17 19:09:18,384 - com.mobiotics.hits.TESTCASES.Product_ProductReconnectPageTest -INFO - initilizing framework
+2019-06-17 19:09:31,696 - com.mobiotics.hits.TESTCASES.Product_ProductReconnectPageTest -INFO - implicit login
+2019-06-17 19:09:38,185 - com.mobiotics.hits.TESTCASES.Product_ProductReconnectPageTest -INFO - I' reseting the password
+2019-06-17 19:09:38,185 - com.mobiotics.hits.TESTCASES.Product_ProductReconnectPageTest -INFO - TimeOut:30
+2019-06-17 19:10:16,884 - com.mobiotics.hits.product_ProductDisconnect.ProductDisconnectPage -INFO - customer name=RAJESH THAKUR
+2019-06-17 19:10:32,673 - com.mobiotics.hits.product_ProductDisconnect.ProductDisconnectPage -INFO - Product Details To Re-connect-Zee Anmol 129 2019-07-16
+2019-06-17 19:10:43,426 - com.mobiotics.hits.TESTCASES.Product_ProductReconnectPageTest -INFO - initilizing framework
+2019-06-17 19:10:52,241 - com.mobiotics.hits.TESTCASES.Product_ProductReconnectPageTest -INFO - implicit login
+2019-06-17 19:10:58,474 - com.mobiotics.hits.TESTCASES.Product_ProductReconnectPageTest -INFO - I' reseting the password
+2019-06-17 19:10:58,475 - com.mobiotics.hits.TESTCASES.Product_ProductReconnectPageTest -INFO - TimeOut:30
+2019-06-17 19:11:00,172 - com.mobiotics.hits.product_ProductDisconnect.ProductDisconnectPage -INFO - user clicked on the bulk btn
+2019-06-17 19:11:00,330 - com.mobiotics.hits.product_ProductDisconnect.ProductDisconnectPage -INFO - user entered the bulk file
+2019-06-17 19:11:00,575 - com.mobiotics.hits.product_ProductDisconnect.ProductDisconnectPage -INFO - after adding the bulk file click on upload btn
+2019-06-17 19:11:01,387 - com.mobiotics.hits.product_ProductDisconnect.ProductDisconnectPage -INFO - after uploading Upload success
+2019-06-17 19:11:01,437 - com.mobiotics.hits.product_ProductDisconnect.ProductDisconnectPage -INFO - uploading successfully
+2019-06-17 19:11:01,559 - com.mobiotics.hits.product_ProductDisconnect.ProductDisconnectPage -INFO - no other error are present
+2019-06-17 19:11:01,687 - com.mobiotics.hits.product_ProductDisconnect.ProductDisconnectPage -INFO - Upload success
+2019-06-17 19:11:01,852 - com.mobiotics.hits.product_ProductDisconnect.ProductDisconnectPage -INFO - Request successfully submitted
+2019-06-17 19:11:01,852 - com.mobiotics.hits.product_ProductDisconnect.ProductDisconnectPage -INFO - got the success text
+2019-06-17 19:11:02,104 - com.mobiotics.hits.product_ProductDisconnect.ProductDisconnectPage -INFO - cloicked on the close button
+2019-06-17 19:12:08,280 - com.mobiotics.hits.TESTCASES.OSDMsgServiceTest -INFO - initilizing framework
+2019-06-17 19:12:17,138 - com.mobiotics.hits.TESTCASES.OSDMsgServiceTest -INFO - implicit login
+2019-06-17 19:12:23,731 - com.mobiotics.hits.TESTCASES.OSDMsgServiceTest -INFO - I' reseting the password
+2019-06-17 19:12:23,733 - com.mobiotics.hits.TESTCASES.OSDMsgServiceTest -INFO - TimeOut:30
+2019-06-17 19:12:27,444 - com.mobiotics.hits.product_Addproduct_AddALCartePage.AddAla_CartePage -INFO - user entered 1040429354 for sending OSD message
+2019-06-17 19:12:28,895 - com.mobiotics.hits.product_Addproduct_AddALCartePage.AddAla_CartePage -INFO - Customer Name is RAJESH THAKUR
+2019-06-17 19:13:51,660 - com.mobiotics.hits.TESTCASES.OSDMsgServiceTest -INFO - initilizing framework
+2019-06-17 19:14:02,525 - com.mobiotics.hits.TESTCASES.OSDMsgServiceTest -INFO - implicit login
+2019-06-17 19:14:08,476 - com.mobiotics.hits.TESTCASES.OSDMsgServiceTest -INFO - I' reseting the password
+2019-06-17 19:14:08,477 - com.mobiotics.hits.TESTCASES.OSDMsgServiceTest -INFO - TimeOut:30
+2019-06-17 19:14:13,062 - com.mobiotics.hits.product_Addproduct_AddALCartePage.AddAla_CartePage -INFO - Upload success
+2019-06-17 19:14:13,229 - com.mobiotics.hits.product_Addproduct_AddALCartePage.AddAla_CartePage -INFO - Request successfully submitted
+2019-06-17 19:14:36,354 - com.mobiotics.hits.TESTCASES.OSDMsgServiceTest -INFO - initilizing framework
+2019-06-17 19:14:48,565 - com.mobiotics.hits.TESTCASES.OSDMsgServiceTest -INFO - implicit login
+2019-06-17 19:14:54,608 - com.mobiotics.hits.TESTCASES.OSDMsgServiceTest -INFO - I' reseting the password
+2019-06-17 19:14:54,611 - com.mobiotics.hits.TESTCASES.OSDMsgServiceTest -INFO - TimeOut:30
+2019-06-17 19:14:57,750 - com.mobiotics.hits.product_Addproduct_AddALCartePage.AddAla_CartePage -INFO - Upload success
+2019-06-17 19:14:57,948 - com.mobiotics.hits.product_Addproduct_AddALCartePage.AddAla_CartePage -INFO - Request successfully submitted
+2019-06-17 19:15:22,667 - com.mobiotics.hits.TESTCASES.DeviceSuspensionPageTest -INFO - initilizing framework
+2019-06-17 19:15:35,548 - com.mobiotics.hits.TESTCASES.DeviceSuspensionPageTest -INFO - implicit login
+2019-06-17 19:15:42,531 - com.mobiotics.hits.TESTCASES.DeviceSuspensionPageTest -INFO - I' reseting the password
+2019-06-17 19:15:42,532 - com.mobiotics.hits.TESTCASES.DeviceSuspensionPageTest -INFO - TimeOut:30
+2019-06-17 19:16:04,853 - com.mobiotics.hits.DeviceSuspensionPage.DeviceSuspensionPage -INFO - Customer can't suspend with current basepack product Id.
+2019-06-17 19:17:23,477 - com.mobiotics.hits.TESTCASES.DeviceSuspensionPageTest -INFO - initilizing framework
+2019-06-17 19:17:32,465 - com.mobiotics.hits.TESTCASES.DeviceSuspensionPageTest -INFO - implicit login
+2019-06-17 19:17:38,635 - com.mobiotics.hits.TESTCASES.DeviceSuspensionPageTest -INFO - I' reseting the password
+2019-06-17 19:17:38,636 - com.mobiotics.hits.TESTCASES.DeviceSuspensionPageTest -INFO - TimeOut:30
+2019-06-17 19:17:41,964 - com.mobiotics.hits.DeviceSuspensionPage.DeviceSuspensionPage -INFO - Bulk Upload is failed
+2019-06-17 19:19:30,830 - com.mobiotics.hits.TESTCASES.Customer_SubscriberPageTest -INFO - initilizing framework
+2019-06-17 19:19:41,766 - com.mobiotics.hits.TESTCASES.Customer_SubscriberPageTest -INFO - implicit login
+2019-06-17 19:19:49,264 - com.mobiotics.hits.TESTCASES.Customer_SubscriberPageTest -INFO - I' reseting the password
+2019-06-17 19:19:49,266 - com.mobiotics.hits.TESTCASES.Customer_SubscriberPageTest -INFO - TimeOut:30
+2019-06-17 19:20:45,583 - com.mobiotics.hits.TESTCASES.Customer_RefundFeatureTest -INFO - initilizing framework
+2019-06-17 19:21:04,889 - com.mobiotics.hits.TESTCASES.Customer_RefundFeatureTest -INFO - implicit login
+2019-06-17 19:21:14,672 - com.mobiotics.hits.TESTCASES.Customer_RefundFeatureTest -INFO - I' reseting the password
+2019-06-17 19:21:14,673 - com.mobiotics.hits.TESTCASES.Customer_RefundFeatureTest -INFO - TimeOut:30
+2019-06-17 19:24:21,621 - com.mobiotics.hits.TESTCASES.Report_JobReport -INFO - initilizing framework
+2019-06-17 19:24:38,938 - com.mobiotics.hits.TESTCASES.Report_JobReport -INFO - implicit login
+2019-06-17 19:24:45,356 - com.mobiotics.hits.TESTCASES.Report_JobReport -INFO - I' reseting the password
+2019-06-17 19:24:45,357 - com.mobiotics.hits.TESTCASES.Report_JobReport -INFO - TimeOut:30
+2019-06-17 19:39:37,321 - com.mobiotics.hits.TESTCASES.Customer_createCustomerPageTest -INFO - initilizing framework
+2019-06-17 19:39:46,556 - com.mobiotics.hits.TESTCASES.Customer_createCustomerPageTest -INFO - implicit login
+2019-06-17 19:39:53,504 - com.mobiotics.hits.TESTCASES.Customer_createCustomerPageTest -INFO - I' reseting the password
+2019-06-17 19:39:53,505 - com.mobiotics.hits.TESTCASES.Customer_createCustomerPageTest -INFO - TimeOut:30
+2019-06-17 19:39:55,368 - com.mobiotics.hits.CreateCustomer.CreateCustomerPage -INFO - user is going to create the customer in bulk
+2019-06-17 19:39:55,891 - com.mobiotics.hits.CreateCustomer.CreateCustomerPage -INFO - user has been uploaded the bulk file to create the customer
+2019-06-17 19:39:56,208 - com.mobiotics.hits.CreateCustomer.CreateCustomerPage -INFO - user clicked the the upoload button
+2019-06-17 19:39:58,210 - com.mobiotics.hits.CreateCustomer.CreateCustomerPage -INFO - user is about to click the close
+2019-06-17 19:40:11,609 - com.mobiotics.hits.CreateCustomer.CreateCustomerPage -INFO - Upload success
+2019-06-17 19:40:13,764 - com.mobiotics.hits.CreateCustomer.CreateCustomerPage -INFO - user is going to close the session
+2019-06-18 17:53:26,335 - com.mobiotics.hits.TESTCASES.Connection_ActivatePending_PlansPage -INFO - initilizing framework
+2019-06-18 17:53:58,155 - com.mobiotics.hits.TESTCASES.Connection_ActivatePending_PlansPage -INFO - implicit login
+2019-06-18 17:54:12,057 - com.mobiotics.hits.TESTCASES.Connection_ActivatePending_PlansPage -INFO - I' reseting the password
+2019-06-18 17:54:12,059 - com.mobiotics.hits.TESTCASES.Connection_ActivatePending_PlansPage -INFO - TimeOut:30
+2019-06-18 17:55:04,768 - com.mobiotics.hits.TESTCASES.Customer_createCustomerPageTest -INFO - initilizing framework
+2019-06-18 17:55:16,660 - com.mobiotics.hits.TESTCASES.Customer_createCustomerPageTest -INFO - implicit login
+2019-06-18 17:55:22,537 - com.mobiotics.hits.TESTCASES.Customer_createCustomerPageTest -INFO - I' reseting the password
+2019-06-18 17:55:22,541 - com.mobiotics.hits.TESTCASES.Customer_createCustomerPageTest -INFO - TimeOut:30
+2019-06-18 17:55:24,395 - com.mobiotics.hits.CreateCustomer.CreateCustomerPage -INFO - user is going to create the customer in bulk
+2019-06-18 17:55:24,994 - com.mobiotics.hits.CreateCustomer.CreateCustomerPage -INFO - user has been uploaded the bulk file to create the customer
+2019-06-18 17:55:25,655 - com.mobiotics.hits.CreateCustomer.CreateCustomerPage -INFO - user clicked the the upoload button
+2019-06-18 17:55:27,660 - com.mobiotics.hits.CreateCustomer.CreateCustomerPage -INFO - user is about to click the close
+2019-06-18 17:55:43,681 - com.mobiotics.hits.CreateCustomer.CreateCustomerPage -INFO - Upload success
+2019-06-18 17:55:45,990 - com.mobiotics.hits.CreateCustomer.CreateCustomerPage -INFO - user is going to close the session
+2019-06-18 17:55:47,549 - com.mobiotics.hits.TESTCASES.Customer_ListCustomerPageTest -INFO - initilizing framework
+2019-06-18 17:55:59,757 - com.mobiotics.hits.TESTCASES.Customer_ListCustomerPageTest -INFO - implicit login
+2019-06-18 17:56:05,719 - com.mobiotics.hits.TESTCASES.Customer_ListCustomerPageTest -INFO - I' reseting the password
+2019-06-18 17:56:05,721 - com.mobiotics.hits.TESTCASES.Customer_ListCustomerPageTest -INFO - TimeOut:30
+2019-06-18 17:56:07,876 - com.mobiotics.hits.customer_ListCustomer.ListCustomerPage -INFO - user Sellected the pending status
+2019-06-18 17:57:39,797 - com.mobiotics.hits.TESTCASES.Customer_ModifyCustomerPageTest -INFO - initilizing framework
+2019-06-18 17:57:56,439 - com.mobiotics.hits.TESTCASES.Customer_ModifyCustomerPageTest -INFO - implicit login
+2019-06-18 17:58:04,162 - com.mobiotics.hits.TESTCASES.Customer_ModifyCustomerPageTest -INFO - I' reseting the password
+2019-06-18 17:58:04,166 - com.mobiotics.hits.TESTCASES.Customer_ModifyCustomerPageTest -INFO - TimeOut:30
+2019-06-18 17:59:17,864 - com.mobiotics.hits.TESTCASES.Customer_SubscriberPageTest -INFO - initilizing framework
+2019-06-18 17:59:25,416 - com.mobiotics.hits.TESTCASES.Customer_SubscriberPageTest -INFO - implicit login
+2019-06-18 17:59:31,311 - com.mobiotics.hits.TESTCASES.Customer_SubscriberPageTest -INFO - I' reseting the password
+2019-06-18 17:59:31,312 - com.mobiotics.hits.TESTCASES.Customer_SubscriberPageTest -INFO - TimeOut:30
+2019-06-18 18:01:02,341 - com.mobiotics.hits.TESTCASES.Device_ListDevicesPageTest -INFO - initilizing framework
+2019-06-18 18:01:12,165 - com.mobiotics.hits.TESTCASES.Device_ListDevicesPageTest -INFO - implicit login
+2019-06-18 18:01:18,013 - com.mobiotics.hits.TESTCASES.Device_ListDevicesPageTest -INFO - I' reseting the password
+2019-06-18 18:01:18,017 - com.mobiotics.hits.TESTCASES.Device_ListDevicesPageTest -INFO - TimeOut:30
+2019-06-18 18:02:21,523 - com.mobiotics.hits.TESTCASES.Device_RetrackActiveDevicePageTest -INFO - initilizing framework
+2019-06-18 18:02:28,975 - com.mobiotics.hits.TESTCASES.Device_RetrackActiveDevicePageTest -INFO - implicit login
+2019-06-18 18:02:35,148 - com.mobiotics.hits.TESTCASES.Device_RetrackActiveDevicePageTest -INFO - I' reseting the password
+2019-06-18 18:02:35,150 - com.mobiotics.hits.TESTCASES.Device_RetrackActiveDevicePageTest -INFO - TimeOut:30
+2019-06-18 18:02:41,827 - com.mobiotics.Device_RetrackActiveDevicePage.RetrackActiveDevicePage -INFO - uploading status:-Upload success
+2019-06-18 18:02:41,928 - com.mobiotics.Device_RetrackActiveDevicePage.RetrackActiveDevicePage -INFO - Request successfully submitted
+2019-06-18 18:02:42,148 - com.mobiotics.hits.TESTCASES.DeviceSuspensionPageTest -INFO - initilizing framework
+2019-06-18 18:02:51,542 - com.mobiotics.hits.TESTCASES.DeviceSuspensionPageTest -INFO - implicit login
+2019-06-18 18:02:57,422 - com.mobiotics.hits.TESTCASES.DeviceSuspensionPageTest -INFO - I' reseting the password
+2019-06-18 18:02:57,422 - com.mobiotics.hits.TESTCASES.DeviceSuspensionPageTest -INFO - TimeOut:30
+2019-06-18 18:03:01,571 - com.mobiotics.hits.DeviceSuspensionPage.DeviceSuspensionPage -INFO - Bulk Upload is failed
+2019-06-18 18:03:02,738 - com.mobiotics.hits.TESTCASES.OSDMsgServiceTest -INFO - initilizing framework
+2019-06-18 18:03:14,436 - com.mobiotics.hits.TESTCASES.OSDMsgServiceTest -INFO - implicit login
+2019-06-18 18:03:20,417 - com.mobiotics.hits.TESTCASES.OSDMsgServiceTest -INFO - I' reseting the password
+2019-06-18 18:03:20,421 - com.mobiotics.hits.TESTCASES.OSDMsgServiceTest -INFO - TimeOut:30
+2019-06-18 18:03:23,969 - com.mobiotics.hits.product_Addproduct_AddALCartePage.AddAla_CartePage -INFO - Upload success
+2019-06-18 18:03:24,125 - com.mobiotics.hits.product_Addproduct_AddALCartePage.AddAla_CartePage -INFO - Request successfully submitted
+2019-06-18 18:03:24,359 - com.mobiotics.hits.TESTCASES.Payment_PayForBoxPageTest -INFO - initilizing framework
+2019-06-18 18:03:37,242 - com.mobiotics.hits.TESTCASES.Payment_PayForBoxPageTest -INFO - implicit login
+2019-06-18 18:03:43,294 - com.mobiotics.hits.TESTCASES.Payment_PayForBoxPageTest -INFO - I' reseting the password
+2019-06-18 18:03:43,302 - com.mobiotics.hits.TESTCASES.Payment_PayForBoxPageTest -INFO - TimeOut:30
+2019-06-18 18:04:13,354 - com.mobiotics.hits.TESTCASES.ProductAddBasePackTest -INFO - initilizing framework
+2019-06-18 18:04:28,401 - com.mobiotics.hits.TESTCASES.ProductAddBasePackTest -INFO - implicit login
+2019-06-18 18:04:34,294 - com.mobiotics.hits.TESTCASES.ProductAddBasePackTest -INFO - I' reseting the password
+2019-06-18 18:04:34,299 - com.mobiotics.hits.TESTCASES.ProductAddBasePackTest -INFO - TimeOut:30
+2019-06-18 18:06:05,826 - com.mobiotics.hits.TESTCASES.Product_AddAllA_cartePageTest -INFO - initilizing framework
+2019-06-18 18:06:37,608 - com.mobiotics.hits.TESTCASES.Product_AddAllA_cartePageTest -INFO - implicit login
+2019-06-18 18:06:49,632 - com.mobiotics.hits.TESTCASES.Product_AddAllA_cartePageTest -INFO - I' reseting the password
+2019-06-18 18:06:49,636 - com.mobiotics.hits.TESTCASES.Product_AddAllA_cartePageTest -INFO - TimeOut:30
+2019-06-18 18:06:52,910 - com.mobiotics.hits.product_Addproduct_AddALCartePage.AddAla_CartePage -INFO - clicked again
+2019-06-18 18:06:54,859 - com.mobiotics.hits.product_Addproduct_AddALCartePage.AddAla_CartePage -INFO - user inter the 1040429354 To add Al-A Carte
+2019-06-18 18:06:55,811 - com.mobiotics.hits.product_Addproduct_AddALCartePage.AddAla_CartePage -INFO - user clicked on Go Btn
+2019-06-18 18:07:02,896 - com.mobiotics.hits.product_Addproduct_AddALCartePage.AddAla_CartePage -INFO - Customer Name-->[[ChromeDriver: chrome on XP (96e226580ac19e7a5d9acafcfe87c737)] -> id: customerName]
+2019-06-18 18:07:02,980 - com.mobiotics.hits.product_Addproduct_AddALCartePage.AddAla_CartePage -INFO - Number of ALL A- carte is available=15
+2019-06-18 18:07:03,649 - com.mobiotics.hits.product_Addproduct_AddALCartePage.AddAla_CartePage -INFO - User Click on the confirm button
+2019-06-18 18:07:05,133 - com.mobiotics.hits.product_Addproduct_AddALCartePage.AddAla_CartePage -INFO -  Product Name is WB Price Of The Plan 0 Expiry Date Is On 0
+2019-06-18 18:07:05,355 - com.mobiotics.hits.TESTCASES.Product_AddNxtPayBouquet -INFO - initilizing framework
+2019-06-18 18:07:35,217 - com.mobiotics.hits.TESTCASES.Product_AddNxtPayBouquet -INFO - implicit login
+2019-06-18 18:07:41,925 - com.mobiotics.hits.TESTCASES.Product_AddNxtPayBouquet -INFO - I' reseting the password
+2019-06-18 18:07:41,928 - com.mobiotics.hits.TESTCASES.Product_AddNxtPayBouquet -INFO - TimeOut:30
+2019-06-18 18:07:46,545 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - I have clicked on the bulkButton
+2019-06-18 18:07:48,689 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - Upload success
+2019-06-18 18:07:48,805 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - user is supposed to click on the submit button
+2019-06-18 18:07:54,878 - com.mobiotics.hits.TESTCASES.Product_CancleProduct -INFO - initilizing framework
+2019-06-18 18:08:38,262 - com.mobiotics.hits.TESTCASES.Product_CancleProduct -INFO - implicit login
+2019-06-18 18:08:49,453 - com.mobiotics.hits.TESTCASES.Product_CancleProduct -INFO - I' reseting the password
+2019-06-18 18:08:49,453 - com.mobiotics.hits.TESTCASES.Product_CancleProduct -INFO - TimeOut:30
+2019-06-18 18:08:55,320 - com.mobiotics.hits.product_CancelPeroduct.CancelProductTestPage -INFO - clicked again
+2019-06-18 18:08:56,865 - com.mobiotics.hits.product_CancelPeroduct.CancelProductTestPage -INFO - user inter the 1040429354 To add Al-A Carte
+2019-06-18 18:08:58,809 - com.mobiotics.hits.product_CancelPeroduct.CancelProductTestPage -INFO - user clicked on Go Btn
+2019-06-18 18:09:59,004 - com.mobiotics.hits.TESTCASES.Product_ProductDisconnectPageTest -INFO - initilizing framework
+2019-06-18 18:10:30,651 - com.mobiotics.hits.TESTCASES.Product_ProductDisconnectPageTest -INFO - implicit login
+2019-06-18 18:10:37,697 - com.mobiotics.hits.TESTCASES.Product_ProductDisconnectPageTest -INFO - I' reseting the password
+2019-06-18 18:10:37,697 - com.mobiotics.hits.TESTCASES.Product_ProductDisconnectPageTest -INFO - TimeOut:30
+2019-06-18 18:10:40,279 - com.mobiotics.hits.product_ProductDisconnect.ProductDisconnectPage -INFO - File has been uploaded
+2019-06-18 18:10:40,523 - com.mobiotics.hits.product_ProductDisconnect.ProductDisconnectPage -INFO - clicked on upload button
+2019-06-18 18:10:41,273 - com.mobiotics.hits.product_ProductDisconnect.ProductDisconnectPage -INFO - after uploading the file: Upload success
+2019-06-18 18:10:41,309 - com.mobiotics.hits.product_ProductDisconnect.ProductDisconnectPage -INFO - Bulk Data Has been Uploaded Successfully
+2019-06-18 18:10:41,614 - com.mobiotics.hits.product_ProductDisconnect.ProductDisconnectPage -INFO - Request successfully submitted
+2019-06-18 18:10:41,978 - com.mobiotics.hits.TESTCASES.Product_ProductReconnectPageTest -INFO - initilizing framework
+2019-06-18 18:10:53,527 - com.mobiotics.hits.TESTCASES.Product_ProductReconnectPageTest -INFO - implicit login
+2019-06-18 18:10:59,719 - com.mobiotics.hits.TESTCASES.Product_ProductReconnectPageTest -INFO - I' reseting the password
+2019-06-18 18:10:59,719 - com.mobiotics.hits.TESTCASES.Product_ProductReconnectPageTest -INFO - TimeOut:30
+2019-06-18 18:11:02,656 - com.mobiotics.hits.product_ProductDisconnect.ProductDisconnectPage -INFO - user clicked on the bulk btn
+2019-06-18 18:11:03,166 - com.mobiotics.hits.product_ProductDisconnect.ProductDisconnectPage -INFO - user entered the bulk file
+2019-06-18 18:11:03,560 - com.mobiotics.hits.product_ProductDisconnect.ProductDisconnectPage -INFO - after adding the bulk file click on upload btn
+2019-06-18 18:11:04,280 - com.mobiotics.hits.product_ProductDisconnect.ProductDisconnectPage -INFO - after uploading Upload success
+2019-06-18 18:11:04,311 - com.mobiotics.hits.product_ProductDisconnect.ProductDisconnectPage -INFO - uploading successfully
+2019-06-18 18:11:04,424 - com.mobiotics.hits.product_ProductDisconnect.ProductDisconnectPage -INFO - no other error are present
+2019-06-18 18:11:04,509 - com.mobiotics.hits.product_ProductDisconnect.ProductDisconnectPage -INFO - Upload success
+2019-06-18 18:11:04,690 - com.mobiotics.hits.product_ProductDisconnect.ProductDisconnectPage -INFO - Request successfully submitted
+2019-06-18 18:11:04,690 - com.mobiotics.hits.product_ProductDisconnect.ProductDisconnectPage -INFO - got the success text
+2019-06-18 18:11:04,931 - com.mobiotics.hits.product_ProductDisconnect.ProductDisconnectPage -INFO - cloicked on the close button
+2019-06-18 18:11:04,935 - com.mobiotics.hits.TESTCASES.Renew_AfterExpiryPageTest -INFO - initilizing framework
+2019-06-18 18:11:15,181 - com.mobiotics.hits.TESTCASES.Renew_AfterExpiryPageTest -INFO - implicit login
+2019-06-18 18:11:21,319 - com.mobiotics.hits.TESTCASES.Renew_AfterExpiryPageTest -INFO - I' reseting the password
+2019-06-18 18:11:21,322 - com.mobiotics.hits.TESTCASES.Renew_AfterExpiryPageTest -INFO - TimeOut:30
+2019-06-18 18:11:26,949 - com.mobiotics.hits.Renew_AfterExpiryPage.AfterExpiryPage -INFO - user clicked Bulk Renew Button
+2019-06-18 18:11:27,532 - com.mobiotics.hits.Renew_AfterExpiryPage.AfterExpiryPage -INFO - user uploaded the bulk file
+2019-06-18 18:11:27,871 - com.mobiotics.hits.Renew_AfterExpiryPage.AfterExpiryPage -INFO - After bulk file upload user clicked on upload btn
+2019-06-18 18:12:58,533 - com.mobiotics.hits.TESTCASES.renew_BeforeExpiryPageTest -INFO - initilizing framework
+2019-06-18 18:13:06,901 - com.mobiotics.hits.TESTCASES.renew_BeforeExpiryPageTest -INFO - implicit login
+2019-06-18 18:13:12,798 - com.mobiotics.hits.TESTCASES.renew_BeforeExpiryPageTest -INFO - I' reseting the password
+2019-06-18 18:13:12,799 - com.mobiotics.hits.TESTCASES.renew_BeforeExpiryPageTest -INFO - TimeOut:30
+2019-06-18 18:13:42,840 - com.mobiotics.hits.TESTCASES.Report_ExpiryReportPageTest -INFO - initilizing framework
+2019-06-18 18:13:54,063 - com.mobiotics.hits.TESTCASES.Report_ExpiryReportPageTest -INFO - implicit login
+2019-06-18 18:14:00,380 - com.mobiotics.hits.TESTCASES.Report_ExpiryReportPageTest -INFO - I' reseting the password
+2019-06-18 18:14:00,380 - com.mobiotics.hits.TESTCASES.Report_ExpiryReportPageTest -INFO - TimeOut:30
+2019-06-18 18:14:30,462 - com.mobiotics.hits.TESTCASES.Report_JobReport -INFO - initilizing framework
+2019-06-18 18:14:39,768 - com.mobiotics.hits.TESTCASES.Report_JobReport -INFO - implicit login
+2019-06-18 18:14:45,496 - com.mobiotics.hits.TESTCASES.Report_JobReport -INFO - I' reseting the password
+2019-06-18 18:14:45,500 - com.mobiotics.hits.TESTCASES.Report_JobReport -INFO - TimeOut:30
+2019-06-18 18:16:39,110 - com.mobiotics.hits.TESTCASES.Report_ListPaymentPageTest -INFO - initilizing framework
+2019-06-18 18:16:47,938 - com.mobiotics.hits.TESTCASES.Report_ListPaymentPageTest -INFO - implicit login
+2019-06-18 18:16:53,863 - com.mobiotics.hits.TESTCASES.Report_ListPaymentPageTest -INFO - I' reseting the password
+2019-06-18 18:16:53,866 - com.mobiotics.hits.TESTCASES.Report_ListPaymentPageTest -INFO - TimeOut:30
+2019-06-19 12:36:06,465 - com.mobiotics.hits.TESTCASES.Customer_createCustomerPageTest -INFO - initilizing framework
+2019-06-19 12:36:33,798 - com.mobiotics.hits.TESTCASES.Customer_createCustomerPageTest -INFO - implicit login
+2019-06-19 12:36:41,190 - com.mobiotics.hits.TESTCASES.Customer_createCustomerPageTest -INFO - I' reseting the password
+2019-06-19 12:36:41,191 - com.mobiotics.hits.TESTCASES.Customer_createCustomerPageTest -INFO - TimeOut:30
+2019-06-19 12:38:20,095 - com.mobiotics.hits.CreateCustomer.CreateCustomerPage -INFO - user enters 010125172211907390 as a device No
+2019-06-19 12:39:25,002 - com.mobiotics.hits.CreateCustomer.CreateCustomerPage -INFO - user enters 400004 as a pincode
+2019-06-19 12:43:00,537 - com.mobiotics.hits.CreateCustomer.CreateCustomerPage -INFO - user selected the customer Type
+2019-06-19 12:44:26,716 - com.mobiotics.hits.CreateCustomer.CreateCustomerPage -INFO - customer selected the Hardware type
+2019-06-19 12:45:27,607 - com.mobiotics.hits.CreateCustomer.CreateCustomerPage -INFO - customer selected Basepack
+2019-06-19 13:18:29,372 - com.mobiotics.hits.CreateCustomer.CreateCustomerPage -INFO - user enters Address1
+2019-06-19 13:20:42,435 - com.mobiotics.hits.TESTCASES.Customer_createCustomerPageTest -INFO - initilizing framework
+2019-06-19 13:20:54,754 - com.mobiotics.hits.TESTCASES.Customer_createCustomerPageTest -INFO - implicit login
+2019-06-19 13:21:01,065 - com.mobiotics.hits.TESTCASES.Customer_createCustomerPageTest -INFO - I' reseting the password
+2019-06-19 13:21:01,069 - com.mobiotics.hits.TESTCASES.Customer_createCustomerPageTest -INFO - TimeOut:30
+2019-06-19 13:22:12,267 - com.mobiotics.hits.CreateCustomer.CreateCustomerPage -INFO - user enters 010125172211907390 as a device No
+2019-06-19 13:23:02,891 - com.mobiotics.hits.CreateCustomer.CreateCustomerPage -INFO - user enters 400004 as a pincode
+2019-06-19 13:25:09,315 - com.mobiotics.hits.CreateCustomer.CreateCustomerPage -INFO - user selected the customer Type
+2019-06-19 13:30:48,389 - com.mobiotics.hits.TESTCASES.Customer_createCustomerPageTest -INFO - initilizing framework
+2019-06-19 13:30:57,937 - com.mobiotics.hits.TESTCASES.Customer_createCustomerPageTest -INFO - implicit login
+2019-06-19 13:31:04,013 - com.mobiotics.hits.TESTCASES.Customer_createCustomerPageTest -INFO - I' reseting the password
+2019-06-19 13:31:04,016 - com.mobiotics.hits.TESTCASES.Customer_createCustomerPageTest -INFO - TimeOut:30
+2019-06-19 14:17:36,006 - com.mobiotics.hits.TESTCASES.Customer_createCustomerPageTest -INFO - initilizing framework
+2019-06-19 14:17:51,739 - com.mobiotics.hits.TESTCASES.Customer_createCustomerPageTest -INFO - implicit login
+2019-06-19 14:17:58,608 - com.mobiotics.hits.TESTCASES.Customer_createCustomerPageTest -INFO - I' reseting the password
+2019-06-19 14:17:58,612 - com.mobiotics.hits.TESTCASES.Customer_createCustomerPageTest -INFO - TimeOut:30
+2019-06-19 14:19:22,455 - com.mobiotics.hits.CreateCustomer.CreateCustomerPage -INFO - user enters 010125172211907390 as a device No
+2019-06-19 14:21:53,392 - com.mobiotics.hits.CreateCustomer.CreateCustomerPage -INFO - user enters 400004 as a pincode
+2019-06-19 14:23:33,350 - com.mobiotics.hits.CreateCustomer.CreateCustomerPage -INFO - user selected the customer Type
+2019-06-19 14:28:37,269 - com.mobiotics.hits.TESTCASES.Customer_createCustomerPageTest -INFO - initilizing framework
+2019-06-19 14:28:49,185 - com.mobiotics.hits.TESTCASES.Customer_createCustomerPageTest -INFO - implicit login
+2019-06-19 14:28:55,186 - com.mobiotics.hits.TESTCASES.Customer_createCustomerPageTest -INFO - I' reseting the password
+2019-06-19 14:28:55,189 - com.mobiotics.hits.TESTCASES.Customer_createCustomerPageTest -INFO - TimeOut:30
+2019-06-19 14:30:22,293 - com.mobiotics.hits.CreateCustomer.CreateCustomerPage -INFO - user enters 010125172211907390 as a device No
+2019-06-19 14:30:27,718 - com.mobiotics.hits.CreateCustomer.CreateCustomerPage -INFO - user enters 400004 as a pincode
+2019-06-19 14:31:01,195 - com.mobiotics.hits.CreateCustomer.CreateCustomerPage -INFO - user selected the customer Type
+2019-06-19 14:50:51,647 - com.mobiotics.hits.TESTCASES.Connection_ActivatePending_PlansPage -INFO - initilizing framework
+2019-06-19 14:51:05,093 - com.mobiotics.hits.TESTCASES.Connection_ActivatePending_PlansPage -INFO - implicit login
+2019-06-19 14:51:10,946 - com.mobiotics.hits.TESTCASES.Connection_ActivatePending_PlansPage -INFO - I' reseting the password
+2019-06-19 14:51:10,947 - com.mobiotics.hits.TESTCASES.Connection_ActivatePending_PlansPage -INFO - TimeOut:30
+2019-06-19 14:51:20,504 - com.mobiotics.hits.product_Addproduct_AddALCartePage.AddAla_CartePage -INFO - package Name:-
+2019-06-19 14:51:20,638 - com.mobiotics.hits.product_Addproduct_AddALCartePage.AddAla_CartePage -INFO - content Price:-
+2019-06-19 14:51:20,756 - com.mobiotics.hits.product_Addproduct_AddALCartePage.AddAla_CartePage -INFO - Total Price:-0.11
+2019-06-19 14:51:20,862 - com.mobiotics.hits.product_Addproduct_AddALCartePage.AddAla_CartePage -INFO - contract ID:-38018447
+2019-06-19 14:51:20,962 - com.mobiotics.hits.product_Addproduct_AddALCartePage.AddAla_CartePage -INFO - Expiry Date:-18 - 07 - 2019
+2019-06-19 14:51:34,168 - com.mobiotics.hits.product_Addproduct_AddALCartePage.AddAla_CartePage -INFO -  ProductName is 24 Ghanta Status Of The Plan is SUCCESS ErrorMsg is --- ErrorCode is ---
+2019-06-19 14:58:33,813 - com.mobiotics.hits.TESTCASES.Customer_ListCustomerPageTest -INFO - initilizing framework
+2019-06-19 14:58:47,736 - com.mobiotics.hits.TESTCASES.Customer_ListCustomerPageTest -INFO - implicit login
+2019-06-19 14:58:55,619 - com.mobiotics.hits.TESTCASES.Customer_ListCustomerPageTest -INFO - I' reseting the password
+2019-06-19 14:58:55,623 - com.mobiotics.hits.TESTCASES.Customer_ListCustomerPageTest -INFO - TimeOut:30
+2019-06-19 14:59:02,652 - com.mobiotics.hits.customer_ListCustomer.ListCustomerPage -INFO - user Sellected the pending status
+2019-06-19 14:59:53,905 - com.mobiotics.hits.customer_ListCustomer.ListCustomerPage -INFO - üser selected the Date
+2019-06-19 15:00:27,310 - com.mobiotics.hits.customer_ListCustomer.ListCustomerPage -INFO - No Data Found
+2019-06-19 15:07:48,261 - com.mobiotics.hits.TESTCASES.Customer_ListCustomerPageTest -INFO - initilizing framework
+2019-06-19 15:08:01,149 - com.mobiotics.hits.TESTCASES.Customer_ListCustomerPageTest -INFO - implicit login
+2019-06-19 15:08:07,490 - com.mobiotics.hits.TESTCASES.Customer_ListCustomerPageTest -INFO - I' reseting the password
+2019-06-19 15:08:07,494 - com.mobiotics.hits.TESTCASES.Customer_ListCustomerPageTest -INFO - TimeOut:30
+2019-06-19 15:09:02,707 - com.mobiotics.hits.customer_ListCustomer.ListCustomerPage -INFO - user Sellected the pending status
+2019-06-19 15:15:35,527 - com.mobiotics.hits.TESTCASES.Customer_ListCustomerPageTest -INFO - initilizing framework
+2019-06-19 15:15:46,580 - com.mobiotics.hits.TESTCASES.Customer_ListCustomerPageTest -INFO - implicit login
+2019-06-19 15:15:52,791 - com.mobiotics.hits.TESTCASES.Customer_ListCustomerPageTest -INFO - I' reseting the password
+2019-06-19 15:15:52,793 - com.mobiotics.hits.TESTCASES.Customer_ListCustomerPageTest -INFO - TimeOut:30
+2019-06-19 15:16:43,190 - com.mobiotics.hits.customer_ListCustomer.ListCustomerPage -INFO - user Sellected the pending status
+2019-06-19 15:18:12,753 - com.mobiotics.hits.customer_ListCustomer.ListCustomerPage -INFO - üser selected the Date
+2019-06-19 15:18:46,202 - com.mobiotics.hits.customer_ListCustomer.ListCustomerPage -INFO - No Data Found
+2019-06-19 15:24:41,614 - com.mobiotics.hits.TESTCASES.Customer_RefundFeatureTest -INFO - initilizing framework
+2019-06-19 15:24:53,313 - com.mobiotics.hits.TESTCASES.Customer_RefundFeatureTest -INFO - implicit login
+2019-06-19 15:24:59,883 - com.mobiotics.hits.TESTCASES.Customer_RefundFeatureTest -INFO - I' reseting the password
+2019-06-19 15:24:59,885 - com.mobiotics.hits.TESTCASES.Customer_RefundFeatureTest -INFO - TimeOut:30
+2019-06-19 15:37:59,309 - com.mobiotics.hits.TESTCASES.Customer_RefundFeatureTest -INFO - initilizing framework
+2019-06-19 15:38:16,924 - com.mobiotics.hits.TESTCASES.Customer_RefundFeatureTest -INFO - implicit login
+2019-06-19 15:38:26,406 - com.mobiotics.hits.TESTCASES.Customer_RefundFeatureTest -INFO - I' reseting the password
+2019-06-19 15:38:26,407 - com.mobiotics.hits.TESTCASES.Customer_RefundFeatureTest -INFO - TimeOut:30
+2019-06-19 16:32:53,197 - com.mobiotics.hits.TESTCASES.Customer_RefundFeatureTest -INFO - initilizing framework
+2019-06-19 16:33:17,302 - com.mobiotics.hits.TESTCASES.Customer_RefundFeatureTest -INFO - implicit login
+2019-06-19 16:33:27,670 - com.mobiotics.hits.TESTCASES.Customer_RefundFeatureTest -INFO - I' reseting the password
+2019-06-19 16:33:27,672 - com.mobiotics.hits.TESTCASES.Customer_RefundFeatureTest -INFO - TimeOut:30
+2019-06-19 16:35:42,258 - com.mobiotics.hits.Customer_RefundRequestPage.Customer_Refund_RequestPage -INFO - LCO Network name is: ABC Network 2
+2019-06-19 16:36:34,967 - com.mobiotics.hits.Customer_RefundRequestPage.Customer_Refund_RequestPage -INFO - LCO email id is abc@gmail.com
+2019-06-19 16:38:04,397 - com.mobiotics.hits.Customer_RefundRequestPage.Customer_Refund_RequestPage -INFO - Package name is: cartoon network2
+2019-06-19 16:38:38,032 - com.mobiotics.hits.Customer_RefundRequestPage.Customer_Refund_RequestPage -INFO - Pack Rate is: 100
+2019-06-19 17:09:11,510 - com.mobiotics.hits.TESTCASES.Customer_RefundFeatureTest -INFO - initilizing framework
+2019-06-19 17:09:25,149 - com.mobiotics.hits.TESTCASES.Customer_RefundFeatureTest -INFO - implicit login
+2019-06-19 17:09:34,111 - com.mobiotics.hits.TESTCASES.Customer_RefundFeatureTest -INFO - I' reseting the password
+2019-06-19 17:09:34,113 - com.mobiotics.hits.TESTCASES.Customer_RefundFeatureTest -INFO - TimeOut:30
+2019-06-19 17:12:34,378 - com.mobiotics.hits.Customer_RefundRequestPage.Customer_Refund_RequestPage -INFO - LCO Network name is: ABC Network 2
+2019-06-19 17:14:43,136 - com.mobiotics.hits.Customer_RefundRequestPage.Customer_Refund_RequestPage -INFO - LCO email id is abc@gmail.com
+2019-06-19 17:16:36,739 - com.mobiotics.hits.Customer_RefundRequestPage.Customer_Refund_RequestPage -INFO - Package name is: cartoon network2
+2019-06-19 17:17:05,344 - com.mobiotics.hits.Customer_RefundRequestPage.Customer_Refund_RequestPage -INFO - Pack Rate is: 100
+2019-06-19 17:17:57,697 - com.mobiotics.hits.Customer_RefundRequestPage.Customer_Refund_RequestPage -INFO - pack start date is 25_04_2019
+2019-06-19 17:28:04,766 - com.mobiotics.hits.TESTCASES.Customer_RefundFeatureTest -INFO - initilizing framework
+2019-06-19 17:28:18,399 - com.mobiotics.hits.TESTCASES.Customer_RefundFeatureTest -INFO - implicit login
+2019-06-19 17:28:26,016 - com.mobiotics.hits.TESTCASES.Customer_RefundFeatureTest -INFO - I' reseting the password
+2019-06-19 17:28:26,018 - com.mobiotics.hits.TESTCASES.Customer_RefundFeatureTest -INFO - TimeOut:30
+2019-06-19 17:29:32,286 - com.mobiotics.hits.Customer_RefundRequestPage.Customer_Refund_RequestPage -INFO - LCO Network name is: ABC Network 2
+2019-06-19 17:29:43,656 - com.mobiotics.hits.Customer_RefundRequestPage.Customer_Refund_RequestPage -INFO - LCO email id is abc@gmail.com
+2019-06-19 17:31:20,091 - com.mobiotics.hits.Customer_RefundRequestPage.Customer_Refund_RequestPage -INFO - Package name is: cartoon network2
+2019-06-19 17:31:47,108 - com.mobiotics.hits.Customer_RefundRequestPage.Customer_Refund_RequestPage -INFO - Pack Rate is: 100
+2019-06-19 17:32:31,539 - com.mobiotics.hits.Customer_RefundRequestPage.Customer_Refund_RequestPage -INFO - pack start date is 25_04_2019
+2019-06-20 19:01:09,185 - com.mobiotics.hits.TESTCASES.Customer_RefundFeatureTest -INFO - initilizing framework
+2019-06-20 19:01:23,241 - com.mobiotics.hits.TESTCASES.Customer_RefundFeatureTest -INFO - implicit login
+2019-06-20 19:01:30,907 - com.mobiotics.hits.TESTCASES.Customer_RefundFeatureTest -INFO - I' reseting the password
+2019-06-20 19:01:30,909 - com.mobiotics.hits.TESTCASES.Customer_RefundFeatureTest -INFO - TimeOut:30
+2019-06-21 10:25:49,084 - com.mobiotics.hits.TESTCASES.Customer_RefundFeatureTest -INFO - initilizing framework
+2019-06-21 10:26:22,604 - com.mobiotics.hits.TESTCASES.Customer_RefundFeatureTest -INFO - implicit login
+2019-06-21 10:26:35,387 - com.mobiotics.hits.TESTCASES.Customer_RefundFeatureTest -INFO - I' reseting the password
+2019-06-21 10:26:35,390 - com.mobiotics.hits.TESTCASES.Customer_RefundFeatureTest -INFO - TimeOut:30
+2019-06-21 10:27:43,466 - com.mobiotics.hits.Customer_RefundRequestPage.Customer_Refund_RequestPage_New -INFO - email Id: abc@gmail.com
+2019-06-21 10:28:02,638 - com.mobiotics.hits.Customer_RefundRequestPage.Customer_Refund_RequestPage_New -INFO - Customer Id: CAN123456
+2019-06-21 10:28:35,435 - com.mobiotics.hits.Customer_RefundRequestPage.Customer_Refund_RequestPage_New -INFO - Pack Name: Cartoon Network
+2019-06-21 10:29:33,578 - com.mobiotics.hits.Customer_RefundRequestPage.Customer_Refund_RequestPage_New -INFO - Pack Rate: 100.0
+2019-06-21 10:30:51,143 - com.mobiotics.hits.Customer_RefundRequestPage.Customer_Refund_RequestPage_New -INFO - Pack start Date 2019-05-07
+2019-06-21 10:31:07,776 - com.mobiotics.hits.Customer_RefundRequestPage.Customer_Refund_RequestPage_New -INFO - Pack End Date: 2019-06-05
+2019-06-21 10:51:30,627 - com.mobiotics.hits.Customer_RefundRequestPage.Customer_Refund_RequestPage_New -INFO - Pack Disconnect Date: 2019-05-09
+2019-06-21 10:52:55,898 - com.mobiotics.hits.Customer_RefundRequestPage.Customer_Refund_RequestPage_New -INFO - No of non utilized days expected: 27
+2019-06-21 10:53:01,501 - com.mobiotics.hits.Customer_RefundRequestPage.Customer_Refund_RequestPage_New -INFO - No of non utilized days actual: 
+2019-06-21 11:04:26,363 - com.mobiotics.hits.TESTCASES.Customer_RefundFeatureTest -INFO - initilizing framework
+2019-06-21 11:04:37,180 - com.mobiotics.hits.TESTCASES.Customer_RefundFeatureTest -INFO - implicit login
+2019-06-21 11:04:44,174 - com.mobiotics.hits.TESTCASES.Customer_RefundFeatureTest -INFO - I' reseting the password
+2019-06-21 11:04:44,175 - com.mobiotics.hits.TESTCASES.Customer_RefundFeatureTest -INFO - TimeOut:30
+2019-06-21 11:06:11,010 - com.mobiotics.hits.Customer_RefundRequestPage.Customer_Refund_RequestPage_New -INFO - email Id: abc@gmail.com
+2019-06-21 11:06:35,090 - com.mobiotics.hits.Customer_RefundRequestPage.Customer_Refund_RequestPage_New -INFO - Customer Id: CAN123456
+2019-06-21 11:06:53,071 - com.mobiotics.hits.Customer_RefundRequestPage.Customer_Refund_RequestPage_New -INFO - Pack Name: Cartoon Network
+2019-06-21 11:10:27,235 - com.mobiotics.hits.Customer_RefundRequestPage.Customer_Refund_RequestPage_New -INFO - Pack Rate: 100.0
+2019-06-21 11:10:45,499 - com.mobiotics.hits.Customer_RefundRequestPage.Customer_Refund_RequestPage_New -INFO - Lco Name--->Rajesh
+2019-06-21 11:11:20,968 - com.mobiotics.hits.Customer_RefundRequestPage.Customer_Refund_RequestPage_New -INFO - Pack start Date 2019-05-07
+2019-06-21 11:14:18,659 - com.mobiotics.hits.Customer_RefundRequestPage.Customer_Refund_RequestPage_New -INFO - Pack End Date: 2019-06-05
+2019-06-21 11:14:35,906 - com.mobiotics.hits.Customer_RefundRequestPage.Customer_Refund_RequestPage_New -INFO - Pack Disconnect Date: 2019-05-09
+2019-06-21 11:16:10,644 - com.mobiotics.hits.Customer_RefundRequestPage.Customer_Refund_RequestPage_New -INFO - No of non utilized days expected: 27
+2019-06-21 11:16:18,438 - com.mobiotics.hits.Customer_RefundRequestPage.Customer_Refund_RequestPage_New -INFO - No of non utilized days actual: 27
+2019-06-21 11:16:46,806 - com.mobiotics.hits.Customer_RefundRequestPage.Customer_Refund_RequestPage_New -INFO - Refund without tax Actual: 90.0
+2019-06-21 11:17:10,403 - com.mobiotics.hits.Customer_RefundRequestPage.Customer_Refund_RequestPage_New -INFO - Refund Without Tax Expected: 90.0
+2019-06-21 11:17:23,968 - com.mobiotics.hits.Customer_RefundRequestPage.Customer_Refund_RequestPage_New -INFO - Refund amount with Tax Expected: 106.2
+2019-06-21 11:17:36,304 - com.mobiotics.hits.Customer_RefundRequestPage.Customer_Refund_RequestPage_New -INFO - Refund Amount With Tax Actual: 106.2
+2019-07-01 10:30:08,479 - com.mobiotics.hits.TESTCASES.Product_AddNxtPayBouquet -INFO - initilizing framework
+2019-07-01 10:30:26,271 - com.mobiotics.hits.TESTCASES.Product_AddNxtPayBouquet -INFO - implicit login
+2019-07-01 10:30:33,451 - com.mobiotics.hits.TESTCASES.Product_AddNxtPayBouquet -INFO - I' reseting the password
+2019-07-01 10:30:33,452 - com.mobiotics.hits.TESTCASES.Product_AddNxtPayBouquet -INFO - TimeOut:30
+2019-07-01 10:30:34,790 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - --------------------------
+2019-07-01 10:30:34,792 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - Go with Singal Activation
+2019-07-01 10:30:40,179 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - user inter the 1040429158 To add NXT Add ons Carte
+2019-07-01 10:30:40,417 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - user clicked on GO Btn
+2019-07-01 10:31:05,274 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - Customer Name:-RUKMINI PATEL
+2019-07-01 10:31:05,334 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - Number of ALL NxT Pack is available=28
+2019-07-01 11:11:20,631 - com.mobiotics.hits.TESTCASES.Product_AddNxtPayBouquet -INFO - initilizing framework
+2019-07-01 11:11:37,432 - com.mobiotics.hits.TESTCASES.Product_AddNxtPayBouquet -INFO - implicit login
+2019-07-01 11:11:45,017 - com.mobiotics.hits.TESTCASES.Product_AddNxtPayBouquet -INFO - I' reseting the password
+2019-07-01 11:11:45,018 - com.mobiotics.hits.TESTCASES.Product_AddNxtPayBouquet -INFO - TimeOut:30
+2019-07-01 11:12:07,670 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - --------------------------
+2019-07-01 11:12:09,037 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - Go with Singal Activation
+2019-07-01 11:12:51,236 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - user inter the 1040429158 To add NXT Add ons Carte
+2019-07-01 11:13:01,635 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - user clicked on GO Btn
+2019-07-01 11:13:15,451 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - Customer Name:-RUKMINI PATEL
+2019-07-01 11:13:19,728 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - Number of ALL NxT Pack is available=28
+2019-07-01 11:17:56,076 - com.mobiotics.hits.TESTCASES.Product_AddNxtPayBouquet -INFO - initilizing framework
+2019-07-01 11:18:06,594 - com.mobiotics.hits.TESTCASES.Product_AddNxtPayBouquet -INFO - implicit login
+2019-07-01 11:18:12,440 - com.mobiotics.hits.TESTCASES.Product_AddNxtPayBouquet -INFO - I' reseting the password
+2019-07-01 11:18:12,441 - com.mobiotics.hits.TESTCASES.Product_AddNxtPayBouquet -INFO - TimeOut:30
+2019-07-01 11:18:30,945 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - --------------------------
+2019-07-01 11:18:31,765 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - Go with Singal Activation
+2019-07-01 11:19:10,271 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - user inter the 1040429158 To add NXT Add ons Carte
+2019-07-01 11:19:15,096 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - user clicked on GO Btn
+2019-07-01 11:20:29,003 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - Customer Name:-RUKMINI PATEL
+2019-07-01 11:20:35,469 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - Number of ALL NxT Pack is available=28
+2019-07-01 12:28:24,310 - com.mobiotics.hits.TESTCASES.Product_AddNxtPayBouquet -INFO - initilizing framework
+2019-07-01 12:28:40,645 - com.mobiotics.hits.TESTCASES.Product_AddNxtPayBouquet -INFO - implicit login
+2019-07-01 12:28:48,861 - com.mobiotics.hits.TESTCASES.Product_AddNxtPayBouquet -INFO - I' reseting the password
+2019-07-01 12:28:48,862 - com.mobiotics.hits.TESTCASES.Product_AddNxtPayBouquet -INFO - TimeOut:30
+2019-07-01 12:30:08,983 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - --------------------------
+2019-07-01 12:30:13,858 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - Go with Singal Activation
+2019-07-01 12:32:08,577 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - user inter the 1040429158 To add NXT Add ons Carte
+2019-07-01 12:32:47,279 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - user clicked on GO Btn
+2019-07-01 12:34:44,594 - com.mobiotics.hits.TESTCASES.Product_AddNxtPayBouquet -INFO - initilizing framework
+2019-07-01 12:34:59,028 - com.mobiotics.hits.TESTCASES.Product_AddNxtPayBouquet -INFO - implicit login
+2019-07-01 12:35:06,735 - com.mobiotics.hits.TESTCASES.Product_AddNxtPayBouquet -INFO - I' reseting the password
+2019-07-01 12:35:06,737 - com.mobiotics.hits.TESTCASES.Product_AddNxtPayBouquet -INFO - TimeOut:30
+2019-07-01 12:36:16,744 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - --------------------------
+2019-07-01 12:36:16,769 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - Go with Singal Activation
+2019-07-01 12:37:29,199 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - user inter the 1040429158 To add NXT Add ons Carte
+2019-07-01 12:37:30,616 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - user clicked on GO Btn
+2019-07-01 12:46:11,056 - com.mobiotics.hits.TESTCASES.Product_AddNxtPayBouquet -INFO - initilizing framework
+2019-07-01 12:46:27,887 - com.mobiotics.hits.TESTCASES.Product_AddNxtPayBouquet -INFO - implicit login
+2019-07-01 12:46:35,467 - com.mobiotics.hits.TESTCASES.Product_AddNxtPayBouquet -INFO - I' reseting the password
+2019-07-01 12:46:35,468 - com.mobiotics.hits.TESTCASES.Product_AddNxtPayBouquet -INFO - TimeOut:30
+2019-07-01 12:48:12,193 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - --------------------------
+2019-07-01 12:48:12,249 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - Go with Singal Activation
+2019-07-01 12:49:22,111 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - user inter the 1040429158 To add NXT Add ons Carte
+2019-07-01 12:49:23,334 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - user clicked on GO Btn
+2019-07-01 12:50:50,157 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - Customer Name:-RUKMINI PATEL
+2019-07-01 12:51:18,264 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - Number of ALL NxT Pack is available=28
+2019-07-01 12:53:00,129 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - User Click on the confirm button
+2019-07-01 13:36:05,555 - com.mobiotics.hits.TESTCASES.Product_AddNxtPayBouquet -INFO - initilizing framework
+2019-07-01 13:36:20,171 - com.mobiotics.hits.TESTCASES.Product_AddNxtPayBouquet -INFO - implicit login
+2019-07-01 13:36:26,358 - com.mobiotics.hits.TESTCASES.Product_AddNxtPayBouquet -INFO - I' reseting the password
+2019-07-01 13:36:26,359 - com.mobiotics.hits.TESTCASES.Product_AddNxtPayBouquet -INFO - TimeOut:30
+2019-07-01 13:36:28,346 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - --------------------------
+2019-07-01 13:36:28,347 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - Go with Singal Activation
+2019-07-01 13:36:32,311 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - user inter the 1040429158 To add NXT Add ons Carte
+2019-07-01 13:36:32,553 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - user clicked on GO Btn
+2019-07-01 13:36:36,708 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - Customer Name:-RUKMINI PATEL
+2019-07-01 13:36:36,753 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - Number of ALL NxT Pack is available=28
+2019-07-01 13:36:37,304 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - User Click on the confirm button
+2019-07-01 13:43:42,971 - com.mobiotics.hits.TESTCASES.Product_AddNxtPayBouquet -INFO - initilizing framework
+2019-07-01 13:43:51,158 - com.mobiotics.hits.TESTCASES.Product_AddNxtPayBouquet -INFO - implicit login
+2019-07-01 13:43:58,050 - com.mobiotics.hits.TESTCASES.Product_AddNxtPayBouquet -INFO - I' reseting the password
+2019-07-01 13:43:58,051 - com.mobiotics.hits.TESTCASES.Product_AddNxtPayBouquet -INFO - TimeOut:30
+2019-07-01 13:43:59,705 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - --------------------------
+2019-07-01 13:43:59,706 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - Go with Singal Activation
+2019-07-01 13:44:01,609 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - user inter the 1040429158 To add NXT Add ons Carte
+2019-07-01 13:44:01,860 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - user clicked on GO Btn
+2019-07-01 13:46:25,067 - com.mobiotics.hits.TESTCASES.Product_AddNxtPayBouquet -INFO - initilizing framework
+2019-07-01 13:46:37,859 - com.mobiotics.hits.TESTCASES.Product_AddNxtPayBouquet -INFO - implicit login
+2019-07-01 13:46:45,055 - com.mobiotics.hits.TESTCASES.Product_AddNxtPayBouquet -INFO - I' reseting the password
+2019-07-01 13:46:45,119 - com.mobiotics.hits.TESTCASES.Product_AddNxtPayBouquet -INFO - TimeOut:30
+2019-07-01 13:46:47,596 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - --------------------------
+2019-07-01 13:46:47,597 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - Go with Singal Activation
+2019-07-01 13:46:48,959 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - user inter the 1040803669 To add NXT Add ons Carte
+2019-07-01 13:46:49,235 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - user clicked on GO Btn
+2019-07-01 13:46:52,337 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - Customer Name:-SANITH34 SAM
+2019-07-01 13:46:52,380 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - Number of ALL NxT Pack is available=28
+2019-07-01 13:46:53,065 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - User Click on the confirm button
+2019-07-01 13:46:53,720 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO -  Product Name is PVR Price Of The Plan 0
+2019-07-01 13:48:13,705 - com.mobiotics.hits.TESTCASES.Product_AddNxtPayBouquet -INFO - initilizing framework
+2019-07-01 13:48:25,692 - com.mobiotics.hits.TESTCASES.Product_AddNxtPayBouquet -INFO - implicit login
+2019-07-01 13:48:31,825 - com.mobiotics.hits.TESTCASES.Product_AddNxtPayBouquet -INFO - I' reseting the password
+2019-07-01 13:48:31,827 - com.mobiotics.hits.TESTCASES.Product_AddNxtPayBouquet -INFO - TimeOut:30
+2019-07-01 13:48:57,821 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - --------------------------
+2019-07-01 13:48:57,858 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - Go with Singal Activation
+2019-07-01 13:49:25,620 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - user inter the 1040803669 To add NXT Add ons Carte
+2019-07-01 13:49:26,790 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - user clicked on GO Btn
+2019-07-01 13:49:43,742 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - Customer Name:-SANITH34 SAM
+2019-07-01 13:49:47,056 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - Number of ALL NxT Pack is available=28
+2019-07-01 13:50:01,889 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - User Click on the confirm button
+2019-07-01 13:50:09,505 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO -  Product Name is PVR Price Of The Plan 0
+2019-07-01 13:52:09,400 - com.mobiotics.hits.TESTCASES.Product_AddNxtPayBouquet -INFO - initilizing framework
+2019-07-01 13:52:18,428 - com.mobiotics.hits.TESTCASES.Product_AddNxtPayBouquet -INFO - implicit login
+2019-07-01 13:52:24,662 - com.mobiotics.hits.TESTCASES.Product_AddNxtPayBouquet -INFO - I' reseting the password
+2019-07-01 13:52:24,809 - com.mobiotics.hits.TESTCASES.Product_AddNxtPayBouquet -INFO - TimeOut:30
+2019-07-01 13:52:26,718 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - --------------------------
+2019-07-01 13:52:26,719 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - Go with Singal Activation
+2019-07-01 13:52:28,398 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - user inter the 1040803669 To add NXT Add ons Carte
+2019-07-01 13:52:28,820 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - user clicked on GO Btn
+2019-07-01 13:52:31,987 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - Customer Name:-SANITH34 SAM
+2019-07-01 13:52:32,031 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - Number of ALL NxT Pack is available=28
+2019-07-01 13:52:32,638 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - User Click on the confirm button
+2019-07-12 12:14:13,465 - com.mobiotics.hits.TESTCASES.Product_AddNxtPayBouquet -INFO - initilizing framework
+2019-07-12 12:14:23,390 - com.mobiotics.hits.TESTCASES.Product_AddNxtPayBouquet -INFO - implicit login
+2019-07-12 12:14:29,885 - com.mobiotics.hits.TESTCASES.Product_AddNxtPayBouquet -INFO - I' reseting the password
+2019-07-12 12:14:29,886 - com.mobiotics.hits.TESTCASES.Product_AddNxtPayBouquet -INFO - TimeOut:30
+2019-07-12 12:14:31,398 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - --------------------------
+2019-07-12 12:14:31,399 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - Go with Singal Activation
+2019-07-12 12:14:34,003 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - user inter the 1040803669 To add NXT Add ons Carte
+2019-07-12 12:14:34,328 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - user clicked on GO Btn
+2019-07-12 12:16:21,909 - com.mobiotics.hits.TESTCASES.Product_AddNxtPayBouquet -INFO - initilizing framework
+2019-07-12 12:16:30,373 - com.mobiotics.hits.TESTCASES.Product_AddNxtPayBouquet -INFO - implicit login
+2019-07-12 12:16:37,294 - com.mobiotics.hits.TESTCASES.Product_AddNxtPayBouquet -INFO - I' reseting the password
+2019-07-12 12:16:37,296 - com.mobiotics.hits.TESTCASES.Product_AddNxtPayBouquet -INFO - TimeOut:30
+2019-07-12 12:16:38,633 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - --------------------------
+2019-07-12 12:16:38,634 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - Go with Singal Activation
+2019-07-12 12:16:40,728 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - user inter the 1039446606 To add NXT Add ons Carte
+2019-07-12 12:16:40,963 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - user clicked on GO Btn
+2019-07-12 12:16:46,230 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - Customer Name:-RAJESH TAHKUR
+2019-07-12 12:16:46,270 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - Number of ALL NxT Pack is available=28
+2019-07-12 12:16:46,654 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - User Click on the confirm button
+2019-07-12 12:20:20,202 - com.mobiotics.hits.TESTCASES.Product_AddNxtPayBouquet -INFO - initilizing framework
+2019-07-12 12:20:30,552 - com.mobiotics.hits.TESTCASES.Product_AddNxtPayBouquet -INFO - implicit login
+2019-07-12 12:20:36,615 - com.mobiotics.hits.TESTCASES.Product_AddNxtPayBouquet -INFO - I' reseting the password
+2019-07-12 12:20:36,616 - com.mobiotics.hits.TESTCASES.Product_AddNxtPayBouquet -INFO - TimeOut:30
+2019-07-12 12:20:59,025 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - --------------------------
+2019-07-12 12:20:59,206 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - Go with Singal Activation
+2019-07-12 12:21:35,982 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - user inter the 1039446606 To add NXT Add ons Carte
+2019-07-12 12:21:37,198 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - user clicked on GO Btn
+2019-07-12 12:21:46,767 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - Customer Name:-RAJESH TAHKUR
+2019-07-12 12:21:48,710 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - Number of ALL NxT Pack is available=28
+2019-07-12 12:21:55,625 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - User Click on the confirm button
+2019-07-12 12:22:52,242 - com.mobiotics.hits.TESTCASES.Product_AddNxtPayBouquet -INFO - initilizing framework
+2019-07-12 12:23:01,338 - com.mobiotics.hits.TESTCASES.Product_AddNxtPayBouquet -INFO - implicit login
+2019-07-12 12:23:07,716 - com.mobiotics.hits.TESTCASES.Product_AddNxtPayBouquet -INFO - I' reseting the password
+2019-07-12 12:23:07,719 - com.mobiotics.hits.TESTCASES.Product_AddNxtPayBouquet -INFO - TimeOut:30
+2019-07-12 12:23:36,819 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - --------------------------
+2019-07-12 12:23:37,133 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - Go with Singal Activation
+2019-07-12 12:24:08,822 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - user inter the 1039446606 To add NXT Add ons Carte
+2019-07-12 12:24:09,931 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - user clicked on GO Btn
+2019-07-12 12:24:17,922 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - Customer Name:-RAJESH TAHKUR
+2019-07-12 12:24:19,406 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - Number of ALL NxT Pack is available=28
+2019-07-12 12:24:37,253 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - User Click on the confirm button
+2019-07-12 12:26:49,036 - com.mobiotics.hits.TESTCASES.Product_AddNxtPayBouquet -INFO - initilizing framework
+2019-07-12 12:26:57,139 - com.mobiotics.hits.TESTCASES.Product_AddNxtPayBouquet -INFO - implicit login
+2019-07-12 12:27:04,109 - com.mobiotics.hits.TESTCASES.Product_AddNxtPayBouquet -INFO - I' reseting the password
+2019-07-12 12:27:04,111 - com.mobiotics.hits.TESTCASES.Product_AddNxtPayBouquet -INFO - TimeOut:30
+2019-07-12 12:27:06,903 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - --------------------------
+2019-07-12 12:27:06,904 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - Go with Singal Activation
+2019-07-12 12:27:08,841 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - user inter the 1039446606 To add NXT Add ons Carte
+2019-07-12 12:27:09,129 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - user clicked on GO Btn
+2019-07-12 12:27:25,065 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - Customer Name:-RAJESH TAHKUR
+2019-07-12 12:27:25,111 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - Number of ALL NxT Pack is available=28
+2019-07-12 12:27:25,633 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - User Click on the confirm button
+2019-07-12 12:28:17,614 - com.mobiotics.hits.TESTCASES.Product_AddNxtPayBouquet -INFO - initilizing framework
+2019-07-12 12:28:26,971 - com.mobiotics.hits.TESTCASES.Product_AddNxtPayBouquet -INFO - implicit login
+2019-07-12 12:28:33,040 - com.mobiotics.hits.TESTCASES.Product_AddNxtPayBouquet -INFO - I' reseting the password
+2019-07-12 12:28:33,041 - com.mobiotics.hits.TESTCASES.Product_AddNxtPayBouquet -INFO - TimeOut:30
+2019-07-12 12:28:47,240 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - --------------------------
+2019-07-12 12:28:47,675 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - Go with Singal Activation
+2019-07-12 12:29:34,419 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - user inter the 1039446606 To add NXT Add ons Carte
+2019-07-12 12:29:44,268 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - user clicked on GO Btn
+2019-07-12 12:30:13,572 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - Customer Name:-RAJESH TAHKUR
+2019-07-12 12:30:16,172 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - Number of ALL NxT Pack is available=28
+2019-07-12 12:31:10,636 - com.mobiotics.hits.TESTCASES.Product_AddNxtPayBouquet -INFO - initilizing framework
+2019-07-12 12:31:20,177 - com.mobiotics.hits.TESTCASES.Product_AddNxtPayBouquet -INFO - implicit login
+2019-07-12 12:31:26,325 - com.mobiotics.hits.TESTCASES.Product_AddNxtPayBouquet -INFO - I' reseting the password
+2019-07-12 12:31:26,326 - com.mobiotics.hits.TESTCASES.Product_AddNxtPayBouquet -INFO - TimeOut:30
+2019-07-12 12:31:40,404 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - --------------------------
+2019-07-12 12:31:40,928 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - Go with Singal Activation
+2019-07-12 12:32:14,095 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - user inter the 1039446606 To add NXT Add ons Carte
+2019-07-12 12:32:15,365 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - user clicked on GO Btn
+2019-07-12 12:32:21,478 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - Customer Name:-RAJESH TAHKUR
+2019-07-12 12:32:23,020 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - Number of ALL NxT Pack is available=28
+2019-07-12 12:32:31,740 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - User Click on the confirm button
+2019-07-12 12:34:41,291 - com.mobiotics.hits.TESTCASES.Product_AddNxtPayBouquet -INFO - initilizing framework
+2019-07-12 12:34:50,069 - com.mobiotics.hits.TESTCASES.Product_AddNxtPayBouquet -INFO - implicit login
+2019-07-12 12:34:56,683 - com.mobiotics.hits.TESTCASES.Product_AddNxtPayBouquet -INFO - I' reseting the password
+2019-07-12 12:34:56,684 - com.mobiotics.hits.TESTCASES.Product_AddNxtPayBouquet -INFO - TimeOut:30
+2019-07-12 12:34:58,052 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - --------------------------
+2019-07-12 12:34:58,053 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - Go with Singal Activation
+2019-07-12 12:35:00,083 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - user inter the 1039446606 To add NXT Add ons Carte
+2019-07-12 12:35:00,382 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - user clicked on GO Btn
+2019-07-12 12:35:05,702 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - Customer Name:-RAJESH TAHKUR
+2019-07-12 12:35:05,748 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - Number of ALL NxT Pack is available=28
+2019-07-12 12:35:06,195 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - User Click on the confirm button
+2019-07-12 12:36:43,697 - com.mobiotics.hits.TESTCASES.Product_AddNxtPayBouquet -INFO - initilizing framework
+2019-07-12 12:36:53,755 - com.mobiotics.hits.TESTCASES.Product_AddNxtPayBouquet -INFO - implicit login
+2019-07-12 12:38:00,629 - com.mobiotics.hits.TESTCASES.Product_AddNxtPayBouquet -INFO - I' reseting the password
+2019-07-12 12:38:00,630 - com.mobiotics.hits.TESTCASES.Product_AddNxtPayBouquet -INFO - TimeOut:30
+2019-07-12 12:38:03,087 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - --------------------------
+2019-07-12 12:38:03,089 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - Go with Singal Activation
+2019-07-12 12:38:05,055 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - user inter the 1039446606 To add NXT Add ons Carte
+2019-07-12 12:38:05,281 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - user clicked on GO Btn
+2019-07-12 12:38:12,700 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - Customer Name:-RAJESH TAHKUR
+2019-07-12 12:38:12,749 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - Number of ALL NxT Pack is available=28
+2019-07-12 12:39:10,607 - com.mobiotics.hits.TESTCASES.Product_AddNxtPayBouquet -INFO - initilizing framework
+2019-07-12 12:39:19,310 - com.mobiotics.hits.TESTCASES.Product_AddNxtPayBouquet -INFO - implicit login
+2019-07-12 12:39:25,506 - com.mobiotics.hits.TESTCASES.Product_AddNxtPayBouquet -INFO - I' reseting the password
+2019-07-12 12:39:25,507 - com.mobiotics.hits.TESTCASES.Product_AddNxtPayBouquet -INFO - TimeOut:30
+2019-07-12 12:39:27,103 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - --------------------------
+2019-07-12 12:39:27,103 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - Go with Singal Activation
+2019-07-12 12:39:29,904 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - user inter the 1039446606 To add NXT Add ons Carte
+2019-07-12 12:39:30,228 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - user clicked on GO Btn
+2019-07-12 12:39:35,637 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - Customer Name:-RAJESH TAHKUR
+2019-07-12 12:39:35,702 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - Number of ALL NxT Pack is available=28
+2019-07-12 12:39:36,234 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - User Click on the confirm button
+2019-07-12 12:53:58,332 - com.mobiotics.hits.TESTCASES.AddNxtPayBouquet1PageTest -INFO - initilizing framework
+2019-07-12 12:54:07,438 - com.mobiotics.hits.TESTCASES.AddNxtPayBouquet1PageTest -INFO - implicit login
+2019-07-12 12:54:15,777 - com.mobiotics.hits.TESTCASES.AddNxtPayBouquet1PageTest -INFO - I' reseting the password
+2019-07-12 12:54:15,778 - com.mobiotics.hits.TESTCASES.AddNxtPayBouquet1PageTest -INFO - TimeOut:30
+2019-07-12 12:57:42,349 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - --------------------------
+2019-07-12 12:57:42,482 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - Go with Singal Activation
+2019-07-12 12:58:02,681 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - user inter the 1039446606 To add NXT Add ons Carte
+2019-07-12 12:58:03,962 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - user clicked on GO Btn
+2019-07-12 13:56:56,671 - com.mobiotics.hits.TESTCASES.AddNxtPayBouquet1PageTest -INFO - initilizing framework
+2019-07-12 13:57:05,604 - com.mobiotics.hits.TESTCASES.AddNxtPayBouquet1PageTest -INFO - implicit login
+2019-07-12 13:57:13,535 - com.mobiotics.hits.TESTCASES.AddNxtPayBouquet1PageTest -INFO - I' reseting the password
+2019-07-12 13:57:13,536 - com.mobiotics.hits.TESTCASES.AddNxtPayBouquet1PageTest -INFO - TimeOut:30
+2019-07-12 13:57:31,315 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - --------------------------
+2019-07-12 13:57:32,341 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - Go with Singal Activation
+2019-07-12 13:57:57,336 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - user inter the 1039446606 To add NXT Add ons Carte
+2019-07-12 13:58:05,159 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - user clicked on GO Btn
+2019-07-12 13:58:24,832 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - Customer Name:-RAJESH TAHKUR
+2019-07-12 13:58:29,938 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - Number of ALL NxT Pack is available=37
+2019-07-12 13:58:48,735 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - User Click on the confirm button
+2019-07-12 13:58:55,156 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO -  Product Name is Telugu Premium Price Of The Plan 182.48
+2019-07-12 14:02:40,139 - com.mobiotics.hits.TESTCASES.AddNxtPayBouquet1PageTest -INFO - initilizing framework
+2019-07-12 14:02:49,046 - com.mobiotics.hits.TESTCASES.AddNxtPayBouquet1PageTest -INFO - implicit login
+2019-07-12 14:02:56,201 - com.mobiotics.hits.TESTCASES.AddNxtPayBouquet1PageTest -INFO - I' reseting the password
+2019-07-12 14:02:56,202 - com.mobiotics.hits.TESTCASES.AddNxtPayBouquet1PageTest -INFO - TimeOut:30
+2019-07-12 14:03:09,891 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - --------------------------
+2019-07-12 14:03:10,024 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - Go with Singal Activation
+2019-07-12 14:03:23,782 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - user inter the 1039446606 To add NXT Add ons Carte
+2019-07-12 14:03:24,981 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - user clicked on GO Btn
+2019-07-12 14:03:50,542 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - Customer Name:-RAJESH TAHKUR
+2019-07-12 14:03:51,284 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - Number of ALL NxT Pack is available=37
+2019-07-12 14:03:59,060 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - User Click on the confirm button
+2019-07-12 14:04:00,772 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO -  Product Name is Bangali Premium Price Of The Plan 184.5
+2019-07-12 14:04:30,889 - com.mobiotics.hits.TESTCASES.AddNxtPayBouquet1PageTest -INFO - initilizing framework
+2019-07-12 14:04:38,991 - com.mobiotics.hits.TESTCASES.AddNxtPayBouquet1PageTest -INFO - implicit login
+2019-07-12 14:04:44,950 - com.mobiotics.hits.TESTCASES.AddNxtPayBouquet1PageTest -INFO - I' reseting the password
+2019-07-12 14:04:44,951 - com.mobiotics.hits.TESTCASES.AddNxtPayBouquet1PageTest -INFO - TimeOut:30
+2019-07-12 14:04:46,663 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - --------------------------
+2019-07-12 14:04:46,664 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - Go with Singal Activation
+2019-07-12 14:04:48,321 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - user inter the 1039446606 To add NXT Add ons Carte
+2019-07-12 14:04:48,686 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - user clicked on GO Btn
+2019-07-12 14:08:48,982 - com.mobiotics.hits.TESTCASES.AddNxtPayBouquet1PageTest -INFO - initilizing framework
+2019-07-12 14:08:59,419 - com.mobiotics.hits.TESTCASES.AddNxtPayBouquet1PageTest -INFO - implicit login
+2019-07-12 14:09:05,683 - com.mobiotics.hits.TESTCASES.AddNxtPayBouquet1PageTest -INFO - I' reseting the password
+2019-07-12 14:09:05,684 - com.mobiotics.hits.TESTCASES.AddNxtPayBouquet1PageTest -INFO - TimeOut:30
+2019-07-12 14:09:07,519 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - --------------------------
+2019-07-12 14:09:07,520 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - Go with Singal Activation
+2019-07-12 14:09:09,667 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - user inter the 1039446606 To add NXT Add ons Carte
+2019-07-12 14:09:09,974 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - user clicked on GO Btn
+2019-07-12 14:09:17,229 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - Customer Name:-RAJESH TAHKUR
+2019-07-12 14:09:17,280 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - Number of ALL NxT Pack is available=36
+2019-07-12 14:09:19,835 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - User Click on the confirm button
+2019-07-12 14:09:20,619 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO -  Product Name is Marathi Super ENTMT Pack Price Of The Plan 150.53
+2019-07-12 14:11:19,460 - com.mobiotics.hits.TESTCASES.Connection_ActivatePending_PlansPage -INFO - initilizing framework
+2019-07-12 14:11:27,531 - com.mobiotics.hits.TESTCASES.Connection_ActivatePending_PlansPage -INFO - implicit login
+2019-07-12 14:11:33,748 - com.mobiotics.hits.TESTCASES.Connection_ActivatePending_PlansPage -INFO - I' reseting the password
+2019-07-12 14:11:33,749 - com.mobiotics.hits.TESTCASES.Connection_ActivatePending_PlansPage -INFO - TimeOut:30
+2019-07-12 14:11:41,657 - com.mobiotics.hits.product_Addproduct_AddALCartePage.AddAla_CartePage -INFO - package Name:-
+2019-07-12 14:11:41,753 - com.mobiotics.hits.product_Addproduct_AddALCartePage.AddAla_CartePage -INFO - content Price:-
+2019-07-12 14:11:41,833 - com.mobiotics.hits.product_Addproduct_AddALCartePage.AddAla_CartePage -INFO - Total Price:-0.00
+2019-07-12 14:11:41,915 - com.mobiotics.hits.product_Addproduct_AddALCartePage.AddAla_CartePage -INFO - contract ID:-38022157
+2019-07-12 14:11:42,018 - com.mobiotics.hits.product_Addproduct_AddALCartePage.AddAla_CartePage -INFO - Expiry Date:-11 - 08 - 2019
+2019-07-12 14:11:53,235 - com.mobiotics.hits.product_Addproduct_AddALCartePage.AddAla_CartePage -INFO -  ProductName is PVR Status Of The Plan is SUCCESS ErrorMsg is --- ErrorCode is ---
+2019-07-12 14:12:36,869 - com.mobiotics.hits.TESTCASES.AddNxtPayBouquet1PageTest -INFO - initilizing framework
+2019-07-12 14:12:45,477 - com.mobiotics.hits.TESTCASES.AddNxtPayBouquet1PageTest -INFO - implicit login
+2019-07-12 14:12:51,783 - com.mobiotics.hits.TESTCASES.AddNxtPayBouquet1PageTest -INFO - I' reseting the password
+2019-07-12 14:12:51,784 - com.mobiotics.hits.TESTCASES.AddNxtPayBouquet1PageTest -INFO - TimeOut:30
+2019-07-12 14:12:53,173 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - --------------------------
+2019-07-12 14:12:53,174 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - Go with Singal Activation
+2019-07-12 14:12:56,075 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - user inter the 1039446606 To add NXT Add ons Carte
+2019-07-12 14:12:56,490 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - user clicked on GO Btn
+2019-07-12 14:14:38,978 - com.mobiotics.hits.TESTCASES.AddNxtPayBouquet1PageTest -INFO - initilizing framework
+2019-07-12 14:14:47,196 - com.mobiotics.hits.TESTCASES.AddNxtPayBouquet1PageTest -INFO - implicit login
+2019-07-12 14:14:53,530 - com.mobiotics.hits.TESTCASES.AddNxtPayBouquet1PageTest -INFO - I' reseting the password
+2019-07-12 14:14:53,531 - com.mobiotics.hits.TESTCASES.AddNxtPayBouquet1PageTest -INFO - TimeOut:30
+2019-07-12 14:14:54,857 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - --------------------------
+2019-07-12 14:14:54,858 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - Go with Singal Activation
+2019-07-12 14:14:57,067 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - user inter the 1039446606 To add NXT Add ons Carte
+2019-07-12 14:14:57,328 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - user clicked on GO Btn
+2019-07-12 14:15:04,613 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - Customer Name:-RAJESH TAHKUR
+2019-07-12 14:15:04,671 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - Number of ALL NxT Pack is available=35
+2019-07-12 14:15:07,261 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO - User Click on the confirm button
+2019-07-12 14:15:08,094 - com.mobiotics.hits.AddNxtDegital_AddonsPage.AddNxt_PayBouquet_Page -INFO -  Product Name is Kannada Starter Price Of The Plan 72
+2019-07-12 14:25:39,064 - com.mobiotics.hits.TESTCASES.Customer_ListCustomerPageTest -INFO - initilizing framework
+2019-07-12 14:25:48,436 - com.mobiotics.hits.TESTCASES.Customer_ListCustomerPageTest -INFO - implicit login
+2019-07-12 14:25:54,640 - com.mobiotics.hits.TESTCASES.Customer_ListCustomerPageTest -INFO - I' reseting the password
+2019-07-12 14:25:54,642 - com.mobiotics.hits.TESTCASES.Customer_ListCustomerPageTest -INFO - TimeOut:30
+2019-07-12 14:26:13,623 - com.mobiotics.hits.customer_ListCustomer.ListCustomerPage -INFO - user Sellected the pending status
+2019-07-12 14:28:07,697 - com.mobiotics.hits.customer_ListCustomer.ListCustomerPage -INFO - üser selected the Date
+2019-07-12 14:34:08,561 - com.mobiotics.hits.TESTCASES.Customer_ListCustomerPageTest -INFO - initilizing framework
+2019-07-12 14:34:17,549 - com.mobiotics.hits.TESTCASES.Customer_ListCustomerPageTest -INFO - implicit login
+2019-07-12 14:34:24,255 - com.mobiotics.hits.TESTCASES.Customer_ListCustomerPageTest -INFO - I' reseting the password
+2019-07-12 14:34:24,255 - com.mobiotics.hits.TESTCASES.Customer_ListCustomerPageTest -INFO - TimeOut:30
+2019-07-12 14:35:25,490 - com.mobiotics.hits.customer_ListCustomer.ListCustomerPage -INFO - user Sellected the pending status
+2019-07-12 14:40:20,256 - com.mobiotics.hits.customer_ListCustomer.ListCustomerPage -INFO - üser selected the Date
+2019-07-12 14:40:23,709 - com.mobiotics.hits.customer_ListCustomer.ListCustomerPage -INFO - enter for loop
+2019-07-12 14:42:38,805 - com.mobiotics.hits.TESTCASES.Customer_ListCustomerPageTest -INFO - initilizing framework
+2019-07-12 14:42:48,608 - com.mobiotics.hits.TESTCASES.Customer_ListCustomerPageTest -INFO - implicit login
+2019-07-12 14:42:54,658 - com.mobiotics.hits.TESTCASES.Customer_ListCustomerPageTest -INFO - I' reseting the password
+2019-07-12 14:42:54,674 - com.mobiotics.hits.TESTCASES.Customer_ListCustomerPageTest -INFO - TimeOut:30
+2019-07-12 14:43:13,645 - com.mobiotics.hits.customer_ListCustomer.ListCustomerPage -INFO - user Sellected the pending status
+2019-07-12 14:44:53,861 - com.mobiotics.hits.customer_ListCustomer.ListCustomerPage -INFO - üser selected the Date
+2019-07-12 14:45:24,901 - com.mobiotics.hits.customer_ListCustomer.ListCustomerPage -INFO - enter for loop
+2019-07-12 14:52:02,005 - com.mobiotics.hits.TESTCASES.Customer_ModifyCustomerPageTest -INFO - initilizing framework
+2019-07-12 14:52:10,705 - com.mobiotics.hits.TESTCASES.Customer_ModifyCustomerPageTest -INFO - implicit login
+2019-07-12 14:52:17,000 - com.mobiotics.hits.TESTCASES.Customer_ModifyCustomerPageTest -INFO - I' reseting the password
+2019-07-12 14:52:17,002 - com.mobiotics.hits.TESTCASES.Customer_ModifyCustomerPageTest -INFO - TimeOut:30
+2019-07-12 14:52:31,072 - com.mobiotics.hits.product_Addproduct_AddALCartePage.AddAla_CartePage -INFO - user selected the Title
+2019-07-12 14:52:31,316 - com.mobiotics.hits.product_Addproduct_AddALCartePage.AddAla_CartePage -INFO - User entered the first name
+2019-07-12 14:52:31,564 - com.mobiotics.hits.product_Addproduct_AddALCartePage.AddAla_CartePage -INFO - user enters last name
+2019-07-12 14:52:32,019 - com.mobiotics.hits.product_Addproduct_AddALCartePage.AddAla_CartePage -INFO - user enters the mailID
+2019-07-12 14:52:32,384 - com.mobiotics.hits.product_Addproduct_AddALCartePage.AddAla_CartePage -INFO - user enters mobile Number
+2019-07-12 14:52:33,203 - com.mobiotics.hits.product_Addproduct_AddALCartePage.AddAla_CartePage -INFO - Users enters Address line1
+2019-07-12 14:52:33,690 - com.mobiotics.hits.product_Addproduct_AddALCartePage.AddAla_CartePage -INFO - User enters the Address line-2
+2019-07-12 14:52:33,940 - com.mobiotics.hits.product_Addproduct_AddALCartePage.AddAla_CartePage -INFO - users clicked submit button
+2019-07-12 14:52:36,090 - com.mobiotics.hits.product_Addproduct_AddALCartePage.AddAla_CartePage -INFO - aler message Document Listing Failed
+2019-07-12 14:55:16,584 - com.mobiotics.hits.TESTCASES.Customer_SubscriberPageTest -INFO - initilizing framework
+2019-07-12 14:55:25,122 - com.mobiotics.hits.TESTCASES.Customer_SubscriberPageTest -INFO - implicit login
+2019-07-12 14:55:31,490 - com.mobiotics.hits.TESTCASES.Customer_SubscriberPageTest -INFO - I' reseting the password
+2019-07-12 14:55:31,490 - com.mobiotics.hits.TESTCASES.Customer_SubscriberPageTest -INFO - TimeOut:30
+2019-07-12 14:58:58,919 - com.mobiotics.hits.TESTCASES.Customer_SubscriberPageTest -INFO - initilizing framework
+2019-07-12 14:59:07,584 - com.mobiotics.hits.TESTCASES.Customer_SubscriberPageTest -INFO - implicit login
+2019-07-12 14:59:14,218 - com.mobiotics.hits.TESTCASES.Customer_SubscriberPageTest -INFO - I' reseting the password
+2019-07-12 14:59:14,219 - com.mobiotics.hits.TESTCASES.Customer_SubscriberPageTest -INFO - TimeOut:30
+2019-07-12 15:01:17,226 - com.mobiotics.hits.TESTCASES.Customer_SubscriberPageTest -INFO - initilizing framework
+2019-07-12 15:01:29,741 - com.mobiotics.hits.TESTCASES.Customer_SubscriberPageTest -INFO - implicit login
+2019-07-12 15:01:36,069 - com.mobiotics.hits.TESTCASES.Customer_SubscriberPageTest -INFO - I' reseting the password
+2019-07-12 15:01:36,085 - com.mobiotics.hits.TESTCASES.Customer_SubscriberPageTest -INFO - TimeOut:30
+2019-07-12 15:06:56,063 - com.mobiotics.hits.TESTCASES.Device_ListDevicesPageTest -INFO - initilizing framework
+2019-07-12 15:07:08,769 - com.mobiotics.hits.TESTCASES.Device_ListDevicesPageTest -INFO - implicit login
+2019-07-12 15:07:14,850 - com.mobiotics.hits.TESTCASES.Device_ListDevicesPageTest -INFO - I' reseting the password
+2019-07-12 15:07:14,851 - com.mobiotics.hits.TESTCASES.Device_ListDevicesPageTest -INFO - TimeOut:30
+2019-07-12 15:10:19,717 - com.mobiotics.hits.TESTCASES.Device_RetrackActiveDevicePageTest -INFO - initilizing framework
+2019-07-12 15:10:31,379 - com.mobiotics.hits.TESTCASES.Device_RetrackActiveDevicePageTest -INFO - implicit login
+2019-07-12 15:10:38,436 - com.mobiotics.hits.TESTCASES.Device_RetrackActiveDevicePageTest -INFO - I' reseting the password
+2019-07-12 15:10:38,436 - com.mobiotics.hits.TESTCASES.Device_RetrackActiveDevicePageTest -INFO - TimeOut:30
+2019-07-12 15:14:55,413 - com.mobiotics.hits.TESTCASES.Device_RetrackActiveDevicePageTest -INFO - initilizing framework
+2019-07-12 15:15:03,504 - com.mobiotics.hits.TESTCASES.Device_RetrackActiveDevicePageTest -INFO - implicit login
+2019-07-12 15:15:09,452 - com.mobiotics.hits.TESTCASES.Device_RetrackActiveDevicePageTest -INFO - I' reseting the password
+2019-07-12 15:15:09,452 - com.mobiotics.hits.TESTCASES.Device_RetrackActiveDevicePageTest -INFO - TimeOut:30
+2019-07-12 15:15:12,741 - com.mobiotics.Device_RetrackActiveDevicePage.RetrackActiveDevicePage -INFO - user entered 1039446606 Retrack the Active Devices
+2019-07-12 15:16:08,430 - com.mobiotics.Device_RetrackActiveDevicePage.RetrackActiveDevicePage -INFO - Success msg not get due to no such element: Unable to locate element: {"method":"id","selector":"retrack_success"}
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 30.05 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'LAPTOP-A313QKMS-rajesh', ip: '192.168.241.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_101'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:50805}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a), userDataDir=C:\Users\sande\AppData\Local\Temp\scoped_dir8100_7705}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, version=75.0.3770.100, browserConnectionEnabled=false, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: ef76eb70aa22e4a829aebfe948b8bd17
+*** Element info: {Using=id, value=retrack_success}
+2019-07-12 15:17:49,103 - com.mobiotics.hits.TESTCASES.Device_RetrackActiveDevicePageTest -INFO - initilizing framework
+2019-07-12 15:17:57,215 - com.mobiotics.hits.TESTCASES.Device_RetrackActiveDevicePageTest -INFO - implicit login
+2019-07-12 15:18:03,224 - com.mobiotics.hits.TESTCASES.Device_RetrackActiveDevicePageTest -INFO - I' reseting the password
+2019-07-12 15:18:03,225 - com.mobiotics.hits.TESTCASES.Device_RetrackActiveDevicePageTest -INFO - TimeOut:30
+2019-07-12 15:25:50,932 - com.mobiotics.hits.TESTCASES.Device_RetrackActiveDevicePageTest -INFO - initilizing framework
+2019-07-12 15:26:08,370 - com.mobiotics.hits.TESTCASES.Device_RetrackActiveDevicePageTest -INFO - implicit login
+2019-07-12 15:26:15,124 - com.mobiotics.hits.TESTCASES.Device_RetrackActiveDevicePageTest -INFO - I' reseting the password
+2019-07-12 15:26:15,127 - com.mobiotics.hits.TESTCASES.Device_RetrackActiveDevicePageTest -INFO - TimeOut:30
+2019-07-12 15:27:53,509 - com.mobiotics.Device_RetrackActiveDevicePage.RetrackActiveDevicePage -INFO - user entered 1039446606 Retrack the Active Devices
+2019-07-12 15:29:08,150 - com.mobiotics.Device_RetrackActiveDevicePage.RetrackActiveDevicePage -INFO - invalid customer
+2019-07-12 15:30:07,146 - com.mobiotics.hits.TESTCASES.Device_RetrackActiveDevicePageTest -INFO - initilizing framework
+2019-07-12 15:30:19,052 - com.mobiotics.hits.TESTCASES.Device_RetrackActiveDevicePageTest -INFO - implicit login
+2019-07-12 15:30:25,541 - com.mobiotics.hits.TESTCASES.Device_RetrackActiveDevicePageTest -INFO - I' reseting the password
+2019-07-12 15:30:25,541 - com.mobiotics.hits.TESTCASES.Device_RetrackActiveDevicePageTest -INFO - TimeOut:30
+2019-07-12 15:31:05,593 - com.mobiotics.Device_RetrackActiveDevicePage.RetrackActiveDevicePage -INFO - user entered 1039446606 Retrack the Active Devices
+2019-07-12 16:50:54,679 - com.mobiotics.hits.TESTCASES.Customer_createCustomerPageTest -INFO - initilizing framework
+2019-07-12 16:51:04,406 - com.mobiotics.hits.TESTCASES.Customer_createCustomerPageTest -INFO - implicit login
+2019-07-12 16:51:12,685 - com.mobiotics.hits.TESTCASES.Customer_createCustomerPageTest -INFO - I' reseting the password
+2019-07-12 16:51:12,686 - com.mobiotics.hits.TESTCASES.Customer_createCustomerPageTest -INFO - TimeOut:30
+2019-07-12 16:51:36,887 - com.mobiotics.hits.CreateCustomer.CreateCustomerPage -INFO - user enters 020141150174969 as a device No
+2019-07-12 16:51:41,593 - com.mobiotics.hits.CreateCustomer.CreateCustomerPage -INFO - user enters 400004 as a pincode
+2019-07-12 16:51:47,295 - com.mobiotics.hits.CreateCustomer.CreateCustomerPage -INFO - user selected the customer Type
+2019-07-12 16:51:57,463 - com.mobiotics.hits.CreateCustomer.CreateCustomerPage -INFO - customer selected the Hardware type
+2019-07-12 16:52:03,813 - com.mobiotics.hits.CreateCustomer.CreateCustomerPage -INFO - customer selected Basepack
+2019-07-12 16:52:13,311 - com.mobiotics.hits.CreateCustomer.CreateCustomerPage -INFO - Area has been selected
+2019-07-12 16:52:34,305 - com.mobiotics.hits.CreateCustomer.CreateCustomerPage -INFO - user enters Address1
+2019-07-12 16:52:43,535 - com.mobiotics.hits.CreateCustomer.CreateCustomerPage -INFO - user enters Address2
+2019-07-12 16:53:40,941 - com.mobiotics.hits.CreateCustomer.CreateCustomerPage -INFO - user selected the customer Title
+2019-07-12 16:54:05,937 - com.mobiotics.hits.CreateCustomer.CreateCustomerPage -INFO - user enters the First Name
+2019-07-12 16:54:43,741 - com.mobiotics.hits.CreateCustomer.CreateCustomerPage -INFO - user enters the Last Name
+2019-07-12 16:55:17,963 - com.mobiotics.hits.CreateCustomer.CreateCustomerPage -INFO - user enters mobile No
+2019-07-12 19:11:29,665 - com.mobiotics.hits.TESTCASES.Connection_ActivatePending_PlansPage -INFO - initilizing framework
+2019-07-12 19:11:43,235 - com.mobiotics.hits.TESTCASES.Connection_ActivatePending_PlansPage -INFO - implicit login
+2019-07-12 19:11:51,119 - com.mobiotics.hits.TESTCASES.Connection_ActivatePending_PlansPage -INFO - I' reseting the password
+2019-07-12 19:11:51,119 - com.mobiotics.hits.TESTCASES.Connection_ActivatePending_PlansPage -INFO - TimeOut:30
+2019-07-12 19:11:57,743 - com.mobiotics.hits.product_Addproduct_AddALCartePage.AddAla_CartePage -INFO - package Name:-
+2019-07-12 19:11:57,854 - com.mobiotics.hits.product_Addproduct_AddALCartePage.AddAla_CartePage -INFO - content Price:-
+2019-07-12 19:11:58,022 - com.mobiotics.hits.product_Addproduct_AddALCartePage.AddAla_CartePage -INFO - Total Price:-177.63
+2019-07-12 19:11:58,238 - com.mobiotics.hits.product_Addproduct_AddALCartePage.AddAla_CartePage -INFO - contract ID:-38022159
+2019-07-12 19:11:58,338 - com.mobiotics.hits.product_Addproduct_AddALCartePage.AddAla_CartePage -INFO - Expiry Date:-11 - 08 - 2019
+2019-07-12 19:12:14,008 - com.mobiotics.hits.product_Addproduct_AddALCartePage.AddAla_CartePage -INFO -  ProductName is NXTB Marathi Super ENTMT Pack Status Of The Plan is SUCCESS ErrorMsg is --- ErrorCode is ---
+2019-07-12 19:12:14,055 - com.mobiotics.hits.TESTCASES.AddNxtPayBouquet1PageTest -INFO - initilizing framework
+2019-07-12 19:12:35,273 - com.mobiotics.hits.TESTCASES.Customer_createCustomerPageTest -INFO - initilizing framework
+2019-07-12 19:13:01,651 - com.mobiotics.hits.TESTCASES.Customer_createCustomerPageTest -INFO - implicit login
+2019-07-12 19:13:01,767 - com.mobiotics.hits.TESTCASES.Customer_ListCustomerPageTest -INFO - initilizing framework
+2019-07-12 19:13:09,682 - com.mobiotics.hits.TESTCASES.Customer_ModifyCustomerPageTest -INFO - initilizing framework
+2019-07-12 19:13:19,933 - com.mobiotics.hits.TESTCASES.Customer_SubscriberPageTest -INFO - initilizing framework
+2019-07-12 19:13:28,718 - com.mobiotics.hits.TESTCASES.Device_ListDevicesPageTest -INFO - initilizing framework
+2019-07-12 19:13:50,327 - com.mobiotics.hits.TESTCASES.DeviceSuspensionPageTest -INFO - initilizing framework
+2019-07-12 19:13:58,307 - com.mobiotics.hits.TESTCASES.OSDMsgServiceTest -INFO - initilizing framework
+2019-07-12 19:14:05,471 - com.mobiotics.hits.TESTCASES.Payment_PayForBoxPageTest -INFO - initilizing framework
+2019-07-12 19:14:20,626 - com.mobiotics.hits.TESTCASES.ProductAddBasePackTest -INFO - initilizing framework
+2019-07-12 19:14:29,440 - com.mobiotics.hits.TESTCASES.Product_AddAllA_cartePageTest -INFO - initilizing framework
+2019-07-12 19:14:38,398 - com.mobiotics.hits.TESTCASES.Product_AddNxtPayBouquet -INFO - initilizing framework
+2019-07-12 19:14:58,236 - com.mobiotics.hits.TESTCASES.Product_CancleProduct -INFO - initilizing framework
+2019-07-12 19:15:04,861 - com.mobiotics.hits.TESTCASES.Product_ProductDisconnectPageTest -INFO - initilizing framework
+2019-07-12 19:15:25,822 - com.mobiotics.hits.TESTCASES.Product_ProductReconnectPageTest -INFO - initilizing framework
+2019-07-12 19:15:33,688 - com.mobiotics.hits.TESTCASES.Renew_AfterExpiryPageTest -INFO - initilizing framework
+2019-07-12 19:15:43,644 - com.mobiotics.hits.TESTCASES.renew_BeforeExpiryPageTest -INFO - initilizing framework
+2019-07-12 19:16:01,667 - com.mobiotics.hits.TESTCASES.Report_ExpiryReportPageTest -INFO - initilizing framework
+2019-07-12 19:16:08,714 - com.mobiotics.hits.TESTCASES.Report_JobReport -INFO - initilizing framework
+2019-07-12 19:16:17,561 - com.mobiotics.hits.TESTCASES.Report_ListPaymentPageTest -INFO - initilizing framework
+2019-07-12 19:16:37,601 - com.mobiotics.hits.TESTCASES.Device_RetrackActiveDevicePageTest -INFO - initilizing framework

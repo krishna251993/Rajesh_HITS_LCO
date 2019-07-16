@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+
+<listeners>
+	<listener class-name="com.mobiotics.hits.utilities.Reporting" />
+
+</listeners>
+  <test thread-count="5" name="Test">
+    <classes>
+    
+    <class name="com.mobiotics.hits.TESTCASES.Connection_ActivatePending_PlansPage"/>
+    <class name="com.mobiotics.hits.TESTCASES.AddNxtPayBouquet1PageTest" />
+     <!--  --><class name="com.mobiotics.hits.TESTCASES.Customer_createCustomerPageTest"/>
+    
+      <!--  --><class name="com.mobiotics.hits.TESTCASES.Customer_ListCustomerPageTest"/>
+      
+      
+      
+      <!--  --><class name="com.mobiotics.hits.TESTCASES.Customer_ModifyCustomerPageTest"/>
+      
+      
+      <!--  <class name="com.mobiotics.hits.TESTCASES.Customer_RefundFeatureTest"/>-->
+      
+      <!--  --><class name="com.mobiotics.hits.TESTCASES.Customer_SubscriberPageTest"/>
+     
+     <!--  --><class name="com.mobiotics.hits.TESTCASES.Device_ListDevicesPageTest"/>
+     
+      
+      <!--  --><class name="com.mobiotics.hits.TESTCASES.Device_RetrackActiveDevicePageTest"/>
+      
+      
+      <!--  --><class name="com.mobiotics.hits.TESTCASES.DeviceSuspensionPageTest"/>
+      <!--  --><class name="com.mobiotics.hits.TESTCASES.OSDMsgServiceTest"/>
+      
+      <!-- <class name="com.mobiotics.hits.TESTCASES.testPayment_AddPaymentPageTest"/>  -->
+      
+      
+      <class name="com.mobiotics.hits.TESTCASES.Payment_PayForBoxPageTest"/> 
+      
+      <class name="com.mobiotics.hits.TESTCASES.ProductAddBasePackTest"/>
+      
+      <class name="com.mobiotics.hits.TESTCASES.Product_AddAllA_cartePageTest"/> 
+      
+      <class name="com.mobiotics.hits.TESTCASES.Product_AddNxtPayBouquet"/> 
+      
+      <class name="com.mobiotics.hits.TESTCASES.Product_CancleProduct"/> 
+      
+      <class name="com.mobiotics.hits.TESTCASES.Product_ProductDisconnectPageTest"/> 
+      
+      <class name="com.mobiotics.hits.TESTCASES.Product_ProductReconnectPageTest"/> 
+      
+       
+      
+      <class name="com.mobiotics.hits.TESTCASES.Renew_AfterExpiryPageTest"/> 
+      
+      <class name="com.mobiotics.hits.TESTCASES.renew_BeforeExpiryPageTest"/> 
+      
+      <class name="com.mobiotics.hits.TESTCASES.Report_ExpiryReportPageTest"/> 
+      
+      <class name="com.mobiotics.hits.TESTCASES.Report_JobReport"/> 
+      
+      <class name="com.mobiotics.hits.TESTCASES.Report_ListPaymentPageTest"/> 
+      
+      <!-- <class name="com.mobiotics.hits.ReTrack_DeActivePageTest "/> --> 
+      
+    
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

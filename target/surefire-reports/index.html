@@ -1,0 +1,1508 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+  <meta charset='utf-8'>
+  <title>TestNG reports</title>
+
+    <link type="text/css" href="testng-reports.css" rel="stylesheet" />
+    <script type="text/javascript" src="jquery-1.7.1.min.js"></script>
+    <script type="text/javascript" src="testng-reports.js"></script>
+    <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+    <script type='text/javascript'>
+      google.load('visualization', '1', {packages:['table']});
+      google.setOnLoadCallback(drawTable);
+      var suiteTableInitFunctions = new Array();
+      var suiteTableData = new Array();
+    </script>
+    <!--
+      <script type="text/javascript" src="jquery-ui/js/jquery-ui-1.8.16.custom.min.js"></script>
+     -->
+  </head>
+
+  <body>
+    <div class="top-banner-root">
+      <span class="top-banner-title-font">Test results</span>
+      <br/>
+      <span class="top-banner-font-1">1 suite</span>
+    </div> <!-- top-banner-root -->
+    <div class="navigator-root">
+      <div class="navigator-suite-header">
+        <span>All suites</span>
+        <a href="#" class="collapse-all-link" title="Collapse/expand all the suites">
+          <img class="collapse-all-icon" src="collapseall.gif">
+          </img> <!-- collapse-all-icon -->
+        </a> <!-- collapse-all-link -->
+      </div> <!-- navigator-suite-header -->
+      <div class="suite">
+        <div class="rounded-window">
+          <div class="suite-header light-rounded-window-top">
+            <a href="#" class="navigator-link" panel-name="suite-Suite">
+              <span class="suite-name border-skipped">Suite</span>
+            </a> <!-- navigator-link -->
+          </div> <!-- suite-header light-rounded-window-top -->
+          <div class="navigator-suite-content">
+            <div class="suite-section-title">
+              <span>Info</span>
+            </div> <!-- suite-section-title -->
+            <div class="suite-section-content">
+              <ul>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="test-xml-Suite">
+                    <span>D:\mobiotics_imcl_automation\HITS_LCO\testng.xml</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="testlist-Suite">
+                    <span class="test-stats">1 test</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="group-Suite">
+                    <span>0 groups</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="times-Suite">
+                    <span>Times</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="reporter-Suite">
+                    <span>Reporter output</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="ignored-methods-Suite">
+                    <span>Ignored methods</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="chronological-Suite">
+                    <span>Chronological view</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+              </ul>
+            </div> <!-- suite-section-content -->
+            <div class="result-section">
+              <div class="suite-section-title">
+                <span>Results</span>
+              </div> <!-- suite-section-title -->
+              <div class="suite-section-content">
+                <ul>
+                  <li>
+                    <span class="method-stats">23 methods,  22 skipped,  1 passed</span>
+                  </li>
+                  <li>
+                    <span class="method-list-title skipped">Skipped methods</span>
+                    <span class="show-or-hide-methods skipped">
+                      <a href="#" panel-name="suite-Suite" class="hide-methods skipped suite-Suite"> (hide)</a> <!-- hide-methods skipped suite-Suite -->
+                      <a href="#" panel-name="suite-Suite" class="show-methods skipped suite-Suite"> (show)</a> <!-- show-methods skipped suite-Suite -->
+                    </span>
+                    <div class="method-list-content skipped suite-Suite">
+                      <span>
+                        <img width="3%" src="skipped.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Suite" title="com.mobiotics.hits.TESTCASES.ProductAddBasePackTest" hash-for-method="AddBasePackTest">AddBasePackTest</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="skipped.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Suite" title="com.mobiotics.hits.TESTCASES.Device_ListDevicesPageTest" hash-for-method="ListDevicePageTest">ListDevicePageTest</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="skipped.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Suite" title="com.mobiotics.hits.TESTCASES.Report_JobReport" hash-for-method="Report_JobReportPageTest">Report_JobReportPageTest</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="skipped.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Suite" title="com.mobiotics.hits.TESTCASES.Product_AddAllA_cartePageTest" hash-for-method="addAllA_CartePageTest">addAllA_CartePageTest</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="skipped.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Suite" title="com.mobiotics.hits.TESTCASES.AddNxtPayBouquet1PageTest" hash-for-method="addNxtPayBouquet1">addNxtPayBouquet1</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="skipped.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Suite" title="com.mobiotics.hits.TESTCASES.Product_AddNxtPayBouquet" hash-for-method="addNxt_PayBouquet">addNxt_PayBouquet</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="skipped.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Suite" title="com.mobiotics.hits.TESTCASES.Product_CancleProduct" hash-for-method="cancleProductPageTest">cancleProductPageTest</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="skipped.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Suite" title="com.mobiotics.hits.TESTCASES.DeviceSuspensionPageTest" hash-for-method="deviceSuspensionTestMethod">deviceSuspensionTestMethod</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="skipped.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Suite" title="com.mobiotics.hits.TESTCASES.Product_ProductDisconnectPageTest" hash-for-method="product_ProductDisconnectPageTest">product_ProductDisconnectPageTest</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="skipped.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Suite" title="com.mobiotics.hits.TESTCASES.renew_BeforeExpiryPageTest" hash-for-method="renewExpired_Product">renewExpired_Product</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="skipped.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Suite" title="com.mobiotics.hits.TESTCASES.Customer_SubscriberPageTest" hash-for-method="subscriberPage_Test">subscriberPage_Test</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="skipped.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Suite" title="com.mobiotics.hits.TESTCASES.Customer_ListCustomerPageTest" hash-for-method="testCustomer3_ListCustomerPAgeTest">testCustomer3_ListCustomerPAgeTest</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="skipped.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Suite" title="com.mobiotics.hits.TESTCASES.Customer_createCustomerPageTest" hash-for-method="testCustomer_CreateCustomerPageTest">testCustomer_CreateCustomerPageTest</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="skipped.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Suite" title="com.mobiotics.hits.TESTCASES.Customer_ModifyCustomerPageTest" hash-for-method="testCustomer_ModifyCustomerPageTest">testCustomer_ModifyCustomerPageTest</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="skipped.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Suite" title="com.mobiotics.hits.TESTCASES.OSDMsgServiceTest" hash-for-method="testDevice_OSDMessageServicePageTest">testDevice_OSDMessageServicePageTest</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="skipped.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Suite" title="com.mobiotics.hits.TESTCASES.Device_RetrackActiveDevicePageTest" hash-for-method="testDevice_RetrackActiveDevicePageTest">testDevice_RetrackActiveDevicePageTest</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="skipped.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Suite" title="com.mobiotics.hits.TESTCASES.Device_RetrackActiveDevicePageTest" hash-for-method="testDevice_RetrackActiveDevicePageTestInBulk">testDevice_RetrackActiveDevicePageTestInBulk</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="skipped.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Suite" title="com.mobiotics.hits.TESTCASES.Report_ListPaymentPageTest" hash-for-method="testPayment_ListPaymentPageTest">testPayment_ListPaymentPageTest</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="skipped.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Suite" title="com.mobiotics.hits.TESTCASES.Payment_PayForBoxPageTest" hash-for-method="testPayment_PayForBox">testPayment_PayForBox</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="skipped.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Suite" title="com.mobiotics.hits.TESTCASES.Product_ProductReconnectPageTest" hash-for-method="testProduct_productReconnectPageTest">testProduct_productReconnectPageTest</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="skipped.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Suite" title="com.mobiotics.hits.TESTCASES.Renew_AfterExpiryPageTest" hash-for-method="testRenew_AfterExpiryPageTest">testRenew_AfterExpiryPageTest</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="skipped.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Suite" title="com.mobiotics.hits.TESTCASES.Report_ExpiryReportPageTest" hash-for-method="testReport_ExpiryReportPageTest">testReport_ExpiryReportPageTest</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                    </div> <!-- method-list-content skipped suite-Suite -->
+                  </li>
+                  <li>
+                    <span class="method-list-title passed">Passed methods</span>
+                    <span class="show-or-hide-methods passed">
+                      <a href="#" panel-name="suite-Suite" class="hide-methods passed suite-Suite"> (hide)</a> <!-- hide-methods passed suite-Suite -->
+                      <a href="#" panel-name="suite-Suite" class="show-methods passed suite-Suite"> (show)</a> <!-- show-methods passed suite-Suite -->
+                    </span>
+                    <div class="method-list-content passed suite-Suite">
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Suite" title="com.mobiotics.hits.TESTCASES.Connection_ActivatePending_PlansPage" hash-for-method="activatePendingPlanTest">activatePendingPlanTest</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                    </div> <!-- method-list-content passed suite-Suite -->
+                  </li>
+                </ul>
+              </div> <!-- suite-section-content -->
+            </div> <!-- result-section -->
+          </div> <!-- navigator-suite-content -->
+        </div> <!-- rounded-window -->
+      </div> <!-- suite -->
+    </div> <!-- navigator-root -->
+    <div class="wrapper">
+      <div class="main-panel-root">
+        <div panel-name="suite-Suite" class="panel Suite">
+          <div class="suite-Suite-class-skipped">
+            <div class="main-panel-header rounded-window-top">
+              <img src="skipped.png"/>
+              <span class="class-name">com.mobiotics.hits.TESTCASES.Customer_ModifyCustomerPageTest</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="testCustomer_ModifyCustomerPageTest">
+                  </a> <!-- testCustomer_ModifyCustomerPageTest -->
+                  <span class="method-name">testCustomer_ModifyCustomerPageTest</span>
+                  <div class="stack-trace">org.openqa.selenium.WebDriverException: unknown error: cannot determine loading status
+from disconnected: received Inspector.detached event
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 2.71 seconds
+Build info: version: &apos;2.53.1&apos;, revision: &apos;a36b8b1cd5757287168e54b817830adce9b0158d&apos;, time: &apos;2016-06-30 19:26:09&apos;
+System info: host: &apos;LAPTOP-A313QKMS-rajesh&apos;, ip: &apos;192.168.241.2&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_101&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:56582}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a), userDataDir=C:\Users\sande\AppData\Local\Temp\scoped_dir1020_29104}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, version=75.0.3770.100, browserConnectionEnabled=false, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 4c5211ad4403a29d8384d1243774feb7
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)
+	at org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:316)
+	at com.mobiotics.hits.constants.BaseTest.initApplication(BaseTest.java:85)
+... Removed 35 stack frames
+</div> <!-- stack-trace -->
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Suite-class-skipped -->
+          <div class="suite-Suite-class-skipped">
+            <div class="main-panel-header rounded-window-top">
+              <img src="skipped.png"/>
+              <span class="class-name">com.mobiotics.hits.TESTCASES.Product_AddNxtPayBouquet</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="addNxt_PayBouquet">
+                  </a> <!-- addNxt_PayBouquet -->
+                  <span class="method-name">addNxt_PayBouquet</span>
+                  <div class="stack-trace">org.openqa.selenium.WebDriverException: chrome not reachable
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 6.11 seconds
+Build info: version: &apos;2.53.1&apos;, revision: &apos;a36b8b1cd5757287168e54b817830adce9b0158d&apos;, time: &apos;2016-06-30 19:26:09&apos;
+System info: host: &apos;LAPTOP-A313QKMS-rajesh&apos;, ip: &apos;192.168.241.2&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_101&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:56772}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a), userDataDir=C:\Users\sande\AppData\Local\Temp\scoped_dir24212_23355}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, version=75.0.3770.100, browserConnectionEnabled=false, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 5ec4ab134e503869b44ca77648293a2b
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)
+	at org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:316)
+	at com.mobiotics.hits.constants.BaseTest.initApplication(BaseTest.java:85)
+... Removed 35 stack frames
+</div> <!-- stack-trace -->
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Suite-class-skipped -->
+          <div class="suite-Suite-class-skipped">
+            <div class="main-panel-header rounded-window-top">
+              <img src="skipped.png"/>
+              <span class="class-name">com.mobiotics.hits.TESTCASES.Report_ExpiryReportPageTest</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="testReport_ExpiryReportPageTest">
+                  </a> <!-- testReport_ExpiryReportPageTest -->
+                  <span class="method-name">testReport_ExpiryReportPageTest</span>
+                  <div class="stack-trace">org.openqa.selenium.WebDriverException: unknown error: cannot determine loading status
+from disconnected: received Inspector.detached event
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 2.26 seconds
+Build info: version: &apos;2.53.1&apos;, revision: &apos;a36b8b1cd5757287168e54b817830adce9b0158d&apos;, time: &apos;2016-06-30 19:26:09&apos;
+System info: host: &apos;LAPTOP-A313QKMS-rajesh&apos;, ip: &apos;192.168.241.2&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_101&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:56908}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a), userDataDir=C:\Users\sande\AppData\Local\Temp\scoped_dir22012_32567}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, version=75.0.3770.100, browserConnectionEnabled=false, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 3b71a99e41c3a60ef5bd94794613a455
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)
+	at org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:316)
+	at com.mobiotics.hits.constants.BaseTest.initApplication(BaseTest.java:85)
+... Removed 33 stack frames
+</div> <!-- stack-trace -->
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Suite-class-skipped -->
+          <div class="suite-Suite-class-skipped">
+            <div class="main-panel-header rounded-window-top">
+              <img src="skipped.png"/>
+              <span class="class-name">com.mobiotics.hits.TESTCASES.Device_ListDevicesPageTest</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="ListDevicePageTest">
+                  </a> <!-- ListDevicePageTest -->
+                  <span class="method-name">ListDevicePageTest</span>
+                  <div class="stack-trace">org.openqa.selenium.WebDriverException: chrome not reachable
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 6.09 seconds
+Build info: version: &apos;2.53.1&apos;, revision: &apos;a36b8b1cd5757287168e54b817830adce9b0158d&apos;, time: &apos;2016-06-30 19:26:09&apos;
+System info: host: &apos;LAPTOP-A313QKMS-rajesh&apos;, ip: &apos;192.168.241.2&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_101&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:56618}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a), userDataDir=C:\Users\sande\AppData\Local\Temp\scoped_dir16468_789}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, version=75.0.3770.100, browserConnectionEnabled=false, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: e0dcdf4abf620a6cb81cd6431eb6421b
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)
+	at org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:316)
+	at com.mobiotics.hits.constants.BaseTest.initApplication(BaseTest.java:85)
+... Removed 35 stack frames
+</div> <!-- stack-trace -->
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Suite-class-skipped -->
+          <div class="suite-Suite-class-skipped">
+            <div class="main-panel-header rounded-window-top">
+              <img src="skipped.png"/>
+              <span class="class-name">com.mobiotics.hits.TESTCASES.renew_BeforeExpiryPageTest</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="renewExpired_Product">
+                  </a> <!-- renewExpired_Product -->
+                  <span class="method-name">renewExpired_Product</span>
+                  <div class="stack-trace">org.openqa.selenium.WebDriverException: unknown error: cannot determine loading status
+from disconnected: received Inspector.detached event
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 13.27 seconds
+Build info: version: &apos;2.53.1&apos;, revision: &apos;a36b8b1cd5757287168e54b817830adce9b0158d&apos;, time: &apos;2016-06-30 19:26:09&apos;
+System info: host: &apos;LAPTOP-A313QKMS-rajesh&apos;, ip: &apos;192.168.241.2&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_101&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:56884}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a), userDataDir=C:\Users\sande\AppData\Local\Temp\scoped_dir18520_9099}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, version=75.0.3770.100, browserConnectionEnabled=false, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 901e62513f8537fa48679972fac25c7b
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)
+	at org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:316)
+	at com.mobiotics.hits.constants.BaseTest.initApplication(BaseTest.java:85)
+... Removed 34 stack frames
+</div> <!-- stack-trace -->
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Suite-class-skipped -->
+          <div class="suite-Suite-class-skipped">
+            <div class="main-panel-header rounded-window-top">
+              <img src="skipped.png"/>
+              <span class="class-name">com.mobiotics.hits.TESTCASES.Report_ListPaymentPageTest</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="testPayment_ListPaymentPageTest">
+                  </a> <!-- testPayment_ListPaymentPageTest -->
+                  <span class="method-name">testPayment_ListPaymentPageTest</span>
+                  <div class="stack-trace">org.openqa.selenium.WebDriverException: chrome not reachable
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 6.08 seconds
+Build info: version: &apos;2.53.1&apos;, revision: &apos;a36b8b1cd5757287168e54b817830adce9b0158d&apos;, time: &apos;2016-06-30 19:26:09&apos;
+System info: host: &apos;LAPTOP-A313QKMS-rajesh&apos;, ip: &apos;192.168.241.2&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_101&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:56941}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a), userDataDir=C:\Users\sande\AppData\Local\Temp\scoped_dir7700_24662}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, version=75.0.3770.100, browserConnectionEnabled=false, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 96f8d24576eeabdd44e5b0f9f73bb09f
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)
+	at org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:316)
+	at com.mobiotics.hits.constants.BaseTest.initApplication(BaseTest.java:85)
+... Removed 33 stack frames
+</div> <!-- stack-trace -->
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Suite-class-skipped -->
+          <div class="suite-Suite-class-skipped">
+            <div class="main-panel-header rounded-window-top">
+              <img src="skipped.png"/>
+              <span class="class-name">com.mobiotics.hits.TESTCASES.Product_ProductReconnectPageTest</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="testProduct_productReconnectPageTest">
+                  </a> <!-- testProduct_productReconnectPageTest -->
+                  <span class="method-name">testProduct_productReconnectPageTest</span>
+                  <div class="stack-trace">org.openqa.selenium.WebDriverException: unknown error: cannot determine loading status
+from disconnected: received Inspector.detached event
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 2.84 seconds
+Build info: version: &apos;2.53.1&apos;, revision: &apos;a36b8b1cd5757287168e54b817830adce9b0158d&apos;, time: &apos;2016-06-30 19:26:09&apos;
+System info: host: &apos;LAPTOP-A313QKMS-rajesh&apos;, ip: &apos;192.168.241.2&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_101&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:56849}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a), userDataDir=C:\Users\sande\AppData\Local\Temp\scoped_dir21116_32025}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, version=75.0.3770.100, browserConnectionEnabled=false, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: bee1afabed1c0d43352038c069c6c702
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)
+	at org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:316)
+	at com.mobiotics.hits.constants.BaseTest.initApplication(BaseTest.java:85)
+... Removed 35 stack frames
+</div> <!-- stack-trace -->
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Suite-class-skipped -->
+          <div class="suite-Suite-class-skipped">
+            <div class="main-panel-header rounded-window-top">
+              <img src="skipped.png"/>
+              <span class="class-name">com.mobiotics.hits.TESTCASES.Product_ProductDisconnectPageTest</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="product_ProductDisconnectPageTest">
+                  </a> <!-- product_ProductDisconnectPageTest -->
+                  <span class="method-name">product_ProductDisconnectPageTest</span>
+                  <div class="stack-trace">org.openqa.selenium.WebDriverException: unknown error: cannot determine loading status
+from disconnected: received Inspector.detached event
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 13.86 seconds
+Build info: version: &apos;2.53.1&apos;, revision: &apos;a36b8b1cd5757287168e54b817830adce9b0158d&apos;, time: &apos;2016-06-30 19:26:09&apos;
+System info: host: &apos;LAPTOP-A313QKMS-rajesh&apos;, ip: &apos;192.168.241.2&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_101&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:56829}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a), userDataDir=C:\Users\sande\AppData\Local\Temp\scoped_dir6820_4249}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, version=75.0.3770.100, browserConnectionEnabled=false, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: d44d35bab65b1fb117a8a280ffd426fb
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)
+	at org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:316)
+	at com.mobiotics.hits.constants.BaseTest.initApplication(BaseTest.java:85)
+... Removed 35 stack frames
+</div> <!-- stack-trace -->
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Suite-class-skipped -->
+          <div class="suite-Suite-class-skipped">
+            <div class="main-panel-header rounded-window-top">
+              <img src="skipped.png"/>
+              <span class="class-name">com.mobiotics.hits.TESTCASES.DeviceSuspensionPageTest</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="deviceSuspensionTestMethod">
+                  </a> <!-- deviceSuspensionTestMethod -->
+                  <span class="method-name">deviceSuspensionTestMethod</span>
+                  <div class="stack-trace">org.openqa.selenium.WebDriverException: unknown error: cannot determine loading status
+from disconnected: unable to send message to renderer
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 2.04 seconds
+Build info: version: &apos;2.53.1&apos;, revision: &apos;a36b8b1cd5757287168e54b817830adce9b0158d&apos;, time: &apos;2016-06-30 19:26:09&apos;
+System info: host: &apos;LAPTOP-A313QKMS-rajesh&apos;, ip: &apos;192.168.241.2&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_101&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:56664}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a), userDataDir=C:\Users\sande\AppData\Local\Temp\scoped_dir20508_23644}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, version=75.0.3770.100, browserConnectionEnabled=false, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 89c0d62e2c326bfe161ee56a8116d79c
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)
+	at org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:316)
+	at com.mobiotics.hits.constants.BaseTest.initApplication(BaseTest.java:85)
+... Removed 35 stack frames
+</div> <!-- stack-trace -->
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Suite-class-skipped -->
+          <div class="suite-Suite-class-skipped">
+            <div class="main-panel-header rounded-window-top">
+              <img src="skipped.png"/>
+              <span class="class-name">com.mobiotics.hits.TESTCASES.Product_AddAllA_cartePageTest</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="addAllA_CartePageTest">
+                  </a> <!-- addAllA_CartePageTest -->
+                  <span class="method-name">addAllA_CartePageTest</span>
+                  <div class="stack-trace">org.openqa.selenium.WebDriverException: unknown error: cannot determine loading status
+from disconnected: received Inspector.detached event
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 1.61 seconds
+Build info: version: &apos;2.53.1&apos;, revision: &apos;a36b8b1cd5757287168e54b817830adce9b0158d&apos;, time: &apos;2016-06-30 19:26:09&apos;
+System info: host: &apos;LAPTOP-A313QKMS-rajesh&apos;, ip: &apos;192.168.241.2&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_101&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:56756}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a), userDataDir=C:\Users\sande\AppData\Local\Temp\scoped_dir23580_31820}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, version=75.0.3770.100, browserConnectionEnabled=false, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: cb0518acfcfe22d2dc3a56a4c34d0c44
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)
+	at org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:316)
+	at com.mobiotics.hits.constants.BaseTest.initApplication(BaseTest.java:85)
+... Removed 35 stack frames
+</div> <!-- stack-trace -->
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Suite-class-skipped -->
+          <div class="suite-Suite-class-skipped">
+            <div class="main-panel-header rounded-window-top">
+              <img src="skipped.png"/>
+              <span class="class-name">com.mobiotics.hits.TESTCASES.Customer_SubscriberPageTest</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="subscriberPage_Test">
+                  </a> <!-- subscriberPage_Test -->
+                  <span class="method-name">subscriberPage_Test</span>
+                  <div class="stack-trace">org.openqa.selenium.WebDriverException: unknown error: cannot determine loading status
+from disconnected: unable to send message to renderer
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 1.21 seconds
+Build info: version: &apos;2.53.1&apos;, revision: &apos;a36b8b1cd5757287168e54b817830adce9b0158d&apos;, time: &apos;2016-06-30 19:26:09&apos;
+System info: host: &apos;LAPTOP-A313QKMS-rajesh&apos;, ip: &apos;192.168.241.2&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_101&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:56603}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a), userDataDir=C:\Users\sande\AppData\Local\Temp\scoped_dir16064_11074}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, version=75.0.3770.100, browserConnectionEnabled=false, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 99739ef452d1d98cdbc500d26c09c655
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)
+	at org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:316)
+	at com.mobiotics.hits.constants.BaseTest.initApplication(BaseTest.java:85)
+... Removed 35 stack frames
+</div> <!-- stack-trace -->
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Suite-class-skipped -->
+          <div class="suite-Suite-class-skipped">
+            <div class="main-panel-header rounded-window-top">
+              <img src="skipped.png"/>
+              <span class="class-name">com.mobiotics.hits.TESTCASES.AddNxtPayBouquet1PageTest</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="addNxtPayBouquet1">
+                  </a> <!-- addNxtPayBouquet1 -->
+                  <span class="method-name">addNxtPayBouquet1</span>
+                  <div class="stack-trace">org.openqa.selenium.WebDriverException: unknown error: cannot determine loading status
+from disconnected: received Inspector.detached event
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 16.38 seconds
+Build info: version: &apos;2.53.1&apos;, revision: &apos;a36b8b1cd5757287168e54b817830adce9b0158d&apos;, time: &apos;2016-06-30 19:26:09&apos;
+System info: host: &apos;LAPTOP-A313QKMS-rajesh&apos;, ip: &apos;192.168.241.2&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_101&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:56520}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a), userDataDir=C:\Users\sande\AppData\Local\Temp\scoped_dir13148_29470}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, version=75.0.3770.100, browserConnectionEnabled=false, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 4949d176b12e01236b8d1f6b3fefc100
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)
+	at org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:316)
+	at com.mobiotics.hits.constants.BaseTest.initApplication(BaseTest.java:85)
+... Removed 35 stack frames
+</div> <!-- stack-trace -->
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Suite-class-skipped -->
+          <div class="suite-Suite-class-skipped">
+            <div class="main-panel-header rounded-window-top">
+              <img src="skipped.png"/>
+              <span class="class-name">com.mobiotics.hits.TESTCASES.Customer_ListCustomerPageTest</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="testCustomer3_ListCustomerPAgeTest">
+                  </a> <!-- testCustomer3_ListCustomerPAgeTest -->
+                  <span class="method-name">testCustomer3_ListCustomerPAgeTest</span>
+                  <div class="stack-trace">org.openqa.selenium.WebDriverException: unknown error: cannot determine loading status
+from disconnected: unable to send message to renderer
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 1.73 seconds
+Build info: version: &apos;2.53.1&apos;, revision: &apos;a36b8b1cd5757287168e54b817830adce9b0158d&apos;, time: &apos;2016-06-30 19:26:09&apos;
+System info: host: &apos;LAPTOP-A313QKMS-rajesh&apos;, ip: &apos;192.168.241.2&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_101&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:56567}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a), userDataDir=C:\Users\sande\AppData\Local\Temp\scoped_dir7452_5355}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, version=75.0.3770.100, browserConnectionEnabled=false, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 4f37eab5c6151af5adebadf7d5777e6d
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)
+	at org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:316)
+	at com.mobiotics.hits.constants.BaseTest.initApplication(BaseTest.java:85)
+... Removed 35 stack frames
+</div> <!-- stack-trace -->
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Suite-class-skipped -->
+          <div class="suite-Suite-class-skipped">
+            <div class="main-panel-header rounded-window-top">
+              <img src="skipped.png"/>
+              <span class="class-name">com.mobiotics.hits.TESTCASES.Customer_createCustomerPageTest</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="testCustomer_CreateCustomerPageTest">
+                  </a> <!-- testCustomer_CreateCustomerPageTest -->
+                  <span class="method-name">testCustomer_CreateCustomerPageTest</span>
+                  <div class="stack-trace">org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {&quot;method&quot;:&quot;xpath&quot;,&quot;selector&quot;:&quot;//div[@class=&apos;first form-group&apos;]//input[@name=&apos;username&apos;]&quot;}
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 100 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: &apos;2.53.1&apos;, revision: &apos;a36b8b1cd5757287168e54b817830adce9b0158d&apos;, time: &apos;2016-06-30 19:26:09&apos;
+System info: host: &apos;LAPTOP-A313QKMS-rajesh&apos;, ip: &apos;192.168.241.2&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_101&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:56540}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a), userDataDir=C:\Users\sande\AppData\Local\Temp\scoped_dir21452_9390}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, version=75.0.3770.100, browserConnectionEnabled=false, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: d34e5e86d3458e8bbce4313c0ea686ee
+*** Element info: {Using=xpath, value=//div[@class=&apos;first form-group&apos;]//input[@name=&apos;username&apos;]}
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:363)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:500)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:361)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:355)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+	at com.sun.proxy.$Proxy5.sendKeys(Unknown Source)
+	at com.mobiotics.hits.commonpages.LoginPage.setUserName(LoginPage.java:28)
+	at com.mobiotics.hits.constants.BaseTest.preCondition(BaseTest.java:95)
+	at com.mobiotics.hits.constants.BaseTest.initApplication(BaseTest.java:86)
+... Removed 35 stack frames
+</div> <!-- stack-trace -->
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Suite-class-skipped -->
+          <div class="suite-Suite-class-skipped">
+            <div class="main-panel-header rounded-window-top">
+              <img src="skipped.png"/>
+              <span class="class-name">com.mobiotics.hits.TESTCASES.ProductAddBasePackTest</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="AddBasePackTest">
+                  </a> <!-- AddBasePackTest -->
+                  <span class="method-name">AddBasePackTest</span>
+                  <div class="stack-trace">org.openqa.selenium.WebDriverException: unknown error: cannot determine loading status
+from disconnected: received Inspector.detached event
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 3.50 seconds
+Build info: version: &apos;2.53.1&apos;, revision: &apos;a36b8b1cd5757287168e54b817830adce9b0158d&apos;, time: &apos;2016-06-30 19:26:09&apos;
+System info: host: &apos;LAPTOP-A313QKMS-rajesh&apos;, ip: &apos;192.168.241.2&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_101&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:56736}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a), userDataDir=C:\Users\sande\AppData\Local\Temp\scoped_dir9976_25804}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, version=75.0.3770.100, browserConnectionEnabled=false, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: fdd6f55541d38eaa36991c88e11fcf53
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)
+	at org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:316)
+	at com.mobiotics.hits.constants.BaseTest.initApplication(BaseTest.java:85)
+... Removed 35 stack frames
+</div> <!-- stack-trace -->
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Suite-class-skipped -->
+          <div class="suite-Suite-class-skipped">
+            <div class="main-panel-header rounded-window-top">
+              <img src="skipped.png"/>
+              <span class="class-name">com.mobiotics.hits.TESTCASES.Product_CancleProduct</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="cancleProductPageTest">
+                  </a> <!-- cancleProductPageTest -->
+                  <span class="method-name">cancleProductPageTest</span>
+                  <div class="stack-trace">org.openqa.selenium.WebDriverException: unknown error: unhandled inspector error: {&quot;code&quot;:-32000,&quot;message&quot;:&quot;No target with given id&quot;}
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 1.24 seconds
+Build info: version: &apos;2.53.1&apos;, revision: &apos;a36b8b1cd5757287168e54b817830adce9b0158d&apos;, time: &apos;2016-06-30 19:26:09&apos;
+System info: host: &apos;LAPTOP-A313QKMS-rajesh&apos;, ip: &apos;192.168.241.2&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_101&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:56814}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a), userDataDir=C:\Users\sande\AppData\Local\Temp\scoped_dir1620_8522}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, version=75.0.3770.100, browserConnectionEnabled=false, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 61dabf81f1920557d6356441e1090f45
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)
+	at org.openqa.selenium.remote.RemoteWebDriver$RemoteWebDriverOptions$RemoteWindow.maximize(RemoteWebDriver.java:945)
+	at com.mobiotics.hits.constants.BaseTest.initApplication(BaseTest.java:84)
+... Removed 35 stack frames
+</div> <!-- stack-trace -->
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Suite-class-skipped -->
+          <div class="suite-Suite-class-skipped">
+            <div class="main-panel-header rounded-window-top">
+              <img src="skipped.png"/>
+              <span class="class-name">com.mobiotics.hits.TESTCASES.Report_JobReport</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="Report_JobReportPageTest">
+                  </a> <!-- Report_JobReportPageTest -->
+                  <span class="method-name">Report_JobReportPageTest</span>
+                  <div class="stack-trace">org.openqa.selenium.WebDriverException: unknown error: cannot determine loading status
+from disconnected: unable to send message to renderer
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 4.15 seconds
+Build info: version: &apos;2.53.1&apos;, revision: &apos;a36b8b1cd5757287168e54b817830adce9b0158d&apos;, time: &apos;2016-06-30 19:26:09&apos;
+System info: host: &apos;LAPTOP-A313QKMS-rajesh&apos;, ip: &apos;192.168.241.2&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_101&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:56924}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a), userDataDir=C:\Users\sande\AppData\Local\Temp\scoped_dir17376_16966}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, version=75.0.3770.100, browserConnectionEnabled=false, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 7775dd5860a75e44463ba340bf28b0b9
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)
+	at org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:316)
+	at com.mobiotics.hits.constants.BaseTest.initApplication(BaseTest.java:85)
+... Removed 33 stack frames
+</div> <!-- stack-trace -->
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Suite-class-skipped -->
+          <div class="suite-Suite-class-skipped">
+            <div class="main-panel-header rounded-window-top">
+              <img src="skipped.png"/>
+              <span class="class-name">com.mobiotics.hits.TESTCASES.OSDMsgServiceTest</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="testDevice_OSDMessageServicePageTest">
+                  </a> <!-- testDevice_OSDMessageServicePageTest -->
+                  <span class="method-name">testDevice_OSDMessageServicePageTest</span>
+                  <div class="stack-trace">org.openqa.selenium.WebDriverException: unknown error: unhandled inspector error: {&quot;code&quot;:-32000,&quot;message&quot;:&quot;No target with given id&quot;}
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 1.08 seconds
+Build info: version: &apos;2.53.1&apos;, revision: &apos;a36b8b1cd5757287168e54b817830adce9b0158d&apos;, time: &apos;2016-06-30 19:26:09&apos;
+System info: host: &apos;LAPTOP-A313QKMS-rajesh&apos;, ip: &apos;192.168.241.2&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_101&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:56683}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a), userDataDir=C:\Users\sande\AppData\Local\Temp\scoped_dir12048_28172}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, version=75.0.3770.100, browserConnectionEnabled=false, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 62c18a66c495baf172a3a9b018f2a246
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)
+	at org.openqa.selenium.remote.RemoteWebDriver$RemoteWebDriverOptions$RemoteWindow.maximize(RemoteWebDriver.java:945)
+	at com.mobiotics.hits.constants.BaseTest.initApplication(BaseTest.java:84)
+... Removed 35 stack frames
+</div> <!-- stack-trace -->
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Suite-class-skipped -->
+          <div class="suite-Suite-class-skipped">
+            <div class="main-panel-header rounded-window-top">
+              <img src="skipped.png"/>
+              <span class="class-name">com.mobiotics.hits.TESTCASES.Renew_AfterExpiryPageTest</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="testRenew_AfterExpiryPageTest">
+                  </a> <!-- testRenew_AfterExpiryPageTest -->
+                  <span class="method-name">testRenew_AfterExpiryPageTest</span>
+                  <div class="stack-trace">org.openqa.selenium.WebDriverException: unknown error: cannot determine loading status
+from disconnected: unable to send message to renderer
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 4.19 seconds
+Build info: version: &apos;2.53.1&apos;, revision: &apos;a36b8b1cd5757287168e54b817830adce9b0158d&apos;, time: &apos;2016-06-30 19:26:09&apos;
+System info: host: &apos;LAPTOP-A313QKMS-rajesh&apos;, ip: &apos;192.168.241.2&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_101&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:56866}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a), userDataDir=C:\Users\sande\AppData\Local\Temp\scoped_dir19704_13462}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, version=75.0.3770.100, browserConnectionEnabled=false, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 9a9c4a009105922602122c0a53604d0b
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)
+	at org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:316)
+	at com.mobiotics.hits.constants.BaseTest.initApplication(BaseTest.java:85)
+... Removed 34 stack frames
+</div> <!-- stack-trace -->
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Suite-class-skipped -->
+          <div class="suite-Suite-class-skipped">
+            <div class="main-panel-header rounded-window-top">
+              <img src="skipped.png"/>
+              <span class="class-name">com.mobiotics.hits.TESTCASES.Payment_PayForBoxPageTest</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="testPayment_PayForBox">
+                  </a> <!-- testPayment_PayForBox -->
+                  <span class="method-name">testPayment_PayForBox</span>
+                  <div class="stack-trace">org.openqa.selenium.WebDriverException: chrome not reachable
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 6.07 seconds
+Build info: version: &apos;2.53.1&apos;, revision: &apos;a36b8b1cd5757287168e54b817830adce9b0158d&apos;, time: &apos;2016-06-30 19:26:09&apos;
+System info: host: &apos;LAPTOP-A313QKMS-rajesh&apos;, ip: &apos;192.168.241.2&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_101&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:56697}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a), userDataDir=C:\Users\sande\AppData\Local\Temp\scoped_dir19896_7793}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, version=75.0.3770.100, browserConnectionEnabled=false, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: d97b1e702be4e99ffbd70aeeaba49f71
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)
+	at org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:316)
+	at com.mobiotics.hits.constants.BaseTest.initApplication(BaseTest.java:85)
+... Removed 35 stack frames
+</div> <!-- stack-trace -->
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Suite-class-skipped -->
+          <div class="suite-Suite-class-skipped">
+            <div class="main-panel-header rounded-window-top">
+              <img src="skipped.png"/>
+              <span class="class-name">com.mobiotics.hits.TESTCASES.Device_RetrackActiveDevicePageTest</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="testDevice_RetrackActiveDevicePageTest">
+                  </a> <!-- testDevice_RetrackActiveDevicePageTest -->
+                  <span class="method-name">testDevice_RetrackActiveDevicePageTest</span>
+                  <div class="stack-trace">org.openqa.selenium.WebDriverException: chrome not reachable
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 6.12 seconds
+Build info: version: &apos;2.53.1&apos;, revision: &apos;a36b8b1cd5757287168e54b817830adce9b0158d&apos;, time: &apos;2016-06-30 19:26:09&apos;
+System info: host: &apos;LAPTOP-A313QKMS-rajesh&apos;, ip: &apos;192.168.241.2&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_101&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:56984}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a), userDataDir=C:\Users\sande\AppData\Local\Temp\scoped_dir12616_1121}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, version=75.0.3770.100, browserConnectionEnabled=false, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 9c235bfd51e0ffcefedbbbdd37fbe0e9
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)
+	at org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:316)
+	at com.mobiotics.hits.constants.BaseTest.initApplication(BaseTest.java:85)
+... Removed 33 stack frames
+</div> <!-- stack-trace -->
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="testDevice_RetrackActiveDevicePageTestInBulk">
+                  </a> <!-- testDevice_RetrackActiveDevicePageTestInBulk -->
+                  <span class="method-name">testDevice_RetrackActiveDevicePageTestInBulk</span>
+                  <div class="stack-trace">org.openqa.selenium.WebDriverException: chrome not reachable
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 6.12 seconds
+Build info: version: &apos;2.53.1&apos;, revision: &apos;a36b8b1cd5757287168e54b817830adce9b0158d&apos;, time: &apos;2016-06-30 19:26:09&apos;
+System info: host: &apos;LAPTOP-A313QKMS-rajesh&apos;, ip: &apos;192.168.241.2&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_101&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:56984}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a), userDataDir=C:\Users\sande\AppData\Local\Temp\scoped_dir12616_1121}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, version=75.0.3770.100, browserConnectionEnabled=false, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 9c235bfd51e0ffcefedbbbdd37fbe0e9
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)
+	at org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:316)
+	at com.mobiotics.hits.constants.BaseTest.initApplication(BaseTest.java:85)
+... Removed 33 stack frames
+</div> <!-- stack-trace -->
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Suite-class-skipped -->
+          <div class="suite-Suite-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">com.mobiotics.hits.TESTCASES.Connection_ActivatePending_PlansPage</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="activatePendingPlanTest">
+                  </a> <!-- activatePendingPlanTest -->
+                  <span class="method-name">activatePendingPlanTest</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Suite-class-passed -->
+        </div> <!-- panel Suite -->
+        <div panel-name="test-xml-Suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">D:\mobiotics_imcl_automation\HITS_LCO\testng.xml</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <pre>
+&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
+&lt;!DOCTYPE suite SYSTEM &quot;http://testng.org/testng-1.0.dtd&quot;&gt;
+&lt;suite guice-stage=&quot;DEVELOPMENT&quot; verbose=&quot;0&quot; name=&quot;Suite&quot;&gt;
+  &lt;listeners&gt;
+    &lt;listener class-name=&quot;com.mobiotics.hits.utilities.Reporting&quot;/&gt;
+  &lt;/listeners&gt;
+  &lt;test thread-count=&quot;5&quot; verbose=&quot;0&quot; name=&quot;Test&quot;&gt;
+    &lt;classes&gt;
+      &lt;class name=&quot;com.mobiotics.hits.TESTCASES.Connection_ActivatePending_PlansPage&quot;/&gt;
+      &lt;class name=&quot;com.mobiotics.hits.TESTCASES.AddNxtPayBouquet1PageTest&quot;/&gt;
+      &lt;class name=&quot;com.mobiotics.hits.TESTCASES.Customer_createCustomerPageTest&quot;/&gt;
+      &lt;class name=&quot;com.mobiotics.hits.TESTCASES.Customer_ListCustomerPageTest&quot;/&gt;
+      &lt;class name=&quot;com.mobiotics.hits.TESTCASES.Customer_ModifyCustomerPageTest&quot;/&gt;
+      &lt;class name=&quot;com.mobiotics.hits.TESTCASES.Customer_SubscriberPageTest&quot;/&gt;
+      &lt;class name=&quot;com.mobiotics.hits.TESTCASES.Device_ListDevicesPageTest&quot;/&gt;
+      &lt;class name=&quot;com.mobiotics.hits.TESTCASES.Device_RetrackActiveDevicePageTest&quot;/&gt;
+      &lt;class name=&quot;com.mobiotics.hits.TESTCASES.DeviceSuspensionPageTest&quot;/&gt;
+      &lt;class name=&quot;com.mobiotics.hits.TESTCASES.OSDMsgServiceTest&quot;/&gt;
+      &lt;class name=&quot;com.mobiotics.hits.TESTCASES.Payment_PayForBoxPageTest&quot;/&gt;
+      &lt;class name=&quot;com.mobiotics.hits.TESTCASES.ProductAddBasePackTest&quot;/&gt;
+      &lt;class name=&quot;com.mobiotics.hits.TESTCASES.Product_AddAllA_cartePageTest&quot;/&gt;
+      &lt;class name=&quot;com.mobiotics.hits.TESTCASES.Product_AddNxtPayBouquet&quot;/&gt;
+      &lt;class name=&quot;com.mobiotics.hits.TESTCASES.Product_CancleProduct&quot;/&gt;
+      &lt;class name=&quot;com.mobiotics.hits.TESTCASES.Product_ProductDisconnectPageTest&quot;/&gt;
+      &lt;class name=&quot;com.mobiotics.hits.TESTCASES.Product_ProductReconnectPageTest&quot;/&gt;
+      &lt;class name=&quot;com.mobiotics.hits.TESTCASES.Renew_AfterExpiryPageTest&quot;/&gt;
+      &lt;class name=&quot;com.mobiotics.hits.TESTCASES.renew_BeforeExpiryPageTest&quot;/&gt;
+      &lt;class name=&quot;com.mobiotics.hits.TESTCASES.Report_ExpiryReportPageTest&quot;/&gt;
+      &lt;class name=&quot;com.mobiotics.hits.TESTCASES.Report_JobReport&quot;/&gt;
+      &lt;class name=&quot;com.mobiotics.hits.TESTCASES.Report_ListPaymentPageTest&quot;/&gt;
+    &lt;/classes&gt;
+  &lt;/test&gt; &lt;!-- Test --&gt;
+&lt;/suite&gt; &lt;!-- Suite --&gt;
+            </pre>
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="testlist-Suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Tests for Suite</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <ul>
+              <li>
+                <span class="test-name">Test (22 classes)</span>
+              </li>
+            </ul>
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="group-Suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Groups for Suite</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="times-Suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Times for Suite</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="times-div">
+              <script type="text/javascript">
+suiteTableInitFunctions.push('tableData_Suite');
+function tableData_Suite() {
+var data = new google.visualization.DataTable();
+data.addColumn('number', 'Number');
+data.addColumn('string', 'Method');
+data.addColumn('string', 'Class');
+data.addColumn('number', 'Time (ms)');
+data.addRows(23);
+data.setCell(0, 0, 0)
+data.setCell(0, 1, 'activatePendingPlanTest')
+data.setCell(0, 2, 'com.mobiotics.hits.TESTCASES.Connection_ActivatePending_PlansPage')
+data.setCell(0, 3, 22879);
+data.setCell(1, 0, 1)
+data.setCell(1, 1, 'testDevice_OSDMessageServicePageTest')
+data.setCell(1, 2, 'com.mobiotics.hits.TESTCASES.OSDMsgServiceTest')
+data.setCell(1, 3, 15);
+data.setCell(2, 0, 2)
+data.setCell(2, 1, 'testRenew_AfterExpiryPageTest')
+data.setCell(2, 2, 'com.mobiotics.hits.TESTCASES.Renew_AfterExpiryPageTest')
+data.setCell(2, 3, 0);
+data.setCell(3, 0, 3)
+data.setCell(3, 1, 'testPayment_PayForBox')
+data.setCell(3, 2, 'com.mobiotics.hits.TESTCASES.Payment_PayForBoxPageTest')
+data.setCell(3, 3, 0);
+data.setCell(4, 0, 4)
+data.setCell(4, 1, 'testCustomer_ModifyCustomerPageTest')
+data.setCell(4, 2, 'com.mobiotics.hits.TESTCASES.Customer_ModifyCustomerPageTest')
+data.setCell(4, 3, 0);
+data.setCell(5, 0, 5)
+data.setCell(5, 1, 'addNxt_PayBouquet')
+data.setCell(5, 2, 'com.mobiotics.hits.TESTCASES.Product_AddNxtPayBouquet')
+data.setCell(5, 3, 0);
+data.setCell(6, 0, 6)
+data.setCell(6, 1, 'Report_JobReportPageTest')
+data.setCell(6, 2, 'com.mobiotics.hits.TESTCASES.Report_JobReport')
+data.setCell(6, 3, 0);
+data.setCell(7, 0, 7)
+data.setCell(7, 1, 'testProduct_productReconnectPageTest')
+data.setCell(7, 2, 'com.mobiotics.hits.TESTCASES.Product_ProductReconnectPageTest')
+data.setCell(7, 3, 0);
+data.setCell(8, 0, 8)
+data.setCell(8, 1, 'addNxtPayBouquet1')
+data.setCell(8, 2, 'com.mobiotics.hits.TESTCASES.AddNxtPayBouquet1PageTest')
+data.setCell(8, 3, 0);
+data.setCell(9, 0, 9)
+data.setCell(9, 1, 'testDevice_RetrackActiveDevicePageTestInBulk')
+data.setCell(9, 2, 'com.mobiotics.hits.TESTCASES.Device_RetrackActiveDevicePageTest')
+data.setCell(9, 3, 0);
+data.setCell(10, 0, 10)
+data.setCell(10, 1, 'product_ProductDisconnectPageTest')
+data.setCell(10, 2, 'com.mobiotics.hits.TESTCASES.Product_ProductDisconnectPageTest')
+data.setCell(10, 3, 0);
+data.setCell(11, 0, 11)
+data.setCell(11, 1, 'deviceSuspensionTestMethod')
+data.setCell(11, 2, 'com.mobiotics.hits.TESTCASES.DeviceSuspensionPageTest')
+data.setCell(11, 3, 0);
+data.setCell(12, 0, 12)
+data.setCell(12, 1, 'testDevice_RetrackActiveDevicePageTest')
+data.setCell(12, 2, 'com.mobiotics.hits.TESTCASES.Device_RetrackActiveDevicePageTest')
+data.setCell(12, 3, 0);
+data.setCell(13, 0, 13)
+data.setCell(13, 1, 'testReport_ExpiryReportPageTest')
+data.setCell(13, 2, 'com.mobiotics.hits.TESTCASES.Report_ExpiryReportPageTest')
+data.setCell(13, 3, 0);
+data.setCell(14, 0, 14)
+data.setCell(14, 1, 'testCustomer3_ListCustomerPAgeTest')
+data.setCell(14, 2, 'com.mobiotics.hits.TESTCASES.Customer_ListCustomerPageTest')
+data.setCell(14, 3, 0);
+data.setCell(15, 0, 15)
+data.setCell(15, 1, 'testPayment_ListPaymentPageTest')
+data.setCell(15, 2, 'com.mobiotics.hits.TESTCASES.Report_ListPaymentPageTest')
+data.setCell(15, 3, 0);
+data.setCell(16, 0, 16)
+data.setCell(16, 1, 'subscriberPage_Test')
+data.setCell(16, 2, 'com.mobiotics.hits.TESTCASES.Customer_SubscriberPageTest')
+data.setCell(16, 3, 0);
+data.setCell(17, 0, 17)
+data.setCell(17, 1, 'ListDevicePageTest')
+data.setCell(17, 2, 'com.mobiotics.hits.TESTCASES.Device_ListDevicesPageTest')
+data.setCell(17, 3, 0);
+data.setCell(18, 0, 18)
+data.setCell(18, 1, 'renewExpired_Product')
+data.setCell(18, 2, 'com.mobiotics.hits.TESTCASES.renew_BeforeExpiryPageTest')
+data.setCell(18, 3, 0);
+data.setCell(19, 0, 19)
+data.setCell(19, 1, 'cancleProductPageTest')
+data.setCell(19, 2, 'com.mobiotics.hits.TESTCASES.Product_CancleProduct')
+data.setCell(19, 3, 0);
+data.setCell(20, 0, 20)
+data.setCell(20, 1, 'addAllA_CartePageTest')
+data.setCell(20, 2, 'com.mobiotics.hits.TESTCASES.Product_AddAllA_cartePageTest')
+data.setCell(20, 3, 0);
+data.setCell(21, 0, 21)
+data.setCell(21, 1, 'testCustomer_CreateCustomerPageTest')
+data.setCell(21, 2, 'com.mobiotics.hits.TESTCASES.Customer_createCustomerPageTest')
+data.setCell(21, 3, 0);
+data.setCell(22, 0, 22)
+data.setCell(22, 1, 'AddBasePackTest')
+data.setCell(22, 2, 'com.mobiotics.hits.TESTCASES.ProductAddBasePackTest')
+data.setCell(22, 3, 0);
+window.suiteTableData['Suite']= { tableData: data, tableDiv: 'times-div-Suite'}
+return data;
+}
+              </script>
+              <span class="suite-total-time">Total running time: 22 seconds</span>
+              <div id="times-div-Suite">
+              </div> <!-- times-div-Suite -->
+            </div> <!-- times-div -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="reporter-Suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Reporter output for Suite</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="ignored-methods-Suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">0 ignored methods</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="chronological-Suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Methods in chronological order</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.mobiotics.hits.TESTCASES.Connection_ActivatePending_PlansPage</div> <!-- chronological-class-name -->
+              <div class="configuration-method before">
+                <span class="method-name">initApplication</span>
+                <span class="method-start">0 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">activatePendingPlanTest</span>
+                <span class="method-start">21472 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">shutDown</span>
+                <span class="method-start">44398 ms</span>
+              </div> <!-- configuration-method after -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.mobiotics.hits.TESTCASES.AddNxtPayBouquet1PageTest</div> <!-- chronological-class-name -->
+              <div class="configuration-method before">
+                <img src="failed.png">
+                </img>
+                <span class="method-name">initApplication</span>
+                <span class="method-start">44398 ms</span>
+              </div> <!-- configuration-method before -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.mobiotics.hits.TESTCASES.Customer_createCustomerPageTest</div> <!-- chronological-class-name -->
+              <div class="configuration-method before">
+                <img src="failed.png">
+                </img>
+                <span class="method-name">initApplication</span>
+                <span class="method-start">65616 ms</span>
+              </div> <!-- configuration-method before -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.mobiotics.hits.TESTCASES.Customer_ListCustomerPageTest</div> <!-- chronological-class-name -->
+              <div class="configuration-method before">
+                <img src="failed.png">
+                </img>
+                <span class="method-name">initApplication</span>
+                <span class="method-start">92110 ms</span>
+              </div> <!-- configuration-method before -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.mobiotics.hits.TESTCASES.Customer_ModifyCustomerPageTest</div> <!-- chronological-class-name -->
+              <div class="configuration-method before">
+                <img src="failed.png">
+                </img>
+                <span class="method-name">initApplication</span>
+                <span class="method-start">100025 ms</span>
+              </div> <!-- configuration-method before -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.mobiotics.hits.TESTCASES.Customer_SubscriberPageTest</div> <!-- chronological-class-name -->
+              <div class="configuration-method before">
+                <img src="failed.png">
+                </img>
+                <span class="method-name">initApplication</span>
+                <span class="method-start">110276 ms</span>
+              </div> <!-- configuration-method before -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.mobiotics.hits.TESTCASES.Device_ListDevicesPageTest</div> <!-- chronological-class-name -->
+              <div class="configuration-method before">
+                <img src="failed.png">
+                </img>
+                <span class="method-name">initApplication</span>
+                <span class="method-start">119061 ms</span>
+              </div> <!-- configuration-method before -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.mobiotics.hits.TESTCASES.DeviceSuspensionPageTest</div> <!-- chronological-class-name -->
+              <div class="configuration-method before">
+                <img src="failed.png">
+                </img>
+                <span class="method-name">initApplication</span>
+                <span class="method-start">140670 ms</span>
+              </div> <!-- configuration-method before -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.mobiotics.hits.TESTCASES.OSDMsgServiceTest</div> <!-- chronological-class-name -->
+              <div class="configuration-method before">
+                <img src="failed.png">
+                </img>
+                <span class="method-name">initApplication</span>
+                <span class="method-start">148650 ms</span>
+              </div> <!-- configuration-method before -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.mobiotics.hits.TESTCASES.Payment_PayForBoxPageTest</div> <!-- chronological-class-name -->
+              <div class="configuration-method before">
+                <img src="failed.png">
+                </img>
+                <span class="method-name">initApplication</span>
+                <span class="method-start">155814 ms</span>
+              </div> <!-- configuration-method before -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.mobiotics.hits.TESTCASES.ProductAddBasePackTest</div> <!-- chronological-class-name -->
+              <div class="configuration-method before">
+                <img src="failed.png">
+                </img>
+                <span class="method-name">initApplication</span>
+                <span class="method-start">170965 ms</span>
+              </div> <!-- configuration-method before -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.mobiotics.hits.TESTCASES.Product_AddAllA_cartePageTest</div> <!-- chronological-class-name -->
+              <div class="configuration-method before">
+                <img src="failed.png">
+                </img>
+                <span class="method-name">initApplication</span>
+                <span class="method-start">179783 ms</span>
+              </div> <!-- configuration-method before -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.mobiotics.hits.TESTCASES.Product_AddNxtPayBouquet</div> <!-- chronological-class-name -->
+              <div class="configuration-method before">
+                <img src="failed.png">
+                </img>
+                <span class="method-name">initApplication</span>
+                <span class="method-start">188741 ms</span>
+              </div> <!-- configuration-method before -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.mobiotics.hits.TESTCASES.Product_CancleProduct</div> <!-- chronological-class-name -->
+              <div class="configuration-method before">
+                <img src="failed.png">
+                </img>
+                <span class="method-name">initApplication</span>
+                <span class="method-start">208579 ms</span>
+              </div> <!-- configuration-method before -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.mobiotics.hits.TESTCASES.Product_ProductDisconnectPageTest</div> <!-- chronological-class-name -->
+              <div class="configuration-method before">
+                <img src="failed.png">
+                </img>
+                <span class="method-name">initApplication</span>
+                <span class="method-start">215204 ms</span>
+              </div> <!-- configuration-method before -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.mobiotics.hits.TESTCASES.Product_ProductReconnectPageTest</div> <!-- chronological-class-name -->
+              <div class="configuration-method before">
+                <img src="failed.png">
+                </img>
+                <span class="method-name">initApplication</span>
+                <span class="method-start">236165 ms</span>
+              </div> <!-- configuration-method before -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.mobiotics.hits.TESTCASES.Renew_AfterExpiryPageTest</div> <!-- chronological-class-name -->
+              <div class="configuration-method before">
+                <img src="failed.png">
+                </img>
+                <span class="method-name">initApplication</span>
+                <span class="method-start">244031 ms</span>
+              </div> <!-- configuration-method before -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.mobiotics.hits.TESTCASES.renew_BeforeExpiryPageTest</div> <!-- chronological-class-name -->
+              <div class="configuration-method before">
+                <img src="failed.png">
+                </img>
+                <span class="method-name">initApplication</span>
+                <span class="method-start">253987 ms</span>
+              </div> <!-- configuration-method before -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.mobiotics.hits.TESTCASES.Report_ExpiryReportPageTest</div> <!-- chronological-class-name -->
+              <div class="configuration-method before">
+                <img src="failed.png">
+                </img>
+                <span class="method-name">initApplication</span>
+                <span class="method-start">272010 ms</span>
+              </div> <!-- configuration-method before -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.mobiotics.hits.TESTCASES.Report_JobReport</div> <!-- chronological-class-name -->
+              <div class="configuration-method before">
+                <img src="failed.png">
+                </img>
+                <span class="method-name">initApplication</span>
+                <span class="method-start">279057 ms</span>
+              </div> <!-- configuration-method before -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.mobiotics.hits.TESTCASES.Report_ListPaymentPageTest</div> <!-- chronological-class-name -->
+              <div class="configuration-method before">
+                <img src="failed.png">
+                </img>
+                <span class="method-name">initApplication</span>
+                <span class="method-start">287904 ms</span>
+              </div> <!-- configuration-method before -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.mobiotics.hits.TESTCASES.Device_RetrackActiveDevicePageTest</div> <!-- chronological-class-name -->
+              <div class="configuration-method before">
+                <img src="failed.png">
+                </img>
+                <span class="method-name">initApplication</span>
+                <span class="method-start">307944 ms</span>
+              </div> <!-- configuration-method before -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.mobiotics.hits.TESTCASES.AddNxtPayBouquet1PageTest</div> <!-- chronological-class-name -->
+              <div class="test-method">
+                <span class="method-name">addNxtPayBouquet1</span>
+                <span class="method-start">-1562938889657 ms</span>
+              </div> <!-- test-method -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.mobiotics.hits.TESTCASES.Customer_createCustomerPageTest</div> <!-- chronological-class-name -->
+              <div class="test-method">
+                <span class="method-name">testCustomer_CreateCustomerPageTest</span>
+                <span class="method-start">-1562938889657 ms</span>
+              </div> <!-- test-method -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.mobiotics.hits.TESTCASES.Customer_ListCustomerPageTest</div> <!-- chronological-class-name -->
+              <div class="test-method">
+                <span class="method-name">testCustomer3_ListCustomerPAgeTest</span>
+                <span class="method-start">-1562938889657 ms</span>
+              </div> <!-- test-method -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.mobiotics.hits.TESTCASES.Customer_ModifyCustomerPageTest</div> <!-- chronological-class-name -->
+              <div class="test-method">
+                <span class="method-name">testCustomer_ModifyCustomerPageTest</span>
+                <span class="method-start">-1562938889657 ms</span>
+              </div> <!-- test-method -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.mobiotics.hits.TESTCASES.Customer_SubscriberPageTest</div> <!-- chronological-class-name -->
+              <div class="test-method">
+                <span class="method-name">subscriberPage_Test</span>
+                <span class="method-start">-1562938889657 ms</span>
+              </div> <!-- test-method -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.mobiotics.hits.TESTCASES.Device_ListDevicesPageTest</div> <!-- chronological-class-name -->
+              <div class="test-method">
+                <span class="method-name">ListDevicePageTest</span>
+                <span class="method-start">-1562938889657 ms</span>
+              </div> <!-- test-method -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.mobiotics.hits.TESTCASES.DeviceSuspensionPageTest</div> <!-- chronological-class-name -->
+              <div class="test-method">
+                <span class="method-name">deviceSuspensionTestMethod</span>
+                <span class="method-start">-1562938889657 ms</span>
+              </div> <!-- test-method -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.mobiotics.hits.TESTCASES.OSDMsgServiceTest</div> <!-- chronological-class-name -->
+              <div class="test-method">
+                <span class="method-name">testDevice_OSDMessageServicePageTest</span>
+                <span class="method-start">-1562938889657 ms</span>
+              </div> <!-- test-method -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.mobiotics.hits.TESTCASES.Payment_PayForBoxPageTest</div> <!-- chronological-class-name -->
+              <div class="test-method">
+                <span class="method-name">testPayment_PayForBox</span>
+                <span class="method-start">-1562938889657 ms</span>
+              </div> <!-- test-method -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.mobiotics.hits.TESTCASES.ProductAddBasePackTest</div> <!-- chronological-class-name -->
+              <div class="test-method">
+                <span class="method-name">AddBasePackTest</span>
+                <span class="method-start">-1562938889657 ms</span>
+              </div> <!-- test-method -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.mobiotics.hits.TESTCASES.Product_AddAllA_cartePageTest</div> <!-- chronological-class-name -->
+              <div class="test-method">
+                <span class="method-name">addAllA_CartePageTest</span>
+                <span class="method-start">-1562938889657 ms</span>
+              </div> <!-- test-method -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.mobiotics.hits.TESTCASES.Product_AddNxtPayBouquet</div> <!-- chronological-class-name -->
+              <div class="test-method">
+                <span class="method-name">addNxt_PayBouquet</span>
+                <span class="method-start">-1562938889657 ms</span>
+              </div> <!-- test-method -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.mobiotics.hits.TESTCASES.Product_CancleProduct</div> <!-- chronological-class-name -->
+              <div class="test-method">
+                <span class="method-name">cancleProductPageTest</span>
+                <span class="method-start">-1562938889657 ms</span>
+              </div> <!-- test-method -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.mobiotics.hits.TESTCASES.Product_ProductDisconnectPageTest</div> <!-- chronological-class-name -->
+              <div class="test-method">
+                <span class="method-name">product_ProductDisconnectPageTest</span>
+                <span class="method-start">-1562938889657 ms</span>
+              </div> <!-- test-method -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.mobiotics.hits.TESTCASES.Product_ProductReconnectPageTest</div> <!-- chronological-class-name -->
+              <div class="test-method">
+                <span class="method-name">testProduct_productReconnectPageTest</span>
+                <span class="method-start">-1562938889657 ms</span>
+              </div> <!-- test-method -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.mobiotics.hits.TESTCASES.Renew_AfterExpiryPageTest</div> <!-- chronological-class-name -->
+              <div class="test-method">
+                <span class="method-name">testRenew_AfterExpiryPageTest</span>
+                <span class="method-start">-1562938889657 ms</span>
+              </div> <!-- test-method -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.mobiotics.hits.TESTCASES.renew_BeforeExpiryPageTest</div> <!-- chronological-class-name -->
+              <div class="test-method">
+                <span class="method-name">renewExpired_Product</span>
+                <span class="method-start">-1562938889657 ms</span>
+              </div> <!-- test-method -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.mobiotics.hits.TESTCASES.Report_ExpiryReportPageTest</div> <!-- chronological-class-name -->
+              <div class="test-method">
+                <span class="method-name">testReport_ExpiryReportPageTest</span>
+                <span class="method-start">-1562938889657 ms</span>
+              </div> <!-- test-method -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.mobiotics.hits.TESTCASES.Report_JobReport</div> <!-- chronological-class-name -->
+              <div class="test-method">
+                <span class="method-name">Report_JobReportPageTest</span>
+                <span class="method-start">-1562938889657 ms</span>
+              </div> <!-- test-method -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.mobiotics.hits.TESTCASES.Report_ListPaymentPageTest</div> <!-- chronological-class-name -->
+              <div class="test-method">
+                <span class="method-name">testPayment_ListPaymentPageTest</span>
+                <span class="method-start">-1562938889657 ms</span>
+              </div> <!-- test-method -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.mobiotics.hits.TESTCASES.Device_RetrackActiveDevicePageTest</div> <!-- chronological-class-name -->
+              <div class="test-method">
+                <span class="method-name">testDevice_RetrackActiveDevicePageTest</span>
+                <span class="method-start">-1562938889657 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">testDevice_RetrackActiveDevicePageTestInBulk</span>
+                <span class="method-start">-1562938889657 ms</span>
+              </div> <!-- test-method -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+      </div> <!-- main-panel-root -->
+    </div> <!-- wrapper -->
+  </body>
+</html>
